@@ -1,3 +1,5 @@
+#Code to query relevant data from https://www-nds.iaea.org/relnsd/v1/data?
+#which seems to be an easier approach than dealing with pyensdf, raw ensdf databases, nudel, etc.
 import os
 import requests
 import time
@@ -18,12 +20,14 @@ def queryAPI(destination,arg):
   if os.path.exists(destination):
     return
   try:
+    print("Downloading...")
     r = requests.get(basePath+arg, timeout=10)
     if r.text.strip() == "5":
       print("Returned 5")
       return
     with open(destination,"w") as outFile:
       outFile.write(r.text)
+    time.sleep(0.1)
   except Exception:
     print("Exception")
     return
@@ -65,16 +69,15 @@ if os.path.exists("data/all.csv"):
 ########################
 for gnd_state in gnd_states:
   isotope=f"{gnd_state['A']}{gnd_state['symbol']}"
-  print(f"querying {isotope}")
+  print(f"querying levels for {isotope}")
   queryAPI(f"data/levels/{isotope}.csv",arg=f"fields=levels&nuclides={isotope}")
-  time.sleep(0.1)
 
 ################
 ##Query gammas##
 ################
 for gnd_state in gnd_states:
   isotope=f"{gnd_state['A']}{gnd_state['symbol']}"
-  print(f"querying {isotope}")
+  print(f"querying gammas for {isotope}")
   queryAPI(f"data/gammas/{isotope}.csv",arg=f"fields=gammas&nuclides={isotope}")
   time.sleep(0.1)
 
@@ -83,7 +86,7 @@ for gnd_state in gnd_states:
 ########################
 for gnd_state in gnd_states:
   isotope=f"{gnd_state['A']}{gnd_state['symbol']}"
-  print(f"querying {isotope}")
+  print(f"querying decays for {isotope}")
   if "EC" in gnd_state["decay_channels"]:
     queryAPI(f"data/beta_ps/{isotope}.csv",arg=f"fields=decay_rads&nuclides={isotope}&rad_types=bp")
   if "B-" in gnd_state["decay_channels"]:
