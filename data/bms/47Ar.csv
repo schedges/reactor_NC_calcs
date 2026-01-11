@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1758,49,3,1,,5842.4,3948,100,5,0.2,A,2190,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+2774,49,26,3,,3762.1,6028,100,4.9,0.1,A,3250,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+2796,49,9,2,,3717.6,6072,100,5.4,0.1,A,3270,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+3630,50,7,3,,2020.0,7770,100,6,0.2,2NU,4130,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+4446,50,24,4,,360.0,9430,100,5.9,0.1,1NU,4980,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+4623,50,26,8,17.5,0.0,9790,100,5.9,0.2,1NU,5160,50,18,29,Ar,,0,,(3/2)-,1.23,,3,s,1.23,0.03,B-,100,,10344.7,18,19,28,K,20-Feb-2007,T. W. BURROWS,2025-10-17
+

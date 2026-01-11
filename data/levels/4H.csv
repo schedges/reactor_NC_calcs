@@ -1,0 +1,6 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+1,3,H,0,,0,,,2-,1,,,,,,,N,100,,,,,,,,1,,,,,8-OCT-1991,J. H. KELLEY and  D. R. TILLEY and  H.R. WELLER AND G.M. HALE,2025-10-16
+1,3,H,1,,310,,,1-,1,6.73,,,MeV,6.779163671194438e-23,0,N,100,,,,,,,,1,,,,,8-OCT-1991,J. H. KELLEY and  D. R. TILLEY and  H.R. WELLER AND G.M. HALE,2025-10-16
+1,3,H,2,,2080,,,0-,1,8.92,,,MeV,5.114772590486387e-23,0,N,100,,,,,,,,1,,,,,8-OCT-1991,J. H. KELLEY and  D. R. TILLEY and  H.R. WELLER AND G.M. HALE,2025-10-16
+1,3,H,3,,2830,,,1-,2,12.99,,,MeV,3.512222594852854e-23,0,N,100,,,,,,,,1,,,,,8-OCT-1991,J. H. KELLEY and  D. R. TILLEY and  H.R. WELLER AND G.M. HALE,2025-10-16
+

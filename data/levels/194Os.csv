@@ -1,0 +1,31 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+76,118,Os,0,,0,,,0+,1,6.0,,2,Y,189341555.847552,6311385.1949184,B-,100,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,1,,218.509,0.006,,(2+),1,302,,50,ps,0.000000000302,0.00000000005,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,2,,601.7,0.4,,(4+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,3,,656.54,0.009,,(2+),2,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,4,,696.5,0.5,,0+,2,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,5,,967.6,0.8,,(3+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,6,,1063.2,0.6,,(2+),3,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,7,,1090.5,0.7,,(4+),2,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,8,,1131.8,0.8,,(6+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,9,,1140.5,1,,(4+),3,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,10,,1284.7,0.6,,(4+),4,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,11,,1311,5,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,12,,1446.7,1.1,,(5+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,13,,1466,5,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,14,,1540,8,,0+,3,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,15,,1625.7,1.1,,(6+),2,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,16,,1670.7,1.2,,(5+),2,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,17,,1737,8,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,18,,1792.8,1.3,,(8+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,19,,1835,8,,0+,4,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,20,,1878,8,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,21,,1956,8,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,22,,2118,10,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,23,,2168,10,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,24,X,,,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,25,X,193.6,0.6,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,26,X,542.6,0.7,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,27,X,1096.5,0.7,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+76,118,Os,28,Y,,,,,,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+

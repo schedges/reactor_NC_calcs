@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+19,30,K,0,,0,,,(1/2+ 3/2+),1,1.26,,5,s,1.26,0.05,B-,100,,B-N,86,9,,,,,1.3386,0.0008,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+19,30,K,1,,91.7,0.3,,(1/2+ 3/2+),2,8,,5,ns,0.000000008,0.000000005,,,,,,,,,,,,,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+19,30,K,2,,862.8,0.3,,(5/2+),1,2.2,,4,ps,0.0000000000022,0.0000000000004,,,,,,,,,,,,,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+19,30,K,3,,1102.9,0.8,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+19,30,K,4,,1438.3,0.4,,(7/2+),1,0.35,GT,,ps,0.00000000000035,,,,,,,,,,,,,,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+19,30,K,5,,2104.2,0.5,,(7/2-),1,0.35,GT,,ps,0.00000000000035,,,,,,,,,,,,,,,,28-FEB-2011,BALRAJ SINGH,2025-10-16
+

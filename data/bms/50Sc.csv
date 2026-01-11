@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+402.7,6.6,0.251,0.015,,5807.25,1077,15,5.7,0.04,,675,8,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+565.3,6.8,0.145,0.018,,5440.74,1443,15,6.44,0.06,,879,8,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+592.8,6.8,0.149,0.019,,5379.90,1504,15,6.5,0.06,A,913,8,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+822.8,7,1.55,0.05,,4880.80,2003,15,6,0.02,A,1182,9,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+1157.7,7.2,0.35,,,4171.95,2712,15,7.2,,2NU,1539,9,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+1169.5,7.2,0.61,0.04,,4147.22,2737,15,6.98,0.03,A,1569,8,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+1625.8,7.3,88.4,1.5,0.000000000418,3198.732,3685,15,5.39,0.01,A,2059,9,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+1879.9,7.3,8.4,1.8,,2674.931,4209,15,6.7,0.1,A,2330,8,21,29,Sc,,0,,5+,102.5,,5,s,102.5,0.5,B-,100,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+2552.2,7.4,1,,,1553.8,5587,15,5.7,,A,,,21,29,Sc,,256.895,0.01,2+,0.35,,4,s,0.35,0.04,B-,1,,6894.7,25,22,28,Ti,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-17
+

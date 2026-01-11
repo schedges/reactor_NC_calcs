@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+28,39,Ni,0,,0,,,(1/2)-,1,21,,1,s,21,1,B-,100,,,,,,,,,0.601,0.005,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,1,,694.1,,,(5/2-),1,150,,4,ps,0.00000000015,0.000000000004,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,2,,1007.2,,,(9/2+),1,13.3,,2,us,0.0000133,0.0000002,,,,,,,,,,,0.56,0.03,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,3,,1140,30,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,4,,1710,22,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,5,,1970,40,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,6,,2155,,,(5/2-),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,7,,2390,,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+28,39,Ni,8,,3680,50,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+

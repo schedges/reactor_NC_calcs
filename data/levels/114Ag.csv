@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+47,67,Ag,0,,0,,,1+,1,4.6,,1,s,4.6,0.1,B-,100,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,1,,126.7,0.2,,0+ 1+ 2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,2,,136.7,0.2,,(-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,3,,199,,,(LE 6+),1,1.50,,5,ms,0.0015,0.00005,IT,100,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,4,,300.8,0.2,,(6-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,5,,358.5,0.3,,1+,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,6,Y,300.8,,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,7,X,300.8,,,(8-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,8,X,389.7,0.3,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,9,X,742.8,0.4,,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,10,X,1043.7,0.4,,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,11,X,1465.4,0.5,,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+47,67,Ag,12,X,1885.8,0.5,,(13-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2012,Jean Blachot,2025-10-17
+

@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+62,70,Sm,0,,0,,,0+,1,4.0,,3,s,4,0.3,EC+B+,100,,ECP,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,1,,131,1,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,2,,417,2,,(4+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,3,,833,2,,(6+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,4,,1354,2,,(8+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,5,,1962,2,,(10+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,6,,2647,3,,(12+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,7,,3408,3,,(14+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+62,70,Sm,8,,4245,3,,(16+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2022,YU. KHAZOV and  A.A. RODIONOV AND S. SAKHAROV and  BALRAJ SINGH,2025-10-17
+

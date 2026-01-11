@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+89,126,Ac,0,,0,,,9/2-,1,0.17,,1,s,0.17,0.01,A,99.91,0.02,EC+B+,0.09,0.02,,,,,4.14,0.06,0.04,0.1,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+89,126,Ac,1,,1317,0.5,,(13/2-),1,,,,,,,,,,,,,,,,,,,,,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+89,126,Ac,2,,1621,0.7,,(17/2-),1,30,,10,ns,0.00000003,0.00000001,,,,,,,,,,,7.74,0.13,,,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+89,126,Ac,3,,1796,0.9,,(21/2-),1,185,,30,ns,0.000000185,0.00000003,,,,,,,,,,,9.56,0.16,,,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+89,126,Ac,4,X,1796,,52,(23/2-),1,,,,,,,,,,,,,,,,,,,,,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+89,126,Ac,5,X,2438,,52,(29/2+),1,335,,10,ns,0.000000335,0.00000001,,,,,,,,,,,14.98,0.22,,,23-SEP-2013,A.K. Jain and  S. Singh and  B. Singh and  N. Kaur and  S. Lakshmai and  B. Maheshwari,2025-10-17
+

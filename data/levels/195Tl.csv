@@ -1,0 +1,91 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+81,114,Tl,0,,0,,,1/2+,1,1.16,,5,h,4176,180,EC+B+,100,,,,,,,,,1.57,0.04,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,1,,383.66,0.12,,3/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,2,,482.63,0.17,,9/2-,1,3.6,,4,s,3.6,0.4,IT,100,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,3,,777.55,0.17,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,4,,811.1,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,5,,876.69,0.19,,11/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,6,,1079.7,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,7,,1173.79,0.2,,9/2- 11/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,8,,1190.12,0.19,,13/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,9,,1267,0.3,,(1/2+ 3/2+ 5/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,10,,1285.3,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,11,,1360.95,0.22,,11/2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,12,,1378,,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,13,,1410.68,0.2,,11/2- 13/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,14,,1434.7,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,15,,1484.04,0.21,,13/2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,16,,1612.7,0.9,,(3/2+ 5/2+ 7/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,17,,1616.42,0.21,,9/2- 11/2- 13/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,18,,1618.74,0.2,,15/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,19,,1648.6,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,20,,1687.9,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,21,,1725.26,0.23,,(13/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,22,,1843.7,1,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,23,,1844.8,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,24,,1924.46,0.22,,17/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,25,,1944.61,0.21,,13/2-,3,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,26,,1991.47,0.22,,11/2- 13/2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,27,,2011.5,0.3,,17/2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,28,,2023.5,0.3,,11/2- 13/2- 15/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,29,,2033.7,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,30,,2037.1,0.3,,15/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,31,,2115.1,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,32,,2145.1,0.3,,(11/2 13/2 15/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,33,,2212.9,0.4,,17/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,34,,2361.9,0.4,,(11/2 13/2 15/2),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,35,,2367.9,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,36,,2470.1,0.3,,19/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,37,,2529.6,0.4,,19/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,38,,2581.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,39,,2587.4,0.3,,21/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,40,,2840.7,0.5,,21/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,41,,2861.1,0.4,,23/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,42,,3059.8,0.4,,25/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,43,,3157.1,0.5,,27/2(-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,44,,3201.9,0.5,,23/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,45,,3513.9,0.5,,25/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,46,,3729.6,0.5,,27/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,47,,3885.3,0.6,,29/2(+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,48,,4002.8,0.8,,31/2(+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,49,,4174.8,0.9,,33/2(+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,50,,4393.3,0.9,,35/2(+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,51,X,,,,J AP (11/2+),1,,,,,,,,,,,,,,,,,3.87,0.04,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,52,X,67.8,1,,J+1,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,53,X,146.2,0.5,,J+2,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,54,X,235.3,0.8,,J+3,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,55,X,334.4,0.7,,J+4,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,56,X,443.6,0.8,,J+5,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,57,X,563.2,0.8,,J+6,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,58,X,692.6,0.9,,J+7,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,59,X,832.9,0.9,,J+8,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,60,X,982,0.9,,J+9,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,61,X,1143.4,0.9,,J+10,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,62,X,1311.7,0.9,,J+11,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,63,X,1492.9,0.9,,J+12,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,64,X,1680.8,1,,J+13,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,65,X,1882.7,1,,J+14,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,66,X,2088.3,1,,J+15,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,67,X,2311.6,1,,J+16,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,68,X,2534,1.1,,J+17,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,69,X,2778.8,1.1,,J+18,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,70,X,3016.5,1.1,,J+19,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,71,X,3283.3,1.1,,J+20,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,72,X,3535.5,1.1,,J+21,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,73,X,3824.1,1.2,,J+22,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,74,X,4089.3,1.2,,J+23,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,75,X,4400.6,1.2,,J+24,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,76,X,4677.1,1.2,,J+25,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,77,X,5012.6,1.2,,J+26,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,78,X,5298.1,1.3,,J+27,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,79,X,5658.4,1.3,,J+28,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,80,X,5951.1,1.3,,J+29,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,81,X,6337.8,1.3,,J+30,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,82,X,6635.3,1.3,,J+31,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,83,X,7050.6,1.4,,J+32,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,84,X,7350.8,1.4,,J+33,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,85,X,7796.4,1.5,,J+34,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,86,X,8096.8,1.5,,J+35,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,87,X,8573.6,1.6,,J+36,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+81,114,Tl,88,X,8874.3,1.6,,J+37,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+

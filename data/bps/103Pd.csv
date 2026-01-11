@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,0.0,543.1,0.8,0.1,,8.9,,1U,,,46,57,Pd,,0,,5/2+,16.991,,19,d,1468022.4,1641.6,EC,100,,574.7,25,45,58,Rh,1-Mar-2009,D. DE FRENNE,2025-10-17
+,,,,,357.43,185.7,0.8,0.0248,0.0008,8.5,0.2,1NU,,,46,57,Pd,,0,,5/2+,16.991,,19,d,1468022.4,1641.6,EC,100,,574.7,25,45,58,Rh,1-Mar-2009,D. DE FRENNE,2025-10-17
+,,,,,295.00,248.1,0.8,0.00044,0.00011,10.5,0.1,1NU,,,46,57,Pd,,0,,5/2+,16.991,,19,d,1468022.4,1641.6,EC,100,,574.7,25,45,58,Rh,1-Mar-2009,D. DE FRENNE,2025-10-17
+,,,,,39.748,503.3,0.8,99.9,0.1,5.8,0.2,A,,,46,57,Pd,,0,,5/2+,16.991,,19,d,1468022.4,1641.6,EC,100,,574.7,25,45,58,Rh,1-Mar-2009,D. DE FRENNE,2025-10-17
+,,,,,536.832,6.3,0.8,0.0040,0.0002,5.1,0.2,A,,,46,57,Pd,,0,,5/2+,16.991,,19,d,1468022.4,1641.6,EC,100,,574.7,25,45,58,Rh,1-Mar-2009,D. DE FRENNE,2025-10-17
+

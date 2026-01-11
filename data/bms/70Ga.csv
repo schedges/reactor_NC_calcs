@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+136.22,0.55,0.32,0.01,0.0000000029,1215.628,436.1,1.5,5.431,0.015,A,300.3,0.9,31,39,Ga,,0,,1+,21.14,,5,m,1268.4,3,B-,99.59,0.05,1651.9,15,32,38,Ge,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-17
+202.29,0.59,0.36,0.02,,1039.513,612.2,1.5,5.895,0.025,A,410.8,1.4,31,39,Ga,,0,,1+,21.14,,5,m,1268.4,3,B-,99.59,0.05,1651.9,15,32,38,Ge,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-17
+647.96,0.69,98.91,0.06,,0.0,1651.7,1.5,5.0925,0.0018,A,1005.3,1.1,31,39,Ga,,0,,1+,21.14,,5,m,1268.4,3,B-,99.59,0.05,1651.9,15,32,38,Ge,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-17
+

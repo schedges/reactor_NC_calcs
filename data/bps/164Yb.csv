@@ -1,0 +1,16 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,40.928,1059,106,1.5,0,6.4,,,16.286,0.0018,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,571.6,528,53,0.03,0,7.2,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,675.55,424,42,0.50,0,5.5,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,928.40,172,17,0.10,0,6,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,37.575,1062,106,0.5,,6.9,,2NU,17.122,0.005,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,554.99,545,55,0.20,0,6.4,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,626.40,474,47,0.04,0,6.8,,,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,735.88,364,36,0.09,0,5.8,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,1060.14,40,4,0.06,0,4.2,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,0.0,1100,110,97,0.965,4.6,0.046,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,550.0,550,55,0.1,,6.7,,,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,581.69,518,52,0.32,0,6.1,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,732.72,367,37,0.07,0,6,,A,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+,,,,,951.98,148,15,0.16,0,5.6,,,,,70,94,Yb,,0,,0+,75.8,,17,m,4548,102,EC,100,,897,29,69,95,Tm,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+

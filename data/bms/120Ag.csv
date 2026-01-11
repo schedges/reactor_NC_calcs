@@ -1,0 +1,15 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,3880.1,4445,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3559.0,4766,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3500.9,4824,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,2449.8,5875,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3536.0,4789,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3329.0,4996,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3549.9,4775,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+,,,,,3423.9,4901,71,,,,,,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+2861,34,40,4,,2129.5,6398,71,4.7,0.047,,3532,37,47,73,Ag,,203,1,6(-),0.32,,4,s,0.32,0.04,B-,63,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+2907,34,17,1.7,,2033.7,6494,71,5.1,0.051,1NU,3577,38,47,73,Ag,,203,1,6(-),0.32,,4,s,0.32,0.04,B-,63,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+3148,34,20,2,,1323.07,7002,71,5.7,0.057,A,3844,38,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+3205,34,30,3,0.0000000000035,1203.7,7121,71,5.6,0.056,A,3906,37,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+3536,34,30,3,0.000000000018,505.94,7819,71,5.8,0.058,A,4272,37,47,73,Ag,,0,,3(+),1.23,,4,s,1.23,0.04,B-,100,,8306,6,48,72,Cd,1-DEC-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+

@@ -1,0 +1,10 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+4493,99,9.6,1.6,,13298,9462,200,4.4,0.1,,4970,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+5850,100,6.6,0.7,,10554,12206,200,5.1,0.1,,6350,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+6731,99,13,1,,8783,13977,200,5.1,0.1,,7240,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+7292,99,12,3,,7649,15111,200,5.3,0.1,,7810,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+7860,100,2,1,,6511,16249,200,6.2,0.2,1U,8370,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+8809,99,7,3,,4584,18176,200,5.9,0.2,3NU,9340,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+9494,99,15,3,,3198,19562,200,5.8,0.1,1U,10040,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+11073,99,31.6,,,0.0,22759,200,5.8,,1NU,11660,100,7,15,N,,0,,(0-),23,,3,ms,0.023,0.003,B-,100,,22480,220,8,14,O,1-Apr-2015,M. Shamsuzzoha Basunia,2025-10-17
+

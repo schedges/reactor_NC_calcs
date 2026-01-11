@@ -1,0 +1,175 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+79,119,Au,0,,0,,,2-,1,2.6941,,2,d,232770.24,17.28,B-,100,,,,,,,,,0.5911,0.0008,0.64,0.019,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,1,,55.1812,0.0006,,1-,1,0.28,,14,ns,0.00000000028,0.00000000014,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,2,,91.0059,0.0008,,0-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,3,,192.9441,0.0006,,1-,2,0.7,,2,ns,0.0000000007,0.0000000002,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,4,,214.9715,0.0009,,4-,1,0.4,,2,ns,0.0000000004,0.0000000002,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,5,,236.0453,0.0008,,3-,1,0.15,LE,,ns,0.00000000015,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,6,,247.5731,0.001,,1-,3,0.4,,1,ns,0.0000000004,0.0000000001,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,7,,259.3406,0.0009,,1-,4,0.2,LE,,ns,0.0000000002,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,8,,261.4047,0.0007,,2-,2,0.2,LE,,ns,0.0000000002,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,9,,312.2227,0.002,,5+,1,124,,4,ns,0.000000124,0.000000004,,,,,,,,,,,-1.11,0.02,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,10,,328.4833,0.0016,,3-,2,0.15,LE,,ns,0.00000000015,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,11,,339.291,0.0016,,1-,5,0.4,LE,,ns,0.0000000004,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,12,,346.9062,0.0007,,2-,3,0.15,LE,,ns,0.00000000015,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,13,,359.4,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,14,,362.8995,0.001,,2-,4,0.15,LE,,ns,0.00000000015,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,15,,368.2567,0.0011,,1-,6,0.15,LE,,ns,0.00000000015,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,16,,381.2002,0.001,,3+,1,2.3,,2,ns,0.0000000023,0.0000000002,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,17,,397.4,,,(+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,18,,406.008,0.0008,,2-,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,19,,449.5701,0.0013,,3-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,20,,453.825,0.0009,,2-,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,21,,482.3272,0.0021,,4+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,22,,495.5114,0.0014,,1-,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,23,,511.5173,0.0018,,3-,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,24,,516.3848,0.0022,,6+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,25,,529.1685,0.0012,,3-,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,26,,530.4782,0.001,,1-,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,27,,544.0093,0.0021,,4-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,28,,548.9342,0.0013,,2-,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,29,,571.2439,0.001,,1-,9,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,30,,573.3,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,31,,595.7,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,32,,625.4302,0.0014,,3-,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,33,,632.482,0.0013,,1- 2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,34,,637.125,0.003,,4+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,35,,646.411,0.005,,0+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,36,,663.76,0.18,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,37,,672.6548,0.001,,1- 2- 3-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,38,,694.6,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,39,,696.702,0.004,,8+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,40,,702.4811,0.002,,2-,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,41,,703.7298,0.0015,,1-,10,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,42,,728.634,0.004,,0-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,43,,745.2187,0.0021,,1- 2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,44,,758.398,0.003,,4+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,45,,764.482,0.003,,4-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,46,,786.5359,0.0012,,2-,9,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,47,,789.2974,0.0016,,1-,11,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,48,,800.0388,0.0019,,2-,10,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,49,,801.7064,0.0012,,1- 2-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,50,,810.426,0.003,,3+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,51,,811.9,1.5,,(12-),1,2.272,,16,d,196300.8,1382.4,IT,100,,,,,,,,,5.83,0.09,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,52,,824.608,0.004,,3+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,53,,832.7,,,1+ 2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,54,,835.366,0.003,,3-,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,55,,867.6,,,(3+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,56,,868.7734,0.002,,3-,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,57,,891.616,0.003,,1- 2-,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,58,,894.2716,0.0025,,3-,9,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,59,,896.5723,0.0025,,1- 2-,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,60,,916.4434,0.0025,,1- 2-,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,61,,918.5889,0.0016,,1- 2-,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,62,,931.944,0.003,,3-,10,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,63,,932.2,,,0-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,64,,936,1.2,,0+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,65,,951.443,0.005,,3+,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,66,,956.9533,0.002,,1- 2-,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,67,,960.633,0.003,,3+,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,68,,971.821,0.002,,3-,11,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,69,,983.0868,0.0025,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,70,,987.5743,0.0019,,3-,12,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,71,,999.212,0.004,,1- 2-,9,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,72,,1018.43,0.003,,1- 2-,10,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,73,,1021.4,,,1- 2-,11,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,74,,1032.254,0.003,,3-,13,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,75,,1038.2744,0.0021,,3-,14,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,76,,1039.4,,,1- 2-,12,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,77,,1047.124,0.003,,1- 2-,13,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,78,,1056.719,0.003,,2-,11,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,79,,1061.285,0.003,,3-,15,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,80,,1075.56,0.004,,1- 2- 3-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,81,,1092.876,0.005,,0-,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,82,,1093.9,,,(+),2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,83,,1095.499,0.004,,3+,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,84,,1104.835,0.004,,0- 1- 2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,85,,1108.873,0.004,,1- 2-,14,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,86,,1112.6,,,1- 2-,15,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,87,,1115.265,0.003,,3-,16,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,88,,1124.881,0.004,,1- 2-,16,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,89,,1134.8,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,90,,1147,0.2,,1- 2-,17,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,91,,1148.8,,,1+ 2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,92,,1157.2381,0.0022,,3-,17,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,93,,1160.018,0.004,,3-,18,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,94,,1166.5,0.2,,1- 2-,18,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,95,,1175.9,0.2,,1- 2-,19,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,96,,1191.566,0.004,,1+ 2+ 3+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,97,,1199.4,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,98,,1202.268,0.003,,1- 2-,20,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,99,,1209.37,0.004,,3-,19,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,100,,1232.8019,0.0025,,3-,20,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,101,,1240.38,0.004,,3-,21,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,102,,1256.018,0.005,,1- 2-,21,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,103,,1265.523,0.006,,1- 2- 3-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,104,,1272.151,0.0025,,3-,22,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,105,,1286.746,0.004,,2-,12,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,106,,1293.902,0.006,,1- 2-,22,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,107,,1297.133,0.005,,1- 2- 3-,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,108,,1301.045,0.005,,2-,13,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,109,,1304.8244,0.0023,,3-,23,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,110,,1306.853,0.003,,2-,14,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,111,,1318.628,0.008,,1- 2-,23,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,112,,1325.83,0.004,,2-,15,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,113,,1335.542,0.004,,1- 2- 3-,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,114,,1338.171,0.004,,3-,24,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,115,,1359.038,0.004,,1- 2- 3-,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,116,,1363.35,0.004,,1- 2- 3-,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,117,,1371.502,0.003,,1- 2-,24,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,118,,1375.974,0.004,,1- 2-,25,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,119,,1380.884,0.004,,3-,25,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,120,,1386,1,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,121,,1390.227,0.004,,2-,16,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,122,,1395.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,123,,1396.141,0.006,,3-,26,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,124,,1399.342,0.005,,2- 3-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,125,,1402.086,0.005,,1- 2-,26,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,126,,1403.5,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,127,,1404.893,0.008,,2- 3-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,128,,1409.399,0.004,,3-,27,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,129,,1418.686,0.004,,3+ 4+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,130,,1423.795,0.005,,3-,28,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,131,,1431.645,0.003,,2- 3-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,132,,1434.584,0.005,,1- 2-,27,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,133,,1444.396,0.022,,3-,29,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,134,,1450.5,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,135,,1453.858,0.003,,3-,30,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,136,,1458.988,0.004,,3-,31,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,137,,1472.097,0.004,,3-,32,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,138,,1475.621,0.004,,2-,17,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,139,,1487.136,0.004,,1- 2-,28,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,140,,1488.01,0.19,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,141,,1496.201,0.005,,3-,33,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,142,,1497.67,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,143,,1505.178,0.004,,1- 2-,29,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,144,,1506,0.2,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,145,,1513.564,0.004,,1- 2-,30,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,146,,1517.9,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,147,,1523.2,1,,1+ 2+ 3+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,148,,1530.702,0.005,,1- 2-,31,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,149,,1532.69,0.18,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,150,,1536.38,0.003,,1- 2- 3-,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,151,,1542.793,0.005,,3-,34,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,152,,1554.429,0.004,,1- 2-,32,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,153,,1560.407,0.006,,3-,35,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,154,,2224,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,155,,2245,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,156,,2266,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,157,,2283,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,158,,2296,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,159,,2304,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,160,,2326,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,161,,2343,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,162,,2361,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,163,,2381,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,164,,2393,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,165,,2469,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,166,,2479,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,167,,2490,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,168,,2505,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,169,,2520,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,170,,2598,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,171,,2610,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+79,119,Au,172,,17135,5,,0+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2015,Huang Xiaolong and Kang Mengxiao,2025-10-17
+

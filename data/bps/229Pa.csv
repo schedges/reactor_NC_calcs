@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,0.0076,311,3,,,,,A,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,71.8260,239,3,,,,,A,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,231627836653.50528,0.0,311,3,93,1,5.66,0.02,A,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,42.44,269,3,6.4,0.8,6.65,0.06,A,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,148.2,163,3,0.20,0.01,7.45,0.04,1NU,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,29.2,282,3,0.9,0.7,7.6,0.4,A,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,146.4,165,3,0.20,0.01,7.47,0.04,1NU,,,91,138,Pa,,0,,(5/2+),1.50,,5,d,129600,4320,EC,99.52,0.05,311,4,90,139,Th,1-Jun-2008,E. BROWNE and  J. K. TULI,2025-10-17
+

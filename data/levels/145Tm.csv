@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+69,76,Tm,0,,0,,,(11/2-),1,3.17,,20,us,0.00000317,0.0000002,P,100,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+69,76,Tm,1,,338.4,0.4,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+69,76,Tm,2,,868.8,0.7,,(19/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+69,76,Tm,3,,1555,0.9,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+69,76,Tm,4,,2373.8,1.1,,(27/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+69,76,Tm,5,,3311.5,1.4,,(31/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+

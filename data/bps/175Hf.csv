@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,0.00000149,353.3,333.5,1.9,0.19,0.01,9.58,0.04,A,,,72,103,Hf,,0,,5/2(-),70,,2,d,6048000,172800,EC,100,,683.9,26,71,104,Lu,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+,,,,0.000000000281,343.41,343.4,1.9,80,3,7,0.03,1NU,,,72,103,Hf,,0,,5/2(-),70,,2,d,6048000,172800,EC,100,,683.9,26,71,104,Lu,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+,,,,,514.6,172.2,1.9,0.05,0.02,9.4,0.3,A,,,72,103,Hf,,0,,5/2(-),70,,2,d,6048000,172800,EC,100,,683.9,26,71,104,Lu,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+,,,,,0.0,686.8,1.9,7,,8.7,,1NU,,,72,103,Hf,,0,,5/2(-),70,,2,d,6048000,172800,EC,100,,683.9,26,71,104,Lu,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+,,,,0.0000000001,432.8,254,1.9,17,3,7.3,0.1,1NU,,,72,103,Hf,,0,,5/2(-),70,,2,d,6048000,172800,EC,100,,683.9,26,71,104,Lu,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+

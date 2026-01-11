@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,160.0,5060,3,,,A,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+,,,,,1663.6,3557,3,,,,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+,,,,,1021.4,4199,3,,,A,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+,,,,,2816.7,2404,3,,,,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+,,,,,629.4,4591,3,,,A,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+,,,,,1663.6,3557,3,,,,,,31,46,Ga,,0,,3/2(-),13.2,,2,s,13.2,0.2,B-,100,,5220.5,24,32,45,Ge,30-SEP-2020,BALRAJ SINGH,2025-10-17
+

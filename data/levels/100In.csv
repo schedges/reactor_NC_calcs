@@ -1,0 +1,9 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+49,51,In,0,,0,,,(6+),1,5.65,,6,s,5.65,0.06,EC+B+,100,,ECP,1.66,0.03,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,1,X,0,,,(5+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,2,X,95,1,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,3,X,236,1,,(3+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,4,X,672,2,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,5,X,1423,1,,(2+),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+49,51,In,6,X,2720,2,,1+,1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+

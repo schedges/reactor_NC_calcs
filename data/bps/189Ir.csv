@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,0.00000000162,69.512,467,13,35,5,7.1,0.1,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,0.00000000017,275.84,261,13,10.1,1.1,7,0.1,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,0.00000000053,36.173,501,13,2.0,1.7,8.4,0.4,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,,233.53,303,13,1.09,0.12,8.1,0.1,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,,0.0,537,13,40,7,7.2,0.1,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,0.00000000023,95.23,442,13,11.6,1.7,7.5,0.1,1NU,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+,,,,,438.64,98,13,0.076,0.009,7.8,0.3,,,,77,112,Ir,,0,,3/2+,13.2,,1,d,1140480,8640,EC,100,,537,13,76,113,Os,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+

@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+3401.5,5.7,20.9,,0.0000000000114,1771.7,7608,12,5.8,,A,4194,7,53,87,I,,0,,(4-),0.86,,4,s,0.86,0.04,B-,100,,9380,12,54,86,Xe,20-Nov-2018,N. NICA,2025-10-17
+3522.8,5.7,5.4,,0.0000000000077,1513.2,7867,12,6.4,,A,4330,6,53,87,I,,0,,(4-),0.86,,4,s,0.86,0.04,B-,100,,9380,12,54,86,Xe,20-Nov-2018,N. NICA,2025-10-17
+3555.1,5.7,8,,0.0000000000086,1416.7,7963,12,8.5,,1U,4404,7,53,87,I,,0,,(4-),0.86,,4,s,0.86,0.04,B-,100,,9380,12,54,86,Xe,20-Nov-2018,N. NICA,2025-10-17
+3841,5.7,39,,0.0000000000142,834.288,8546,12,5.7,,1NU,4686,7,53,87,I,,0,,(4-),0.86,,4,s,0.86,0.04,B-,100,,9380,12,54,86,Xe,20-Nov-2018,N. NICA,2025-10-17
+4048.9,5.7,27,,0.0000000000705,376.658,9003,12,8.3,,1U,4946,7,53,87,I,,0,,(4-),0.86,,4,s,0.86,0.04,B-,100,,9380,12,54,86,Xe,20-Nov-2018,N. NICA,2025-10-17
+

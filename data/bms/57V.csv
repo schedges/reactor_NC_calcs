@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+2978,15,3,2,,1582.2,6758,230,5.8,,,3640,120,23,34,V,,0,,(7/2-),0.32,,3,s,0.32,0.03,B-,100,,8090,80,24,33,Cr,12-APR-2010,BALRAJ SINGH,2025-10-17
+3292,15,9,2,,941.7,7398,230,5.2,,A,3960,120,23,34,V,,0,,(7/2-),0.32,,3,s,0.32,0.03,B-,100,,8090,80,24,33,Cr,12-APR-2010,BALRAJ SINGH,2025-10-17
+3414,15,20,3,,692.3,7648,230,5,,A,4090,120,23,34,V,,0,,(7/2-),0.32,,3,s,0.32,0.03,B-,100,,8090,80,24,33,Cr,12-APR-2010,BALRAJ SINGH,2025-10-17
+3622,15,47,5,,267.9,8072,230,4.7,,A,4300,120,23,34,V,,0,,(7/2-),0.32,,3,s,0.32,0.03,B-,100,,8090,80,24,33,Cr,12-APR-2010,BALRAJ SINGH,2025-10-17
+3753,15,21,5,,0.0,8340,230,5.1,,2NU,4440,120,23,34,V,,0,,(7/2-),0.32,,3,s,0.32,0.03,B-,100,,8090,80,24,33,Cr,12-APR-2010,BALRAJ SINGH,2025-10-17
+

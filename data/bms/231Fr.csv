@@ -1,0 +1,30 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+757.2,5.8,2.4,0.4,,1773.90,2090,14,6.3,,,1332,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+775.3,5.8,1.4,0.2,,1730.1,2134,14,6.5,,,1358,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+780.2,5.8,0.9,0.1,,1718.2,2146,14,6.7,,,1365,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+790.5,5.8,2,0.2,,1693.3,2171,14,6.4,,,1379,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+814.9,5.8,1,0.2,,1634.1,2230,14,6.8,,,1414,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1021.9,5.9,0.7,0.2,,1138.79,2725,14,7.3,,,1701,10,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1092.5,5.9,0.28,0.05,,971.1,2893,14,7.8,,,1796,9,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1103.8,5.9,0.9,0.1,,944.31,2920,14,7.3,,,1812,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1109,5.9,0.4,0.1,,931.9,2932,14,7.6,,,1819,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1110.1,5.9,0.2,0.1,,929.2,2935,14,7.9,,,1821,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1150,6,1.1,0.2,,834.63,3029,14,7.2,,,1875,9,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1166.3,6,1,0.2,,796.2,3068,14,7.3,,,1898,10,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1176.2,6,1.9,0.3,,772.80,3091,14,7,,,1908,11,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1181.4,6,0.5,0.2,,760.5,3103,14,7.6,,,1918,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1185.4,6,2.4,0.2,,750.86,3113,14,6.9,,,1921,10,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1189.7,6,1.7,0.3,,740.72,3123,14,7.1,,,1929,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1229.6,6,0.1,0.09,,646.6,3217,14,8.4,,,1982,7,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1240.6,6,1.6,0.2,0.0000000000125,620.59,3243,14,7.2,,,1997,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1247,6,1.4,0.3,,605.4,3259,14,7.3,,,2006,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1283.1,6,45,3,0.000000000092,520.29,3344,14,5.8,,1NU,2055,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1286.8,6,1,0.2,,511.36,3353,14,7.5,,,2061,9,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1290.2,6,0.8,0.1,,503.33,3361,14,7.6,,,2064,9,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1309.1,6,1.2,0.2,0.000000000015,458.95,3405,14,7.4,,,2089,9,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1310.7,6,0.13,0.03,,455.0,3409,14,8.4,,,2092,8,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1335.2,6,3.3,0.4,,397.33,3467,14,7,,A,2123,10,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1382.6,6,2.8,0.3,,285.62,3578,14,7.1,,2NU,2258,11,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1420.3,6,0.6,,0.00000000472,95.50,3768,14,9.4,,1U,2371,7,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+1475.8,6,31,15,0.000053,66.21,3798,14,6.2,,A,2314,10,87,144,Fr,,0,,(1/2+),17.6,,6,s,17.6,0.6,B-,100,,3864,14,88,143,Ra,31-Aug-2022,Balraj Singh and  Jagdish K. Tuli and  and Edgardo Browne,2025-10-17
+

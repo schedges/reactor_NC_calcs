@@ -1,0 +1,14 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+39,40,Y,0,,0,,,(5/2+),1,14.8,,6,s,14.8,0.6,EC+B+,100,,ECP,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,1,,184,0.4,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,2,,411.3,0.4,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,3,,726.9,0.5,,(11/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,4,,1042.4,0.6,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,5,,1509,,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,6,,1889,,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,7,,2523,,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,8,,2947,,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,9,,3828,,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,10,,4214,,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+39,40,Y,11,,5702,,,(29/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,BALRAJ SINGH,2025-10-16
+

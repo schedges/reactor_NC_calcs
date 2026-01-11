@@ -1,0 +1,10 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+30,28,Zn,0,,0,,,0+,1,86.7,,24,ms,0.0867,0.0024,EC+B+,100,,ECP,3,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,1,,1356,3,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,2,,2499,4,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,3,,2609,6,,(2+),2,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,4,,2862,3,,(2+),3,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,5,,2902,3,,(1+),1,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,6,,3263,4,,(2+),4,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+30,28,Zn,7,,3378,6,,(3+),1,,,,,,,,,,,,,,,,,,,,,31-JUL-2014,BALRAJ SINGH,2025-10-16
+

@@ -1,0 +1,17 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+85,119,At,0,,0,,,7+,1,9.12,,11,m,547.2,6.6,EC+B+,96.09,0.16,A,3.91,0.16,,,,,4.84,0.18,-0.6,0.3,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,1,,587.3,0.2,,10-,1,108,,10,ms,0.108,0.01,IT,100,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,2,X,587.3,0.2,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,3,,600.9,0.5,,(8),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,4,X,718.7,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,5,X,1003.1,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,6,,1091.6,0.7,,(10),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,7,X,1301.7,0.9,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,8,X,1596.8,1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,9,,1680.1,0.9,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,10,,1808.8,0.9,,(12),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,11,X,1842.7,1.2,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,12,X,2020.1,1.3,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,13,X,2216.3,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+85,119,At,14,,2346.2,1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2009,C.J. CHIARA and F.G. KONDEV,2025-10-17
+

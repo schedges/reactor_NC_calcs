@@ -1,0 +1,132 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+56,75,Ba,0,,0,,,1/2+,1,11.50,,6,d,993600,5184,EC+B+,100,,,,,,,,,0.7083,0.0002,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,1,,108.077,0.005,,3/2+,1,0.35,,5,ns,0.00000000035,0.00000000005,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,2,,187.995,0.009,,9/2-,1,14.6,,2,m,876,12,IT,100,,,,,,,,,-0.87,0.02,1.54,0.14,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,3,,285.251,0.005,,3/2+,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,4,,287.52,0.2,,11/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,5,,316.585,0.007,,5/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,6,,365.165,0.005,,1/2+,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,7,,525.85,0.006,,(3/2)+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,8,,542.89,0.14,,7/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,9,,561.725,0.015,,3/2+ 5/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,10,,706.45,0.17,,13/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,11,,718.779,0.01,,3/2+ 5/2+,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,12,,719.494,0.015,,1/2+ 3/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,13,,757,10,,5/2- 7/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,14,,783,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,15,,803.41,0.24,,9/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,16,,839,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,17,,879.333,0.017,,1/2+ 3/2+ 5/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,18,,895,10,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,19,,898.72,0.17,,15/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,20,,949.94,0.03,,3/2+ 5/2+,3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,21,,974.211,0.015,,3/2+ 5/2+,4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,22,,1030.6,0.6,,(13/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,23,,1100,10,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,24,,1118.91,0.22,,11/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,25,,1135,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,26,,1154.262,0.024,,1/2+ 3/2+ 5/2+,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,27,,1162,10,,5/2- 7/2-,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,28,,1202,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,29,,1243,10,,(5/2- 7/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,30,,1243.96,0.07,,1/2 3/2 5/2(+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,31,,1291.63,0.05,,1/2 3/2 5/2(+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,32,,1317,10,,1/2- 3/2-,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,33,,1349.77,0.22,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,34,,1417.92,0.23,,13/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,35,,1437,10,,(1/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,36,,1458.67,0.16,,17/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,37,,1475.72,0.1,,1/2+,3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,38,,1494.65,0.04,,1/2 3/2 5/2(+),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,39,,1565,10,,5/2- 7/2-,3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,40,,1605,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,41,,1669,10,,3/2+ 5/2+,5,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,42,,1683.01,0.16,,19/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,43,,1713.2,0.6,,(17/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,44,,1747,10,,(1/2+),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,45,,1785,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,46,,1796.68,0.23,,15/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,47,,1820,10,,1/2+,4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,48,,1908,10,,(1/2+),4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,49,,1943,10,,(1/2+),5,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,50,,1965,10,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,51,,1981.82,0.13,,1/2 3/2 5/2,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,52,,2045.24,0.17,,(19/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,53,,2051,15,,(5/2- 7/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,54,,2064.81,0.11,,1/2 3/2 5/2(+),4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,55,,2100,15,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,56,,2109.4,0.4,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,57,,2122.06,0.21,,17/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,58,,2163.16,0.08,,1/2 3/2 5/2,2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,59,,2195.23,0.1,,1/2 3/2 5/2(+),5,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,60,,2271.17,0.09,,1/2 3/2 5/2(+),6,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,61,,2310,15,,5/2- 7/2-,4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,62,,2320.1,0.19,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,63,,2347,15,,(5/2- 7/2-),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,64,,2358.1,0.17,,21/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,65,,2385.17,0.09,,1/2 3/2 5/2,3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,66,,2401,15,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,67,,2433,15,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,68,,2460.7,0.3,,(19/2),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,69,,2487,15,,5/2- 7/2-,5,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,70,,2519.36,0.22,,(21/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,71,,2524,15,,3/2+ 5/2+,6,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,72,,2533.9,0.3,,19/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,73,,2561.28,0.18,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,74,,2592,15,,(5/2- 7/2-),4,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,75,,2611.53,0.24,,23/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,76,,2616,15,,(5/2- 7/2-),5,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,77,,2656,15,,(5/2- 7/2-),6,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,78,,2725.38,0.25,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,79,,2795.43,0.22,,(21/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,80,,2795.51,0.24,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,81,,2862.6,0.4,,21/2+,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,82,,2868.6,0.4,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,83,,2884.4,0.4,,(23/2),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,84,,3009.9,0.5,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,85,,3057.4,0.2,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,86,,3119.3,0.7,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,87,,3138.9,0.8,,(23/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,88,,3255,0.3,,(25/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,89,,3256.9,0.6,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,90,,3272.6,0.4,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,91,,3303.6,0.4,,(25/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,92,,3401.1,0.3,,25/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,93,,3431.4,0.8,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,94,,3477.1,0.4,,(27/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,95,,3510.6,0.5,,(27/2),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,96,,3556.1,0.4,,(27/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,97,,3585.2,0.7,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,98,,3653.1,0.4,,(27/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,99,,3657.3,0.5,,(27/2),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,100,,3717.7,0.4,,27/2-,1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,101,,3808.4,1.3,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,102,,3902.4,0.4,,(25/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,103,,3940.9,0.5,,(29/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,104,,3949.7,0.7,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,105,,4046.6,0.4,,(27/2-),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,106,,4072,0.5,,(29/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,107,,4205.4,1.7,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,108,,4278.6,0.5,,(31/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,109,,4307.9,0.5,,(29/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,110,,4338.8,0.5,,(31/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,111,,4410.3,1.3,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,112,,4501.9,0.5,,(31/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,113,,4512.4,0.5,,(31/2),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,114,,4633.3,0.5,,(31/2-),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,115,,4670,2,,,,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,116,,4750.3,0.6,,(33/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,117,,4975.2,0.6,,(33/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,118,,5042,0.6,,(33/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,119,,5163.2,0.6,,(35/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,120,,5351.3,0.6,,(35/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,121,,5387.9,0.6,,(35/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,122,,5404.5,0.7,,(35/2-),3,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,123,,5489.4,1.2,,(35/2),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,124,,5687.2,0.9,,(37/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,125,,5856.4,0.7,,(37/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,126,,6174.4,1,,(39/2+),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,127,,6235.6,1.2,,(37/2+),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,128,,6365,1,,(39/2-),1,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+56,75,Ba,129,,6440.9,1.2,,(39/2-),2,,,,,,,,,,,,,,,,,,,,,17-Jul-2006,YU. KHAZOV and  I. MITROPOLSKY and  A. RODIONOV,2025-10-17
+

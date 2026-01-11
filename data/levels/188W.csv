@@ -1,0 +1,41 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+74,114,W,0,,0,,,0+,1,69.78,,12,d,6028992,10368,B-,100,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,1,,143.16,0.08,,2+,1,0.87,,12,ns,0.00000000087,0.00000000012,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,2,,439.49,0.13,,4+,1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,3,,628.14,0.08,,2+,2,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,4,,780,2,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,5,,854.13,0.21,,(0+ 2 4+),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,6,,871.1,0.16,,6+,1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,7,,886,10,,(0+),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,8,,939.23,0.21,,4+,2,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,9,,979.37,0.13,,2(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,10,,1070.7,0.4,,3(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,11,,1193.77,0.16,,4(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,12,,1228.9,0.5,,2+ 3 4+,1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,13,,1341.7,0.5,,5(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,14,,1425.15,0.25,,8+,1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,15,,1437,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,16,,1473,10,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,17,,1533.77,0.19,,6(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,18,,1538.2,0.4,,(5+),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,19,,1544,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,20,,1721,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,21,,1728.7,0.5,,7(-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,22,,1742.7,0.5,,7(-),2,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,23,,1816,10,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,24,,1897,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,25,,1915,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,26,,1926.7,0.8,,8-,1,109.5,,35,ns,0.0000001095,0.0000000035,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,27,,1960,10,,(0+),2,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,28,,1994,10,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,29,,2028,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,30,,2104,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,31,,2175,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,32,,2264,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,33,,2274.4,1.2,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,34,,2314,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,35,,2394,5,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,36,,2427,10,,,,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,37,,2665.9,1.2,,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+74,114,W,38,,3086.7,1.3,,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Feb-2018,F.G. KONDEV and  S. JUUTINEN and  D.J. HARTLEY,2025-10-17
+

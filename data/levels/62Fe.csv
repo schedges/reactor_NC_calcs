@@ -1,0 +1,26 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+26,36,Fe,0,,0,,,0+,1,68,,2,s,68,2,B-,100,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,1,,877.31,0.1,,2+,1,5.3,,6,ps,0.0000000000053,0.0000000000006,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,2,,1692.3,2,,(0+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,3,,2016.98,0.18,,(2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,4,,2176.47,0.14,,(4+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,5,,2691.62,0.16,,(3+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,6,,2849.72,0.24,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,7,,3008.9,0.5,,(4-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,8,,3015.7,0.5,,(5-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,9,,3310,0.7,,(6-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,10,,3360.3,1.5,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,11,,3387.84,0.17,,(6+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,12,,3604.87,0.19,,(7-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,13,,3629.4,0.3,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,14,,3633.48,0.18,,(4+),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,15,,3661.7,1.5,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,16,,3713.7,1.5,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,17,,4050.7,0.4,,(2+ 3 4+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,18,,4251.77,0.2,,(8+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,19,,4358.84,0.25,,(8-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,20,,4902.2,0.4,,(9-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,21,,4970,80,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,22,,5319.5,0.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+26,36,Fe,23,,5474,,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+

@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,290,1118,4,0.600,0.011,8,,2U,38.2,1.7,89,135,Ac,,0,,(0-),2.78,,16,h,10008,576,EC,90.9,,1408,4,88,136,Ra,08-Mar-2022,Balraj Singh and  Sukhjeet Singh,2025-10-17
+,,,,,84.4,1324,4,0.700,0.013,8.1,,1U,138.9,2,89,135,Ac,,0,,(0-),2.78,,16,h,10008,576,EC,90.9,,1408,4,88,136,Ra,08-Mar-2022,Balraj Singh and  Sukhjeet Singh,2025-10-17
+,,,,313796.16,0,1408,4,0.700,0.013,8.1,,1NU,191,2.2,89,135,Ac,,0,,(0-),2.78,,16,h,10008,576,EC,90.9,,1408,4,88,136,Ra,08-Mar-2022,Balraj Singh and  Sukhjeet Singh,2025-10-17
+,,,,,215.75,1192,4,90.0,1.7,5.9,,A,78.4,2,89,135,Ac,,0,,(0-),2.78,,16,h,10008,576,EC,90.9,,1408,4,88,136,Ra,08-Mar-2022,Balraj Singh and  Sukhjeet Singh,2025-10-17
+,,,,,251,1157,4,0.600,0.011,8,,3U,51.2,1.6,89,135,Ac,,0,,(0-),2.78,,16,h,10008,576,EC,90.9,,1408,4,88,136,Ra,08-Mar-2022,Balraj Singh and  Sukhjeet Singh,2025-10-17
+

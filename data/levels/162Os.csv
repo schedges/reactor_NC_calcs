@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+76,86,Os,0,,0,,,0+,1,2.06,,9,ms,0.00206,0.00009,A,100,,,,,,,,,,,,,19-Sep-2023,N. NICA,2025-10-17
+76,86,Os,1,,706.7,0.3,,(2+),1,,,,,,,,,,,,,,,,,,,,,19-Sep-2023,N. NICA,2025-10-17
+76,86,Os,2,,1406.5,0.8,,(4+),1,,,,,,,,,,,,,,,,,,,,,19-Sep-2023,N. NICA,2025-10-17
+76,86,Os,3,,1990.6,0.8,,(6+),1,,,,,,,,,,,,,,,,,,,,,19-Sep-2023,N. NICA,2025-10-17
+76,86,Os,4,,2189.5,0.8,,(8+),1,,,,,,,,,,,,,,,,,,,,,19-Sep-2023,N. NICA,2025-10-17
+

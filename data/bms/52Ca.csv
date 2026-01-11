@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1588,253,1.4,0.4,,4265.7,1634,140,5.8,0.4,A,980,80,20,32,Ca,,0,,0+,4.6,,3,s,4.6,0.3,B-,100,,6257,3,21,31,Sc,10-Jul-2015,YANG DONG and  HUO JUNDE,2025-10-17
+1980,254,0.6,0.3,,3458.1,2442,140,6.5,0.4,,1410,70,20,32,Ca,,0,,0+,4.6,,3,s,4.6,0.3,B-,100,,6257,3,21,31,Sc,10-Jul-2015,YANG DONG and  HUO JUNDE,2025-10-17
+2327,255,11.2,1.2,,2745.7,3154,140,5.57,0.22,A,1780,70,20,32,Ca,,0,,0+,4.6,,3,s,4.6,0.3,B-,100,,6257,3,21,31,Sc,10-Jul-2015,YANG DONG and  HUO JUNDE,2025-10-17
+2870,256,86.8,1.3,,1636.43,4060,200,5.07,0.18,A,2350,70,20,32,Ca,,0,,0+,4.6,,3,s,4.6,0.3,B-,100,,6257,3,21,31,Sc,10-Jul-2015,YANG DONG and  HUO JUNDE,2025-10-17
+3342,256,5,,,675.21,5225,140,6.6,,,2840,70,20,32,Ca,,0,,0+,4.6,,3,s,4.6,0.3,B-,100,,6257,3,21,31,Sc,10-Jul-2015,YANG DONG and  HUO JUNDE,2025-10-17
+

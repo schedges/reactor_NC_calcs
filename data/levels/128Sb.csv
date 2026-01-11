@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+51,77,Sb,0,,0,,,8-,1,9.05,,4,h,32580,144,B-,100,,,,,,,,,1.3,0.2,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,1,X,0,,10,5+,1,10.41,,18,m,624.6,10.8,B-,96.4,1,IT,3.6,1,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,2,X,45.7,0.2,10,4+,1,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,3,X,77.8,0.3,10,3+,1,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,4,X,152.7,0.3,10,(2+ 3+),1,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,5,X,482.4,0.3,10,(2 3)+,1,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,6,X,635.2,0.3,10,1+,1,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,7,X,751.6,,10,,,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+51,77,Sb,8,X,833,,10,1+,2,,,,,,,,,,,,,,,,,,,,,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+

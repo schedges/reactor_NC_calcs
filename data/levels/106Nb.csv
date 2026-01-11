@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+41,65,Nb,0,,0,,,(1-),1,1.02,,5,s,1.02,0.05,B-,100,,B-N,4.5,0.3,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,1,,107.9,0.2,,(1+),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,2,,202.2,0.1,,(2+),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,3,,204.8,0.1,,(3+),1,0.82,,6,us,0.00000082,0.00000006,IT,100,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,4,,337.6,0.2,,(2-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,5,,470.6,0.2,,(2-),2,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,6,,627.3,0.2,,(3-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,7,,815.2,0.2,,(4-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,8,,995,0.4,,,,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,9,,1039.9,0.3,,(5-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,10,,1274.4,0.3,,(6-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,11,,1589.2,0.4,,(7-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+41,65,Nb,12,,1838.8,0.4,,(8-),1,,,,,,,,,,,,,,,,,,,,,20-JUL-2015,BALRAJ SINGH,2025-10-17
+

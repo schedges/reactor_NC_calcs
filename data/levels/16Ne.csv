@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+10,6,Ne,0,,0,,,0+,1,80,LT,,keV,5.702971438392322e-21,0,2P,100,,,,,,,,,,,,,27-Jan-2020,G.C. Sheu and  J.H. Kelley,2025-10-16
+10,6,Ne,1,,1770,30,,2+,1,50,LE,,keV,9.124754301427715e-21,0,,,,,,,,,,,,,,,27-Jan-2020,G.C. Sheu and  J.H. Kelley,2025-10-16
+10,6,Ne,2,,6190,40,,2+,2,100,LE,,keV,4.5623771507138576e-21,0,P,100,,,,,,,,,,,,,27-Jan-2020,G.C. Sheu and  J.H. Kelley,2025-10-16
+10,6,Ne,3,,8440,100,,,,0.32,,10,MeV,1.4257428595980803e-21,4.455446436244001e-22,,,,,,,,,,,,,,,27-Jan-2020,G.C. Sheu and  J.H. Kelley,2025-10-16
+10,6,Ne,4,,10830,200,,,,0.51,,23,MeV,8.945837550419326e-22,4.0343973266596963e-22,,,,,,,,,,,,,,,27-Jan-2020,G.C. Sheu and  J.H. Kelley,2025-10-16
+

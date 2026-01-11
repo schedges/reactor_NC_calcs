@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+82,105,Pb,0,,0,,,(3/2-),1,15.2,,3,s,15.2,0.3,EC+B+,90.5,2,A,9.5,2,,,,,-1.122,0.003,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,1,,33,13,,(13/2+),1,18.3,,3,s,18.3,0.3,EC+B+,88,2,A,12,2,,,,,-1.206,0.005,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,2,,375,1,,(3/2-),2,10,LT,,ns,0.00000001,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,3,,505,1,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,4,,527,1,,(13/2+),2,10,LT,,ns,0.00000001,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,5,,607,15,,(9/2+),2,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,6,,627,1,,,,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,7,,864,,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,8,,1280,,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+82,105,Pb,9,,1756,,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Nov-2008,M. S. Basunia,2025-10-17
+

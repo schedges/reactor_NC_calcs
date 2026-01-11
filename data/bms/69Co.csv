@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+3709,93,2.9,0.4,,1821.2,7989,190,5.82,0.08,,4270,100,27,42,Co,,0,,(7/2-),227,,11,ms,0.227,0.011,B-,100,,9590,90,28,41,Ni,31-Jul-2013,C.D. NESARAJA,2025-10-17
+3857,93,17.1,1.8,,1517.6,8292,190,5.13,0.07,A,4430,100,27,42,Co,,0,,(7/2-),227,,11,ms,0.227,0.011,B-,100,,9590,90,28,41,Ni,31-Jul-2013,C.D. NESARAJA,2025-10-17
+4150,93,47.9,2,,915.3,8895,190,4.82,0.06,A,4730,100,27,42,Co,,0,,(7/2-),227,,11,ms,0.227,0.011,B-,100,,9590,90,28,41,Ni,31-Jul-2013,C.D. NESARAJA,2025-10-17
+4596,93,5,0.5,11.4,0.0,9810,190,6,0.06,1NU,5200,100,27,42,Co,,0,,(7/2-),227,,11,ms,0.227,0.011,B-,100,,9590,90,28,41,Ni,31-Jul-2013,C.D. NESARAJA,2025-10-17
+

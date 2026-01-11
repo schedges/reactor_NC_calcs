@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+84,113,Po,0,,0,,,(3/2-),1,84,,16,s,84,16,EC+B+,56,7,A,44,7,,,,,-0.88,0.07,-0.4,0.2,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+84,113,Po,1,,130,,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+84,113,Po,2,,204,,,(13/2+),1,32,,2,s,32,2,A,84,9,EC+B+,16,9,IT,0.01,,,-1.05,0.08,1.3,0.5,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+84,113,Po,3,,687.5,1,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+84,113,Po,4,,1146.9,1.5,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+84,113,Po,5,,1686.2,1.8,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+

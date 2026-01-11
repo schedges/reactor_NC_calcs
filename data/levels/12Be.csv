@@ -1,0 +1,32 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+4,8,Be,0,,0,,,0+,1,21.46,,5,ms,0.02146,0.00005,B-,100,,B-N,0.5,0.03,,,,2,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,1,,2109,1,,2+,1,0.957,,19,ps,0.000000000000957,0.000000000000019,IT,100,,,,,,,,2,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,2,,2251,1,,0+,2,230,,8,ns,0.00000023,0.000000008,IT,100,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,3,,2715,15,,1-,1,1.3,,4,fs,0.0000000000000013,4e-16,IT,100,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,4,,4412,16,,(2-),1,634,,60,keV,7.196178471157504e-22,6.810263537373032e-23,N,0,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,5,,4580,5,,(2+ 3-),1,101,,17,keV,4.517205099716691e-21,7.603216504473639e-22,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,6,,5724,6,,(4+ 2+ 3-),1,85,,15,keV,5.367502530251597e-21,9.472063288679289e-22,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,7,,6275,50,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,8,,7200,100,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,9,,8230,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,10,,8600,150,,,,500,LT,,keV,9.124754301427716e-22,0,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,11,,9300,,,,,2.0,,3,MeV,2.2811885753569284e-22,3.4217828630353926e-23,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,12,,10000,,,,,1.5,,2,MeV,3.041584767142571e-22,4.055446356190095e-23,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,13,,10800,,,0+,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,14,,11300,,,2+,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,15,,11800,,,(0 2+),1,1,AP,,MeV,4.562377150713857e-22,0,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,16,,12100,,,(2+ 4),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,17,,13200,500,,(4+),1,1,AP,,MeV,4.562377150713857e-22,0,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,18,,14000,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,19,,14900,500,,6+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,20,,15500,,,,,1.5,AP,,MeV,3.041584767142571e-22,0,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,21,,16100,500,,6,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,22,,17800,500,,6,2,350,AP,,keV,1.3035363287753879e-21,0,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,23,,18600,500,,6,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,24,,19300,500,,6,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,25,,20900,500,,8+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,26,,22800,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,27,,24000,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,28,,25000,,,,,370,AP,,keV,1.23307490559834e-21,0,P,0,,,,,,,,3,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+4,8,Be,29,,28000,,,,,2.7,AP,,MeV,1.689769315079206e-22,0,P,0,,,,,,,,,,,,,1-Jan-2017,J.H. KELLEY and  J.E. Purcell and C.G. SHEU,2025-10-16
+

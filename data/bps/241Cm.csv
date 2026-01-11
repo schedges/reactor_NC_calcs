@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,653.23,114.2,1.2,0.31,0.02475,8.24,0.04,A,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,623.10,144.3,1.2,0.61,0.0495,8.22,0.04,A,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,670.24,97.2,1.2,0.67,0.0495,7.74,0.04,A,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,636.861,130.5,1.2,42.2,2.079,6.251,0.025,1NU,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,504.448,263,1.2,2.3,2.079,7.8,0.4,1U,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,652.089,115.3,1.2,26.7,1.188,6.318,0.023,1NU,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+,,,,,471.810,295.6,1.2,26,5.94,7.62,0.1,1NU,,,96,145,Cm,,0,,1/2+,32.8,,2,d,2833920,17280,EC,99,0.1,767.4,20,95,146,Am,30-Sep-2015,C.D. NESARAJA,2025-10-17
+

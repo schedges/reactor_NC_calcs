@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+109.39,0.62,54.46,0.22,0.00000000007,756.728,366.9,1.8,6.762,0.008,A,258.1,1.7,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+120.61,0.63,44.34,0.22,0.00000000007,724.195,399.4,1.8,6.975,0.007,A,279.1,1.1,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+327.24,0.73,1.08,0.07,311904,235.690,887,3,10.28,0.03,1U,562.1,1.9,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+405.6,0.77,0.103,0.011,3023222.4,0.0,1120,20,11.21,0.05,2NU,702.2,1.1,40,55,Zr,,0,,5/2+,64.032,,6,d,5532364.8,518.4,B-,100,,1126.3,10,41,54,Nb,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+

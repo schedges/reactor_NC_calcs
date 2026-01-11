@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+6405,11,10,,0.000000000000111,7341,13302,21,4.8,,A,6897,11,5,9,B,,0,,2-,12.5,,5,ms,0.0125,0.0005,B-,100,,20644,21,6,8,C,1-JUL-1990,F. AJZENBERG-SELOVE,2025-10-17
+6709,11,8.2,1.7,0.000000000066,6728.2,13915,21,5.02,0.1,A,7205,11,5,9,B,,0,,2-,12.5,,5,ms,0.0125,0.0005,B-,100,,20644,21,6,8,C,1-JUL-1990,F. AJZENBERG-SELOVE,2025-10-17
+7024,11,79,6,0.000000000000007,6093.8,14550,21,4.13,0.04,A,7523,11,5,9,B,,0,,2-,12.5,,5,ms,0.0125,0.0005,B-,100,,20644,21,6,8,C,1-JUL-1990,F. AJZENBERG-SELOVE,2025-10-17
+10048,11,1.4,0.8,179874478055.1744,0.0,20643,21,6.62,0.25,1U,10574,11,5,9,B,,0,,2-,12.5,,5,ms,0.0125,0.0005,B-,100,,20644,21,6,8,C,1-JUL-1990,F. AJZENBERG-SELOVE,2025-10-17
+

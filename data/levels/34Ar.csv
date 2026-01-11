@@ -1,0 +1,24 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+18,16,Ar,0,,0,,,0+,1,843.8,,4,ms,0.8438,0.0004,EC+B+,100,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,1,,2091.1,0.3,,2+,1,319,,42,fs,0.000000000000319,0.000000000000042,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,2,,3287.7,0.5,,2+,2,194,,35,fs,0.000000000000194,0.000000000000035,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,3,,3873,3,,0+,2,187,GT,,fs,0.000000000000187,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,4,,4050,14,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,5,,4127.8,1,,,,208,LT,,fs,0.000000000000208,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,6,,4513.2,0.8,,3-,1,201,,38,fs,0.000000000000201,0.000000000000038,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,7,,4631,4,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,8,,4865,4,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,9,,4967,4,,0+,3,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,10,,5255,4,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,11,,5307,13,,(5-),1,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,12,,5542,4,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,13,,5620,30,,2+,3,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,14,,5909,12,,0+,4,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,15,,6074,11,,2+,4,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,16,,6525,9,,2+,5,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,17,,6794,11,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,18,,6990,50,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,19,,7322,6,,2+,6,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,20,,7499,4,,(2+),1,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+18,16,Ar,21,,7925,5,,,,,,,,,,,,,,,,,,,,,,,,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-16
+

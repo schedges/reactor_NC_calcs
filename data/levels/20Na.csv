@@ -1,0 +1,27 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+11,9,Na,0,,0,,,2+,1,447.9,,23,ms,0.4479,0.0023,EC,100,,ECA,20.05,0.2,,,,1,0.3694,0.0002,0.101,0.008,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,1,,596,8,,3+,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,2,,802,7,,4+,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,3,,984.25,0.1,,1+,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,4,,1346,8,,2-,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,5,,1837,7,,2-,2,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,6,,1992,8,,3-,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,7,,2057,12,,3+,2,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,8,,2645,6,,(1+),1,,,,,,,IT,,,P,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,9,,2849,6,,3+,3,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,10,,2983,7,,GE 3,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,11,,3001,2,,1+,2,19.8,,2,keV,2.3042308841989177e-20,2.3275059436352705e-22,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,12,,3067,2,,(0+),1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,13,,3086,2,,0+,1,35.9,,2,keV,1.2708571450456429e-20,7.0799840949618e-23,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,14,,3315,9,,,,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,15,,3642,16,,(2 3 4)-,1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,16,,3871,9,,1+,3,,,,,,,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,17,,4123,16,,1+,4,,,,,,,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,18,,4150,60,,(4 2-),1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,19,,4560,60,,(2),1,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,20,,4800,,,1+,5,,,,,,,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,21,,5170,60,,,,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,22,,5600,,,1+,6,,,,,,,,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,23,,6266,30,,1+,7,,,,,,,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+11,9,Na,24,,6534,13,,0+,2,,,,,,,P,,,,,,,,,,,,,,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-16
+

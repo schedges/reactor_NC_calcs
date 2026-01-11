@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+22,32,Ti,0,,0,,,0+,1,2.1,,10,s,2.1,1,B-,100,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,1,,1494.8,0.8,,(2+),1,1.06,,19,ps,0.00000000000106,0.00000000000019,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,2,,2496,1,,(4+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,3,,2515.8,1.3,,(2+),2,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,4,,2936,1.8,,(6+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,5,,3000.4,0.4,,,,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,6,,3338.7,0.6,,,,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,7,,3461.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,8,,5111.1,1.9,,(7+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,9,,5459.1,1.9,,(8+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,10,,5903.1,2,,(8+),2,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,11,,6187.1,2,,(9+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+22,32,Ti,12,,6432.1,2.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,20-Jun-2014,YANG DONG and  HUO JUNDE,2025-10-16
+

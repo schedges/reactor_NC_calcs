@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+104,150,Rf,0,,0,,,0+,1,22.8,,11,us,0.0000228,0.0000011,SF,100,,A,1.5,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,1,,48,,,(2+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,2,,158,,,(4+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,3,,330,,,(6+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,4,,562,,,(8+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,5,,847,,,(10+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,6,,1186,,,(12+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,7,,1570,,,(14+),1,,,,,,,,,,,,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,8,X,,,1300,(8-),1,4.3,,10,us,0.0000043,0.000001,IT,100,,SF,10,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+104,150,Rf,9,Y,,,2000,(16+),1,247,,73,us,0.000247,0.000073,IT,100,,SF,40,,,,,,,,,,26-Jun-2023,BALRAJ SINGH,2025-10-17
+

@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+29,28,Cu,0,,0,,,3/2-,1,196.3,,7,ms,0.1963,0.0007,EC+B+,100,,,,,,,,,2.588,0.007,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,1,,1028,4,,5/2-,1,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,2,,1106,4,,1/2-,1,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,3,,2398,10,,5/2-,2,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,4,,2520,25,,,,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,5,,3280,50,,,,,,,,,,P,100,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,6,,3510,25,,,,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,7,,5350,50,,,,,,,,,,P,100,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+29,28,Cu,8,,5710,25,,,,,,,,,,,,,,,,,,,,,,,,24-Sep-1998,M. R. BHAT,2025-10-16
+

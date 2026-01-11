@@ -1,0 +1,31 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+70,108,Yb,0,,0,,,0+,1,74,,3,m,4440,180,B-,100,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,1,,84,0.3,,2+,1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,2,,278,0.7,,4+,1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,3,,578.1,1.2,,(6+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,4,,981.3,1.8,,(8+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,5,,1221,3,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,6,,1315,3,,0+,2,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,7,,1335,3,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,8,,1387,3,,(2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,9,,1404,3,,2+,2,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,10,,1436,3,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,11,,1483.5,2.5,,(10+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,12,,1559,4,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,13,,1705,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,14,,1813,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,15,,1869,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,16,,1969,4,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,17,,2080,4,,(12+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,18,,2111,,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,19,,2131,4,,(4+ 5-),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,20,,2351,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,21,,2371,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,22,,2390,5,,(4+),2,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,23,,2405,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,24,,2690,7,,(4+),3,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,25,,2770,4,,(14+),1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,26,,2899,7,,3-,1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,27,,2996,13,,(4+),4,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+70,108,Yb,28,,3037,10,,1-,1,,,,,,,,,,,,,,,,,,,,,31-May-2008,E. Achterberg and  O.A. Capurro and  G.V. Marti,2025-10-17
+

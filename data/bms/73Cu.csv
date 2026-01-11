@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+2052,1.4,1,1,,2008.9,4597,3,6.5,,,2545,1.4,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+2481.6,1.4,3,1,,1124.0,5482,3,6.4,,,2999.2,1.4,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+2784,1.4,5,2,,502.2,6104,3,6.3,,,3316.6,1.5,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+2809.6,1.4,43,12,,449.6,6156,3,5.4,,A,3344.2,1.5,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+2878.9,1.4,6,2,,307.2,6299,3,6.3,,,3417.3,1.4,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+3028.4,1.4,42,12,,0.0,6606,3,5.6,,A,3574.4,1.4,29,44,Cu,,0,,3/2-,4.2,,3,s,4.2,0.3,B-,100,,6606.0,27,30,43,Zn,16-May-2019,BALRAJ SINGH and JUN CHEN,2025-10-17
+

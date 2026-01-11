@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+48,82,Cd,0,,0,,,0+,1,162,,7,ms,0.162,0.007,B-,100,,B-N,3.5,1,,,,,,,,,31-MAY-2008,BALRAJ SINGH,2025-10-17
+48,82,Cd,1,,1325,1,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-MAY-2008,BALRAJ SINGH,2025-10-17
+48,82,Cd,2,,1864,2,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-MAY-2008,BALRAJ SINGH,2025-10-17
+48,82,Cd,3,,1992,2,,(6+),1,,,,,,,,,,,,,,,,,,,,,31-MAY-2008,BALRAJ SINGH,2025-10-17
+48,82,Cd,4,,2130,2,,(8+),1,220,,30,ns,0.00000022,0.00000003,,,,,,,,,,,,,,,31-MAY-2008,BALRAJ SINGH,2025-10-17
+

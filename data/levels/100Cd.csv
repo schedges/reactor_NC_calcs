@@ -1,0 +1,31 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+48,52,Cd,0,,0,,,0+,1,49.1,,5,s,49.1,0.5,EC+B+,100,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,1,,1004.11,0.1,,2+,1,1.0,GT,,ps,0.000000000001,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,2,,1799,0.14,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,3,,1930,20,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,4,,2046.24,0.15,,(4+),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,5,,2095.4,0.17,,(6+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,6,,2457.69,0.17,,(6+),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,7,,2548.19,0.18,,(8+),1,62,,6,ns,0.000000062,0.000000006,,,,,,,,,,,9.9,0.5,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,8,,3163.96,0.25,,(4+ 5 6+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,9,,3199.5,0.3,,(8+),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,10,,3656.8,0.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,11,,4118.5,0.3,,(11+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,12,,4344.3,0.3,,(12+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,13,,4855.3,0.4,,(12),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,14,,5319.3,0.9,,(12),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,15,,5508,0.4,,(14),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,16,,6258.7,0.5,,(14),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,17,,6460.5,1,,(13),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,18,,6953.4,0.5,,(14),3,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,19,,6978.3,1,,(14),4,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,20,,7172.1,1,,(15),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,21,,7365,0.6,,(14),5,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,22,,7747.9,0.5,,(15),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,23,,7910.8,0.5,,(16),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,24,,8349.5,0.5,,(17),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,25,,8560.4,0.5,,(17),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,26,,8823.4,0.5,,(18),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,27,,8947.3,0.5,,(18),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+48,52,Cd,28,,9388.2,0.5,,(20),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+

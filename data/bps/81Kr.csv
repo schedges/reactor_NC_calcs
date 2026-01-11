@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,0,280.9,0.5,99.70,0.02,10.98,0.05,1U,,,36,45,Kr,,0,,7/2+,2.13E+5,,+16-26,Y,6721625232588.096,662695445466.432,EC,100,,280.9,15,35,46,Br,1-Sep-2024,M. Shamsuzzoha Basunia,2025-10-17
+,,,,,0,471.4,0.5,0.0025,0.0006,4.89,0.07,A,,,36,45,Kr,,190.53,0.04,1/2-,13.10,,2,s,13.1,0.02,EC,0.0025,0.0004,280.9,15,35,46,Br,1-Sep-2024,M. Shamsuzzoha Basunia,2025-10-17
+,,,,0.0000000000097,275.991,4.9,0.5,0.30,0.02,9.35,0.15,1NU,,,36,45,Kr,,0,,7/2+,2.13E+5,,+16-26,Y,6721625232588.096,662695445466.432,EC,100,,280.9,15,35,46,Br,1-Sep-2024,M. Shamsuzzoha Basunia,2025-10-17
+

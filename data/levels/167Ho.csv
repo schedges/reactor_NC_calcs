@@ -1,0 +1,33 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+67,100,Ho,0,,0,,,7/2-,1,2.98,,3,h,10728,108,B-,100,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,1,,100,4,,9/2-,1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,2,,221,4,,11/2-,1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,3,,259.34,0.11,,3/2+,1,6.0,,10,us,0.000006,0.000001,IT,100,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,4,,319.75,0.12,,5/2+,1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,5,,392.48,0.13,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,6,,409.97,0.12,,3/2+,2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,7,,507,4,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,8,,541,4,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,9,,569.69,0.12,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,10,,702,4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,11,,804,4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,12,,922,0.2,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,13,,974,4,,7/2+,1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,14,,1006,4,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,15,,1092,4,,(7/2+),2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,16,,1099.5,0.2,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,17,,1149,0.3,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,18,,1165,4,,7/2+,2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,19,,1168.8,0.2,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,20,,1240.6,0.4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,21,,1275,4,,(9/2+),2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,22,,1403,4,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,23,,1464,4,,7/2-,2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,24,,1664.9,0.4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,25,,1666,4,,11/2-,2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,26,,1707,4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,27,,1775,4,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,28,,1858,4,,(1/2+),2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,29,,1919,0.3,,,,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+67,100,Ho,30,,1938,4,,5/2+,2,,,,,,,,,,,,,,,,,,,,,22-Aug-2023,Balraj Singh and Jun Chen,2025-10-17
+

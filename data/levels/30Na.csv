@@ -1,0 +1,16 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+11,19,Na,0,,0,,,2+,1,45.4,,11,ms,0.0454,0.0011,B-,100,,B-N,30,5,B-2N,1.27,0.25,,2.083,0.01,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,1,,150.62,0.2,,1+,1,347,AP,,ps,0.000000000347,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,2,,337.9,1.4,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,3,,360,13,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,4,,424,1.8,,(3+),1,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,5,,509.9,2.4,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,6,,516.1,0.5,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,7,,758,4,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,8,,925,2.1,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,9,,926,0.6,,1+,2,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,10,,1032,1.6,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,11,,1263.1,2.2,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,12,,1527,5,,,,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+11,19,Na,13,,2113.6,0.6,,1+,3,,,,,,,,,,,,,,,,,,,,,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-16
+

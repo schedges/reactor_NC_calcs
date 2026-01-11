@@ -1,0 +1,23 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+32,32,Ge,0,,0,,,0+,1,63.7,,25,s,63.7,2.5,EC+B+,100,,ECP,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,1,,901.7,0.3,,2+,1,2.29,,35,ps,0.00000000000229,0.00000000000035,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,2,,1578.7,0.3,,(2+),1,5.5,,+28-14,ps,0.0000000000055,0.0000000000021,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,3,,2052.6,0.4,,4+,1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,4,,2154.8,0.4,,(4+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,5,,2669.6,0.5,,(4+),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,6,,2969.7,0.5,,(3-),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,7,,3406.7,0.5,,(6+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,8,,3465.6,0.6,,(6+),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,9,,3716.9,0.7,,(5-),1,16.8,,+24-20,ps,0.0000000000168,0.0000000000022,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,10,,4245.7,0.6,,(7-),1,29.9,,+20-17,ps,0.0000000000299,0.00000000000185,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,11,,5025.5,0.8,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,12,,5175.2,0.7,,(8+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,13,,5180,0.8,,(8+),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,14,,5372.9,0.7,,(9-),1,2.8,LE,,ps,0.0000000000028,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,15,,6564.4,0.8,,(11-),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,16,,6606.8,2,,(10),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,17,,7578.9,2,,(10),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,18,,8006.8,1,,(13-),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,19,,8426.9,2.1,,(12),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+32,32,Ge,20,,9299.9,2.3,,(14),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+

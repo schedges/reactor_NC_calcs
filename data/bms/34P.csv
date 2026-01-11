@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+493.96,0.37,0.31,0.06,,4114.813,1268.1,0.8,4.88,0.09,A,774.6,0.5,15,19,P,,0,,1+,12.43,,10,s,12.43,0.1,B-,100,,5383.0,8,16,18,S,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-17
+511.91,0.37,0.111,0.023,,4074.667,1308.3,0.8,5.38,0.09,A,796.8,0.6,15,19,P,,0,,1+,12.43,,10,s,12.43,0.1,B-,100,,5383.0,8,16,18,S,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-17
+583.3,0.39,0.045,0.017,,3916.408,1466.5,0.8,5.98,0.17,A,884.51,0.44,15,19,P,,0,,1+,12.43,,10,s,12.43,0.1,B-,100,,5383.0,8,16,18,S,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-17
+1427.46,0.39,14.8,2,,2127.564,3255.3,0.8,4.93,0.06,A,1828.74,0.48,15,19,P,,0,,1+,12.43,,10,s,12.43,0.1,B-,100,,5383.0,8,16,18,S,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-17
+2464.61,0.4,84.8,2.1,,0.0,5382.9,0.8,5.159,0.012,A,2918.97,0.41,15,19,P,,0,,1+,12.43,,10,s,12.43,0.1,B-,100,,5383.0,8,16,18,S,28-May-2012,NINEL NICA and  BALRAJ SINGH,2025-10-17
+

@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+38.98,0.17,0.8,0.008,,370.93,147.7,0.6,7.5,0.075,A,108.6,0.6,92,145,U,,0,,1/2+,6.752,,2,d,583372.8,172.8,B-,100,,518.5,5,93,144,Np,15-Mar-2006,M. S. Basunia,2025-10-17
+49.83,0.17,3.4,0.3,0.000000001,332.385,186.2,0.6,7.21,0.04,A,136.6,0.7,92,145,U,,0,,1/2+,6.752,,2,d,583372.8,172.8,B-,100,,518.5,5,93,144,Np,15-Mar-2006,M. S. Basunia,2025-10-17
+64.54,0.18,51,4,,281.368,237.2,0.6,6.37,0.04,1NU,172.92,0.42,92,145,U,,0,,1/2+,6.752,,2,d,583372.8,172.8,B-,100,,518.5,5,93,144,Np,15-Mar-2006,M. S. Basunia,2025-10-17
+68.59,0.18,42,3,0.0000000052,267.561,251,0.6,6.53,0.04,1NU,182.6,0.6,92,145,U,,0,,1/2+,6.752,,2,d,583372.8,172.8,B-,100,,518.5,5,93,144,Np,15-Mar-2006,M. S. Basunia,2025-10-17
+137.57,0.19,3,2.3,0.000000063,59.545,459.1,0.6,8.5,0.2,1U,323.5,0.8,92,145,U,,0,,1/2+,6.752,,2,d,583372.8,172.8,B-,100,,518.5,5,93,144,Np,15-Mar-2006,M. S. Basunia,2025-10-17
+

@@ -1,0 +1,34 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+20,31,Ca,0,,0,,,3/2(-),1,10.0,,8,s,10,0.8,B-,100,,B-N,,,,,,,-1.0496,0.0011,0.036,0.012,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,1,,1240,40,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,2,,1718,1,,(1/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,3,,1940,40,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,4,,2378.06,0.2,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,5,,2934.1,1,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,6,,3462.13,0.2,,(7/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,7,,3477.5,2.3,,(5/2-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,8,,3500.9,0.9,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,9,,3580,40,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,10,,3844.1,0.3,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,11,,4040,40,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,12,,4155.1,0.7,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,13,,4320.1,0.4,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,14,,4493.1,1.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,15,,5678,34,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,16,,6684,34,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,17,,6776,38,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,18,,7060,55,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,19,,7420,55,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,20,,8110,100,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,21,,8360,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,22,,8620,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,23,,8820,46,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,24,,9050,100,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,25,,9330,64,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,26,,9590,120,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,27,,9700,64,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,28,,9820,150,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,29,,10340,130,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,30,,10670,120,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+20,31,Ca,31,,10890,100,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+

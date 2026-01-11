@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1993,28,7,0,,471.89,4638,60,5.2,,,2642,32,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+2041,28,6,0,,369.22,4741,60,5.3,,,2696,32,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+2112,28,7,0,,217.86,4892,60,5.3,,,2775,31,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+2151,28,9,0,,133.668,4976,60,5.2,,,2822,33,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+2162,28,17,0,,109.89,5000,60,5,,A,2834,32,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+2188,28,23,0,0.000000067,56.033,5054,60,4.8,,A,2860,31,56,92,Ba,,0,,0+,0.612,,17,s,0.612,0.017,B-,100,,5164,20,57,91,La,1-Oct-2013,N. NICA,2025-10-17
+

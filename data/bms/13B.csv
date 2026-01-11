@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1575,0.48,0.022,0.007,1.925053650090235e-20,9894.50,3542.3,1,4.95,0.14,A,1963.1,0.5,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+2073.8,4.4,0.16,0.03,2.548814050678133e-21,8866,4571,9,4.59,0.08,A,2490.4,4.7,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+2718.1,1.6,0.094,0.02,3.8019809589282146e-19,7547,5890,3,5.33,0.09,A,3161.1,1.7,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+4533.61,0.49,0.7,,0.0000000000086,3853.796,9582.7,1,5.5,,1NU,5025.8,0.5,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+4617.01,0.49,7.6,0.8,0.00000000000000113,3684.496,9752,1,4.453,0.046,A,5111.4,0.5,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+4910.19,0.49,0.7,,9.8e-16,3089.451,10347,1,5.6,,1NU,5410.8,0.5,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+6433.44,0.49,92.1,0.8,,0,13436.3,1,4.037,0.006,A,6964.2,0.5,5,8,B,,0,,3/2-,17.30,,17,ms,0.0173,0.00017,B-,100,,13436.9,10,6,7,C,1-Aug-2024,J.H. Kelley and  C.G. Sheu and J. E. Purcell,2025-10-17
+

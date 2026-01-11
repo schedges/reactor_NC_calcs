@@ -1,0 +1,18 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+78,94,Pt,0,,0,,,0+,1,97.6,,13,ms,0.0976,0.0013,A,94,6,EC+B+,6,6,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,1,,457.6,0.1,,2(+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,2,,1069.98,0.23,,(4+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,3,,1464.7,0.8,,(3-),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,4,,1753.2,0.4,,(6+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,5,,1839.2,0.3,,(5-),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,6,,1931.8,0.4,,,,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,7,,2081,0.4,,(7-),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,8,,2164,0.5,,,,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,9,,2405.8,0.4,,(8+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,10,,2406.3,0.4,,,,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,11,,2728.1,0.5,,,,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,12,,2742.6,0.4,,,,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,13,,2993.8,0.6,,(10+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,14,,3580.5,1.2,,(12+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+78,94,Pt,15,,4218,1.2,,(14+),1,,,,,,,,,,,,,,,,,,,,,15-Mar-2010,TIBOR KIBEDI AND CORAL M. BAGLIN,2025-10-17
+

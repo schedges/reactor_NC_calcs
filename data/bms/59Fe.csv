@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+22.01,0.13,0.078,0.007,,1481.63,83.4,0.4,7.1,0.04,A,61.42,0.33,26,33,Fe,,0,,3/2-,44.490,,9,d,3843936,777.6,B-,100,,1564.9,4,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2025-10-17
+35.68,0.12,1.31,0.05,0.00000000021,1434.253,130.7,0.4,6.482,0.018,A,95.3,0.32,26,33,Fe,,0,,3/2-,44.490,,9,d,3843936,777.6,B-,100,,1564.9,4,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2025-10-17
+80.94,0.14,45.3,1.1,0.000000000551,1291.601,273.4,0.4,5.979,0.011,A,192.9,0.6,26,33,Fe,,0,,3/2-,44.490,,9,d,3843936,777.6,B-,100,,1564.9,4,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2025-10-17
+149.21,0.15,53.1,1.5,0.000000000014,1099.257,465.7,0.4,6.696,0.013,A,317,0.5,26,33,Fe,,0,,3/2-,44.490,,9,d,3843936,777.6,B-,100,,1564.9,4,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2025-10-17
+614.47,0.19,0.18,0.04,,0.0,1565,0.4,11.14,0.1,2NU,931.7,1.4,26,33,Fe,,0,,3/2-,44.490,,9,d,3843936,777.6,B-,100,,1564.9,4,27,32,Co,1-Apr-2018,M. Shamsuzzoha Basunia,2025-10-17
+

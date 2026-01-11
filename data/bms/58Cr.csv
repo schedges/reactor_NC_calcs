@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1420,110,92,9.2,,809.7,3260,210,4,0.04,A,1850,110,24,34,Cr,,0,,0+,7.0,,3,s,7,0.3,B-,100,,3836,4,25,33,Mn,12-Jan-2010,CAROLINE D. NESARAJA and  SCOTT D. GERAEDTS AND BALRAJ SINGH,2025-10-17
+1480,110,10,,,683.1,3387,210,5,,,1910,110,24,34,Cr,,0,,0+,7.0,,3,s,7,0.3,B-,100,,3836,4,25,33,Mn,12-Jan-2010,CAROLINE D. NESARAJA and  SCOTT D. GERAEDTS AND BALRAJ SINGH,2025-10-17
+1580,110,2,,,463.4,3607,210,5.9,,,2030,110,24,34,Cr,,0,,0+,7.0,,3,s,7,0.3,B-,100,,3836,4,25,33,Mn,12-Jan-2010,CAROLINE D. NESARAJA and  SCOTT D. GERAEDTS AND BALRAJ SINGH,2025-10-17
+1670,110,3,,,289.4,3781,210,5.8,,A,2110,110,24,34,Cr,,0,,0+,7.0,,3,s,7,0.3,B-,100,,3836,4,25,33,Mn,12-Jan-2010,CAROLINE D. NESARAJA and  SCOTT D. GERAEDTS AND BALRAJ SINGH,2025-10-17
+1810,110,30,3,,0.0,4070,210,4.9,0.049,A,2260,110,24,34,Cr,,0,,0+,7.0,,3,s,7,0.3,B-,100,,3836,4,25,33,Mn,12-Jan-2010,CAROLINE D. NESARAJA and  SCOTT D. GERAEDTS AND BALRAJ SINGH,2025-10-17
+

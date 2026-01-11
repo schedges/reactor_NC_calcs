@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+73.52,0.07,0.02,0.002,,3445.279,250.36,0.21,6.57,0.05,A,177.37,0.32,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+99.15,0.08,1.2,0.03,,3369.91,325.73,0.21,5.173,0.011,A,227.06,0.28,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+190.44,0.09,0.04,0.004,,3122.908,572.73,0.21,7.5,0.05,A,382.88,0.14,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+255.23,0.09,14.5,0.3,,2959.935,735.7,0.21,5.337,0.009,A,481.37,0.22,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+381.96,0.09,27.5,0.4,,2657.547,1038.08,0.21,5.622,0.007,A,657.05,0.42,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+636.4,0.1,0.057,0.006,,2085.064,1610.56,0.21,9.06,0.05,A,975.71,0.16,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+1216.85,,56.6,0.7,,846.7762,2848.84,0.21,7.101,0.006,A,1633.4,0.11,25,31,Mn,,0,,3+,2.5789,,1,h,9284.04,0.36,B-,100,,3695.50,21,26,30,Fe,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-17
+

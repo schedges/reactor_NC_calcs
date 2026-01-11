@@ -1,0 +1,13 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,0.0000000002,277.072,418,4,5.30,0.05,8.22,0.01,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,,399.08,296,4,0.0005,,11.3,,,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,,590.880,104,4,0.000143,0.000014,9.9,0.1,1U,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,0.00000000733,22.5002,672,4,78,3.3,7.5,0.02,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,0.0000000000095,350.036,345,4,5.53,0.05,8.01,0.01,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,0.000000000024,558.374,137,4,0.164,0.005,8.55,0.04,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,,658.62,36,4,0.0082,0.0015,8,0.2,A,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,,0.0,695,4,10,3.3,8.4,0.2,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,0.00000000022,285.951,409,4,0.0007,0.00028,11.8,0.2,1U,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,0.000000000024,528.592,166,4,1.310,0.015,7.88,0.03,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+,,,,,636.421,59,4,0.000485,0.000017,9.8,0.1,1NU,,,63,86,Eu,,0,,5/2+,93.1,,4,d,8043840,34560,EC,100,,695,4,62,87,Sm,23-Aug-2022,Balraj Singh and Jun Chen,2025-10-17
+

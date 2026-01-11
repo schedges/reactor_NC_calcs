@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1039,32,25,15,,2069.6,2625,70,5.4,0.3,A,1589,38,65,101,Tb,,0,,(2-),25.1,,21,s,25.1,2.1,B-,100,,4775.7,17,66,100,Dy,1-Mar-2008,CORAL M. BAGLIN,2025-10-17
+1481,32,12,7,,1094.6,3600,70,6.3,0.3,A,2117,38,65,101,Tb,,0,,(2-),25.1,,21,s,25.1,2.1,B-,100,,4775.7,17,66,100,Dy,1-Mar-2008,CORAL M. BAGLIN,2025-10-17
+1840,32,9,5,,253.71,4441,70,8.46,0.25,1U,2612,41,65,101,Tb,,0,,(2-),25.1,,21,s,25.1,2.1,B-,100,,4775.7,17,66,100,Dy,1-Mar-2008,CORAL M. BAGLIN,2025-10-17
+1948,33,41,24,,76.58,4618,70,6.2,0.3,1NU,2667,39,65,101,Tb,,0,,(2-),25.1,,21,s,25.1,2.1,B-,100,,4775.7,17,66,100,Dy,1-Mar-2008,CORAL M. BAGLIN,2025-10-17
+1983,33,57,,,0.0,4695,70,6.1,,1U,2753,40,65,101,Tb,,0,,(2-),25.1,,21,s,25.1,2.1,B-,100,,4775.7,17,66,100,Dy,1-Mar-2008,CORAL M. BAGLIN,2025-10-17
+

@@ -1,0 +1,9 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+6,3,C,0,,0,,,3/2-,1,126.5,,10,ms,0.1265,0.001,EC+B+,100,,B+P,62,1.9,B+A,37.9,5.8,3/2,1.3914,0.0005,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,1,,2218,11,,1/2-,1,52,,11,keV,8.773802212911265e-21,1.855996621961998e-21,P,100,,,,,,,,3/2,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,2,,3542,20,,5/2-,1,673,,50,keV,6.779163671194439e-22,5.0365257586882904e-23,P,100,,,,,,,,3/2,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,3,,4400,40,,5/2+,1,2.75,,11,MeV,1.6590462366232207e-22,6.636184946492883e-24,P,100,,,,,,,,3/2,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,4,,5750,40,,,,601,,50,keV,7.591309734964821e-22,6.31556550329852e-23,P,100,,,,,,,,3/2,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,5,,9000,,,,,,,,,,,,,,,,,,,,,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+6,3,C,6,,15000,,,,,,,,,,,,,,,,,,,,,,,,,31-July-2020,J.H. KELLEY and  B. Grees,2025-10-16
+

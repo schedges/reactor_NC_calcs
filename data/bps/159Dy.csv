@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,137.4,228.2,1.2,0.0028,0.0006,10.34,,1U,,,66,93,Dy,,0,,3/2-,144.4,,2,d,12476160,17280,EC,100,,365.4,18,65,94,Tb,31-Dec-2010,C. W. Reich,2025-10-17
+,,,,0.00000000013,58.0,307.6,1.2,26.6,1.4,7.49,,1NU,,,66,93,Dy,,0,,3/2-,144.4,,2,d,12476160,17280,EC,100,,365.4,18,65,94,Tb,31-Dec-2010,C. W. Reich,2025-10-17
+,,,,,363.5,2.1,1.2,0.00019,0.00005,6.1,0.75,A,,,66,93,Dy,,0,,3/2-,144.4,,2,d,12476160,17280,EC,100,,365.4,18,65,94,Tb,31-Dec-2010,C. W. Reich,2025-10-17
+,,,,,0,365.6,1.2,73.4,1.4,7.22,,1NU,,,66,93,Dy,,0,,3/2-,144.4,,2,d,12476160,17280,EC,100,,365.4,18,65,94,Tb,31-Dec-2010,C. W. Reich,2025-10-17
+,,,,,348.1,17.5,1.2,0.0012,0.0001,8.25,,1NU,,,66,93,Dy,,0,,3/2-,144.4,,2,d,12476160,17280,EC,100,,365.4,18,65,94,Tb,31-Dec-2010,C. W. Reich,2025-10-17
+

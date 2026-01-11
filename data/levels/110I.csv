@@ -1,0 +1,34 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+53,57,I,0,,0,,,(1+),1,0.664,,24,s,0.664,0.024,EC+B+,83,4,A,17,4,ECP,11,3,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,1,X,0,,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,2,X,45,2,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,3,X,191,1,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,4,X,269,1.7,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,5,X,472,1.5,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,6,X,502,2,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,7,X,517,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,8,X,784,1.8,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,9,X,830,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,10,X,1071,2.2,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,11,X,1084,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,12,X,1128,2,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,13,X,1220,1.6,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,14,X,1387,2.3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,15,X,1706,1.6,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,16,X,1710,2.4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,17,X,1729,2.5,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,18,X,1834,2.4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,19,X,2065,1.7,,(11+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,20,X,2426,3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,21,X,2592,2,,(13+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,22,X,2676,3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,23,X,3256,2.2,,(15+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,24,X,3309,3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,25,X,3576,3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,26,X,3998,2.4,,(17+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,27,X,4267,3,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,28,X,4966,3,,(19+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,29,X,5412,4,,,,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,30,X,5973,3,,(21+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+53,57,I,31,X,7075,3,,(23+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+

@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+67.21,0.21,21.5,0.4,0.000000000069,208.20494,243.8,0.6,6.118,0.009,1NU,176.96,0.41,79,120,Au,,0,,3/2+,3.139,,7,d,271209.6,604.8,B-,100,,452.3,6,80,119,Hg,15-Oct-2006,BALRAJ SINGH,2025-10-17
+82.29,0.22,72,1.3,0.00000000246,158.37859,293.6,0.6,5.85,0.009,1NU,211.6,0.6,79,120,Au,,0,,3/2+,3.139,,7,d,271209.6,604.8,B-,100,,452.3,6,80,119,Hg,15-Oct-2006,BALRAJ SINGH,2025-10-17
+132.77,0.24,6.5,1.3,,0.0,452,0.6,7.5,0.09,1NU,319.7,0.8,79,120,Au,,0,,3/2+,3.139,,7,d,271209.6,604.8,B-,100,,452.3,6,80,119,Hg,15-Oct-2006,BALRAJ SINGH,2025-10-17
+

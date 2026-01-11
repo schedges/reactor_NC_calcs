@@ -1,0 +1,16 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+19,16,K,0,,0,,,(3/2)+,1,178,,8,ms,0.178,0.008,EC+B+,100,,ECP,0.37,0.15,,,,,0.392,0.007,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,1,,1553,5,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,2,,2690,50,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,3,,3783,26,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,4,,4020,37,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,5,,4790,49,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,6,,4983,13,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,7,,5251,73,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,8,,5536,49,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,9,,5713,49,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,10,,5867,38,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,11,,6092,62,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,12,,6336,73,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+19,16,K,13,,9169,23,,,,,,,,,,,,,,,,,,,,,,,,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-16
+

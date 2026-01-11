@@ -1,0 +1,22 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+47,51,Ag,0,,0,,,(6+),1,47.5,,3,s,47.5,0.3,EC+B+,100,,ECP,0.0011,0.0005,,,,,4.57,0.07,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,1,,107.28,0.1,,(4+),1,161,,7,ns,0.000000161,0.000000007,IT,100,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,2,,167.83,0.15,,(3+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,3,,220,0.3,,(7+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,4,,514.99,0.17,,(2+ 3+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,5,,1066.43,0.24,,(2 3+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,6,,1115.4,0.6,,(8+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,7,,1290.6,0.4,,(1+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,8,,1404.7,0.5,,(9+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,9,,1691.14,0.23,,1+,1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,10,,1861.1,0.5,,1+,2,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,11,,1863.1,0.6,,(10+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,12,,2152.5,0.6,,(11+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,13,,2164.9,0.5,,1+,3,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,14,,2544.4,0.8,,1+,4,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,15,,2562.5,0.7,,(12+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,16,,2715.7,0.7,,(13+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,17,,3716.7,1.1,,(13+),2,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,18,,4090.7,1.1,,(14+),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+47,51,Ag,19,,4475.7,1.5,,(15),1,,,,,,,,,,,,,,,,,,,,,15-Feb-2020,Jun Chen and  Balraj Singh,2025-10-17
+

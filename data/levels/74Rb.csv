@@ -1,0 +1,32 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+37,37,Rb,0,,0,,,0+,1,64.776,,30,ms,0.064776,0.00003,EC+B+,100,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,1,,478,,,(2+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,2,,1006,,,(3+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,3,,1053,,,(4+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,4,,1225,,,(4+),2,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,5,,1489,,,(5+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,6,,1546,,,(6+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,7,,1793,,,(7+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,8,,1806,,,(6+),2,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,9,,2241,,,(8+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,10,,2313,,,(9+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,11,,2972,,,,,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,12,,3126,,,(10+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,13,,3137,,,(11+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,14,,4091,,,(13+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,15,,4177,,,(12+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,16,,5216,,,(15+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,17,,5360,,,(14+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,18,,6517,,,(17+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,19,,6686,,,(16+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,20,,8006,,,(19+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,21,,8193,,,(18+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,22,,9654,,,(21+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,23,,9881,,,(20+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,24,,11411,,,(23+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,25,,11701,,,(22+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,26,,13376,,,(25+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,27,,15699,,,(27+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,28,,18478,,,(29+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+37,37,Rb,29,,21612,,,(31+),1,,,,,,,,,,,,,,,,,,,,,30-Apr-2006,BALRAJ SINGH and  AMEENAH R. FARHAN,2025-10-16
+

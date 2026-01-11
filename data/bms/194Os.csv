@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+3.59,0.57,0.12,,,82.334,14.3,2,7.4,,1NU,10.6,1.5,76,118,Os,,0,,0+,6.0,,2,Y,189341555.847552,6311385.1949184,B-,100,,96.6,20,77,117,Ir,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+13.71,0.53,76,10,,43.119,54.5,2,6.3,0.1,1NU,39.7,1.5,76,118,Os,,0,,0+,6.0,,2,Y,189341555.847552,6311385.1949184,B-,100,,96.6,20,77,117,Ir,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+25.13,0.55,24,10,,0.0,97,2,7.6,0.2,1NU,71.4,1.6,76,118,Os,,0,,0+,6.0,,2,Y,189341555.847552,6311385.1949184,B-,100,,96.6,20,77,117,Ir,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+

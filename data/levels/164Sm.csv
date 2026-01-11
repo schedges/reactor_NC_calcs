@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+62,102,Sm,0,,0,,,0+,1,1.43,,24,s,1.43,0.24,B-,100,,B-N,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+62,102,Sm,1,,69,1,,(2+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+62,102,Sm,2,,224.9,1.1,,(4+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+62,102,Sm,3,,467.2,1.1,,(6+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+62,102,Sm,4,,1136.1,1.1,,(5+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+62,102,Sm,5,,1485.5,1.2,,(6-),1,0.60,,14,us,0.0000006,0.00000014,IT,100,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+

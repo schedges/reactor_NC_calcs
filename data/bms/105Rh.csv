@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+33.04,0.68,0.0355,0.0008,,442.418,124.3,2.4,6.91,0.03,A,91.5,1.7,45,60,Rh,,0,,7/2+,35.341,,19,h,127227.6,68.4,B-,100,,566.6,23,46,59,Pd,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+69.72,0.75,17.8,0.6,0.00000000004,319.233,247.5,2.4,5.152,0.02,A,178,2,45,60,Rh,,0,,7/2+,35.341,,19,h,127227.6,68.4,B-,100,,566.6,23,46,59,Pd,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+73.79,0.76,4.75,0.1,,306.311,260.4,2.4,5.797,0.016,A,186.9,1.9,45,60,Rh,,0,,7/2+,35.341,,19,h,127227.6,68.4,B-,100,,566.6,23,46,59,Pd,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+81.99,0.78,0.01,,,280.522,286.2,2.4,8.6,,2NU,188.4,1.9,45,60,Rh,,0,,7/2+,35.341,,19,h,127227.6,68.4,B-,100,,566.6,23,46,59,Pd,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+179.31,0.89,77.9,0.5,,0.0,566.7,2.4,5.71,0.007,A,387.9,1.5,45,60,Rh,,0,,7/2+,35.341,,19,h,127227.6,68.4,B-,100,,566.6,23,46,59,Pd,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+

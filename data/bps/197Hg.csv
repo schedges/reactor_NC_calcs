@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,0.00000000191,77.3510,523,3,96.70,,6.1,,1NU,,,80,117,Hg,,0,,1/2-,64.14,,5,h,230904,180,EC,100,,600,3,79,118,Au,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+,,,,,0.0,600,3,1.87,,8,,1NU,,,80,117,Hg,,0,,1/2-,64.14,,5,h,230904,180,EC,100,,600,3,79,118,Au,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+,,,,7.73,409.17,490,3,8.6,0.7,6.7,0.04,1NU,,,80,117,Hg,,298.93,0.08,13/2+,23.8,,1,h,85680,360,EC,8.6,0.7,600,3,79,118,Au,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+,,,,,268.714,331,3,1.43,,7.5,,1NU,,,80,117,Hg,,0,,1/2-,64.14,,5,h,230904,180,EC,100,,600,3,79,118,Au,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+

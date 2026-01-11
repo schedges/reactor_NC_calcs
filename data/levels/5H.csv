@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+1,4,H,0,,0,,,(1/2+),1,5.3,,4,MeV,8.608258774931805e-23,6.4967990754202316e-24,2N,100,,,,,,,,,,,,,28-Feb-2019,J.E. Purcell and  C.G. Sheu,2025-10-16
+1,4,H,1,,3100,600,,,,5.3,,5,MeV,8.608258774931805e-23,8.120998844275289e-24,2N,100,,,,,,,,,,,,,28-Feb-2019,J.E. Purcell and  C.G. Sheu,2025-10-16
+1,4,H,2,,8100,600,,,,6.8,,6,MeV,6.709378162814495e-23,5.920039555424555e-24,2N,100,,,,,,,,,,,,,28-Feb-2019,J.E. Purcell and  C.G. Sheu,2025-10-16
+1,4,H,3,,16100,500,,,,4.8,,17,MeV,9.504952397320535e-23,3.3663373073843565e-23,2N,100,,,,,,,,,,,,,28-Feb-2019,J.E. Purcell and  C.G. Sheu,2025-10-16
+1,4,H,4,,24400,500,,,,3.5,,14,MeV,1.3035363287753876e-22,5.21414531510155e-23,2N,100,,,,,,,,,,,,,28-Feb-2019,J.E. Purcell and  C.G. Sheu,2025-10-16
+

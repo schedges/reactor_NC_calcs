@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,98.858,127.9,1,58.2,1.9,6.511,0.019,1NU,,,79,116,Au,,0,,3/2+,186.01,,6,d,16071264,5184,EC,100,,226.8,12,78,117,Pt,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+,,,,,211.4071,15.4,1,0.0195,0.002,7.16,0.11,1NU,,,79,116,Au,,0,,3/2+,186.01,,6,d,16071264,5184,EC,100,,226.8,12,78,117,Pt,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+,,,,,0.0,226.8,1,9.5,0.4,8.071,0.019,1NU,,,79,116,Au,,0,,3/2+,186.01,,6,d,16071264,5184,EC,100,,226.8,12,78,117,Pt,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+,,,,,199.46,27.3,1,0.0142,0.0013,8.17,0.07,1NU,,,79,116,Au,,0,,3/2+,186.01,,6,d,16071264,5184,EC,100,,226.8,12,78,117,Pt,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+,,,,,129.734,97.1,1,32.2,1.5,6.32,0.03,1NU,,,79,116,Au,,0,,3/2+,186.01,,6,d,16071264,5184,EC,100,,226.8,12,78,117,Pt,1-Mar-2014,Huang Xiaolong and Kang Mengxiao,2025-10-17
+

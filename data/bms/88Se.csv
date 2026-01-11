@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1597.6,2.5,6.8,0,,3154.1,3678,5,4.8,,A,2080.8,2.6,34,54,Se,,0,,0+,1.53,,6,s,1.53,0.06,B-,100,,6832,5,35,53,Br,1-Nov-2013,E.A. McCutchan and A.A. Sonzogni,2025-10-17
+2199.9,2.5,40,0,,1903.72,4928,5,4.6,,A,2727,3,34,54,Se,,0,,0+,1.53,,6,s,1.53,0.06,B-,100,,6832,5,35,53,Br,1-Nov-2013,E.A. McCutchan and A.A. Sonzogni,2025-10-17
+2847,2.5,6.1,0,,566.0,6266,5,5.9,,A,3414.4,2.9,34,54,Se,,0,,0+,1.53,,6,s,1.53,0.06,B-,100,,6832,5,35,53,Br,1-Nov-2013,E.A. McCutchan and A.A. Sonzogni,2025-10-17
+2923.1,2.5,5.5,0,,408.7,6423,5,6,,A,3495.7,2.9,34,54,Se,,0,,0+,1.53,,6,s,1.53,0.06,B-,100,,6832,5,35,53,Br,1-Nov-2013,E.A. McCutchan and A.A. Sonzogni,2025-10-17
+2989,2.5,6.1,,,272.7,6559,5,6,,A,3565.7,2.6,34,54,Se,,0,,0+,1.53,,6,s,1.53,0.06,B-,100,,6832,5,35,53,Br,1-Nov-2013,E.A. McCutchan and A.A. Sonzogni,2025-10-17
+

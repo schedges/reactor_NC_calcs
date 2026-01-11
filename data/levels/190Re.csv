@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+75,115,Re,0,,0,,,(2)-,1,3.0,,2,m,180,12,B-,100,,,,,,,,,,,,,15-Oct-2020,Balraj Singh and {+1} and Jun Chen{+2},2025-10-17
+75,115,Re,1,,119.12,0.05,,(3)-,1,,,,,,,,,,,,,,,,,,,,,15-Oct-2020,Balraj Singh and {+1} and Jun Chen{+2},2025-10-17
+75,115,Re,2,,162.1,0.1,,(0+),1,,,,,,,,,,,,,,,,,,,,,15-Oct-2020,Balraj Singh and {+1} and Jun Chen{+2},2025-10-17
+75,115,Re,3,,204,10,,(6-),1,3.1,,2,h,11160,720,B-,54.4,2,IT,45.6,2,,,,,,,,,15-Oct-2020,Balraj Singh and {+1} and Jun Chen{+2},2025-10-17
+75,115,Re,4,,319.7,0.15,,1+,1,,,,,,,,,,,,,,,,,,,,,15-Oct-2020,Balraj Singh and {+1} and Jun Chen{+2},2025-10-17
+

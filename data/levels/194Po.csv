@@ -1,0 +1,19 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+84,110,Po,0,,0,,,0+,1,0.392,,4,s,0.392,0.004,A,93,7,EC+B+,7,7,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,1,,319.31,0.1,,2+,1,26,,5,ps,0.000000000026,0.000000000005,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,2,,685.46,0.14,,4+,1,9.7,,28,ps,0.0000000000097,0.0000000000028,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,3,,757.67,0.12,,(2+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,4,,1147.19,0.24,,6+,1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,5,,1210.38,0.17,,(4+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,6,,1644.39,0.23,,(6+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,7,,1692.2,0.3,,8+,1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,8,,1984.7,0.5,,(7-),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,9,,2065.6,0.3,,(8+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,10,,2281.7,0.6,,(9-),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,11,,2294,0.4,,10+,1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,12,,2313.6,0.3,,(10-),1,12.9,,5,us,0.0000129,0.0000005,IT,100,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,13,,2623.2,0.5,,12+,1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,14,,2653.8,0.8,,(10),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,15,,2915.3,0.6,,(14+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+84,110,Po,16,,3325.3,0.8,,(16+),1,,,,,,,,,,,,,,,,,,,,,3-Sep-2021,Jun Chen and Balraj Singh,2025-10-17
+

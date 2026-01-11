@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+102,149,No,0,,0,,,(7/2+),1,0.80,,1,s,0.8,0.01,A,91,,SF,0.0014,,EC+B+,0,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+102,149,No,1,,60.3,0.3,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+102,149,No,2,,106,6,,(1/2+),1,1.00,,4,s,1,0.04,A,100,,,,,,,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+102,149,No,3,,203.6,0.2,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+102,149,No,4,,917.2,0.5,,(7/2+),2,,,,,,,,,,,,,,,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+102,149,No,5,,1699.2,,,,,2,AP,,us,0.000002,,,,,,,,,,,,,,,,23-Sep-2022,C. Morse,2025-10-17
+

@@ -1,0 +1,30 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+4,4,Be,0,,0,,,0+,1,5.57,,25,eV,8.190982317260066e-17,3.676383445807929e-18,A,100,,,,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,1,,3030,10,,2+,1,1513,,15,keV,3.0154508596919083e-22,2.9895415000250244e-24,A,100,,,,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,2,,11350,150,,4+,1,3.5,AP,,MeV,1.3035363287753876e-22,0,A,100,,,,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,3,,16626,3,,2+,2,108.1,,5,keV,4.220515403065548e-21,1.952134784026618e-23,A,100,,IT,0.00265,,,,,0&1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,4,,16922,3,,2+,3,74.0,,4,keV,6.165374527991699e-21,3.3326348799955134e-23,A,100,,IT,0.00389,,,,,0&1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,5,,17640,1,,1+,1,10.7,,5,keV,4.2639038791718296e-20,1.9924784482111355e-21,P,99.8,,IT,0.204,,,,,1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,6,,18150,4,,1+,2,138,,6,keV,3.3060703990680127e-21,1.4374219126382663e-22,P,100,,IT,0.0046,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,7,,18910,,,2-,1,122,,,keV,3.739653402224474e-21,0,IT,0.00022,,N,,,P,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,8,,19069,10,,3+,1,271,,15,keV,1.683534003953453e-21,9.318453896421326e-23,P,100,,IT,0.00387,,,,,1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,9,,19235,10,,3+,2,227,,16,keV,2.009857775644871e-21,1.4166398418642265e-22,N,50,,P,50,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,10,,19400,,,1-,1,645,AP,,keV,7.07345294684319e-22,0,P,,,N,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,11,,19860,50,,4+,2,0.7,,1,MeV,6.5176816438769385e-22,9.310973776967056e-23,A,70,,P,30,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,12,,20100,,,2+,4,880,,20,keV,5.184519489447565e-22,1.1782998839653557e-23,P,,,A,,,N,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,13,,20200,,,0+,2,720,,20,keV,6.336634931547024e-22,1.7601763698741732e-23,A,50,,N,,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,14,,20900,,,4-,1,1.6,,2,MeV,2.8514857191961605e-22,3.5643571489952007e-23,P,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,15,,21500,,,3(+),1,1.1,,,MeV,4.1476155915580514e-22,0,P,,,N,,,IT,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,16,,22000,,,1-,2,4,AP,,MeV,1.1405942876784642e-22,0,P,,,IT,,,,,,1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,17,,22050,100,,,,270,,70,keV,1.6897693150792066e-21,4.380883409464609e-22,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,18,,22240,20,,2+,5,0.8,AP,,MeV,5.702971438392321e-22,0,D,,,P,,,A,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,19,,22630,100,,,,100,,50,keV,4.5623771507138576e-21,2.2811885753569288e-21,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,20,,22980,100,,,,230,,50,keV,1.9836422394408077e-21,4.312265737914799e-22,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,21,,24000,,,(1 2)-,1,7,AP,,MeV,6.517681643876938e-23,0,A,,,IT,,,P,,,1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,22,,25200,,,2+,6,,,,,,,D,,,A,,,P,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,23,,25500,,,4+,3,,,,,,,A,,,D,,,,,,0,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,24,,27494.1,1.8,,0+,3,5.5,,20,keV,8.295231183116105e-20,3.0164477029513113e-20,N,39.4,,D,27,,3H,11.7,,2,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,25,,28600,,,,,,,,,,,P,,,IT,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,26,,32000,,,,,1,,,MeV,4.562377150713857e-22,0,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+4,4,Be,27,,41000,,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+

@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+261.4,1.6,0.42,0.03,,2137.35,768,4,5.39,0.04,,507.2,2.4,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+304.2,1.7,2.23,0.16,,2031.96,873,4,4.87,0.04,,569.7,2.4,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+342.9,1.7,0.11,0.011,,1938.83,966,4,6.34,0.05,,624.4,2,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+569.8,1.8,0.066,0.008,,1416.58,1488,4,7.29,0.06,1NU,919.8,3.3,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+602.9,1.8,0.048,0.014,,1342.62,1562,4,7.5,0.1,1NU,961,2.7,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+656.5,1.9,0.52,0.05,,1223.99,1681,4,6.6,0.05,A,1025.9,3,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+694.4,1.9,0.025,0.008,,1140.74,1764,4,8,0.2,1NU,1071.3,2.4,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+709.6,1.9,0.83,0.1,,1107.32,1798,4,6.52,0.06,,1088.8,2.8,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+1082.7,1.9,96,2,16128,304.88,2600,4,5.12,0.02,A,1516.8,3.1,35,50,Br,,0,,3/2-,2.90,,6,m,174,3.6,B-,100,,2905,4,36,49,Kr,31-Dec-2013,BALRAJ SINGH AND JUN CHEN,2025-10-17
+

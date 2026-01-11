@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+5,3,B,0,,0,,,2+,1,770,,3,ms,0.77,0.003,B+A,100,,EC+B+,100,,,,,1,1.0355,0.0003,0.0643,0.0014,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+5,3,B,1,,769.5,2.5,,1+,1,35.6,,6,keV,1.281566615369061e-20,2.15994373376808e-22,P,100,,IT,0.00007,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+5,3,B,2,,2320,20,,3+,1,350,,30,keV,1.3035363287753879e-21,1.1173168532360467e-22,P,100,,IT,0.000029,,,,,1,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+5,3,B,3,,3500,500,,2-,1,8,,4,MeV,5.702971438392321e-23,2.8514857191961605e-23,,,,,,,,,,,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+5,3,B,4,,10619,9,,0+,1,60,LT,,keV,7.603961917856429e-21,0,,,,,,,,,,2,,,,,31-Mar-2004,D.R. Tilley and  J.H. Kelley and  J.L. Godwin and  D.J Millener et al.,2025-10-16
+

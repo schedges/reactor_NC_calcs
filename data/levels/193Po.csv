@@ -1,0 +1,10 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+84,109,Po,0,,0,,,(3/2-),1,399,,34,ms,0.399,0.034,A,100,,,,,,,,,,,-1.3,0.3,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,1,,100,6,,(13/2+),1,245,,11,ms,0.245,0.011,A,100,,,,,,,,,,,1.1,0.5,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,2,,351.4,0.5,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,3,,375,0.5,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,4,,712.3,0.7,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,5,,744.3,0.8,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,6,,1176,0.9,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+84,109,Po,7,,1229.7,1,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2017,M. Shamsuzzoha Basunia,2025-10-17
+

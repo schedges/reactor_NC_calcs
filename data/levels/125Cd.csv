@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+48,77,Cd,0,,0,,,(3/2+),1,0.68,,4,s,0.68,0.04,B-,100,,,,,,,,,0.8603,0.0006,0.209,0.01,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,1,X,,,186,(11/2-),1,0.48,,3,s,0.48,0.03,B-,100,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,2,X,719.7,0.2,186,(15/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,3,X,1463,0.3,186,(19/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,4,X,2249.2,0.5,186,(23/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,5,X,3116.9,0.5,186,(27/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,6,X,3171.7,0.5,186,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,7,X,3580.4,0.7,186,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,8,X,3606.5,0.7,186,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+48,77,Cd,9,Y,3606.5,,,(33/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2010,J. KATAKURA,2025-10-17
+

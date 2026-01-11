@@ -1,0 +1,9 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+84,108,Po,0,,0,,,0+,1,32.2,,3,ms,0.0322,0.0003,A,99.5,,EC+B+,0.5,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,1,,262,0.3,,(2+),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,2,,605.2,0.5,,(4+),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,3,,1043.3,0.7,,(6+),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,4,,1561.2,0.9,,(8+),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,5,,2140.6,1.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+84,108,Po,6,,2294.6,,,(11-),1,0.58,,10,us,0.00000058,0.0000001,IT,100,,,,,,,,,,,,,15-Jun-2012,Coral M. Baglin,2025-10-17
+

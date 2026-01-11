@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+6090,130,14,1.8,,2113.6,12696,250,4.4,0.07,A,6610,130,10,20,Ne,,0,,0+,7.18,,22,ms,0.00718,0.00022,B-,100,,14810,250,11,19,Na,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-17
+6670,130,7.7,1.2,,926.0,13884,250,4.85,0.08,A,7200,130,10,20,Ne,,0,,0+,7.18,,22,ms,0.00718,0.00022,B-,100,,14810,250,11,19,Na,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-17
+7050,130,63,11,0.000000000347,150.62,14659,250,4.05,0.09,A,7590,130,10,20,Ne,,0,,0+,7.18,,22,ms,0.00718,0.00022,B-,100,,14810,250,11,19,Na,31-May-2024,M. S. Basunia and  A. Chakraborty,2025-10-17
+

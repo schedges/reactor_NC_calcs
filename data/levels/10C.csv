@@ -1,0 +1,10 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+6,4,C,0,,0,,,0+,1,19.290,,12,s,19.29,0.012,EC+B+,100,,,,,,,,1,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,1,,3353.7,0.6,,2+,1,107,,17,fs,0.000000000000107,0.000000000000017,IT,100,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,2,,5220,40,,,,225,,45,keV,2.027723178095048e-21,4.055446356190096e-22,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,3,,5380,70,,,,300,,60,keV,1.5207923835712858e-21,3.0415847671425717e-22,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,4,,6580,20,,(2+),1,190,,35,keV,2.4012511319546617e-21,4.423357348337535e-22,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,5,,9000,,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,6,,10000,,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+6,4,C,7,,16500,,,(2+),2,,,,,,,,,,,,,,,,,,,,,31-Mar-2004,J.H. KELLEY and  C.G.SHEU AND J.L. GODWIN and  ET AL.,2025-10-16
+

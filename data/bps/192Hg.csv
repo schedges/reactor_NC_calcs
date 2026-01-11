@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,167.49,597,22,2.2,1.1,6.8,0.22,1NU,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+,,,,0.00000000018,306.47,458,22,66,5,5.06,0.07,A,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+,,,,0.00000000005,157.28,607,22,19.7,1.2,5.87,0.05,,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+,,,,,262.59,501,22,6.4,0.8,6.16,0.08,,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+,,,,,245.57,518,22,8.2,1.8,6.09,0.11,,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+,,,,,436.59,327,22,1.37,0.17,6.39,0.1,,,,80,112,Hg,,0,,0+,4.85,,20,h,17460,720,EC,100,,761,22,79,113,Au,15-Jun-2012,Coral M. Baglin,2025-10-17
+

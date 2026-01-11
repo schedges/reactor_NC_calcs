@@ -1,0 +1,43 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+20,30,Ca,0,,0,,,0+,1,13.45,,5,s,13.45,0.05,B-,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,1,,1026.72,0.1,,2+,1,66.5,,21,ps,0.0000000000665,0.0000000000021,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,2,,3002.1,0.5,,(2+),1,0.69,LT,,ps,0.00000000000069,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,3,,3531.7,0.4,,(1 2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,4,,3997.22,0.21,,(3-),1,0.69,LT,,ps,0.00000000000069,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,5,,4035.7,0.4,,(1 2+),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,6,,4475.8,0.5,,(0+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,7,,4515.04,0.14,,(4+),1,1.04,LT,,ps,0.00000000000104,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,8,,4830.6,0.3,,(4),1,0.69,LT,,ps,0.00000000000069,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,9,,4870,5,,(2+),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,10,,4886.3,0.5,,(1-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,11,,4970,50,,(4+&5-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,12,,5043,15,,(1-),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,13,,5084.56,0.25,,(4-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,14,,5109.88,0.2,,(5-),1,0.69,LT,,ps,0.00000000000069,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,15,,5147.34,0.17,,(5+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,16,,5168,20,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,17,,5281,20,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,18,,5362,20,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,19,,5434,20,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,20,,5516.92,0.2,,(5-),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,21,,5576,20,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,22,,6519,8,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,23,,6869.27,0.25,,(7-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,24,,7039,36,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,25,,7269,46,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,26,,7309,51,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,27,,7619,66,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,28,,7999,87,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,29,,8249,97,,,,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,30,,8380,50,,(7-),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,31,,8810,120,,(0- 1-),1,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,32,,8980,50,,(7-),3,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,33,,9239,46,,(0- 1-),2,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,34,,9779,72,,(0- 1-),3,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,35,,9800,50,,(6+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,36,,10330,50,,(8+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,37,,10430,36,,(0- 1-),4,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,38,,10550,110,,(0- 1-),5,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,39,,11059,36,,(0- 1-),6,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+20,30,Ca,40,,11479,52,,(0- 1-),7,,,,,,,N,100,,,,,,,,,,,,,15-Apr-2019,Jun Chen and Balraj Singh,2025-10-16
+

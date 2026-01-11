@@ -1,0 +1,18 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+33,34,As,0,,0,,,(5/2-),1,42.5,,12,s,42.5,1.2,EC+B+,100,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,1,,68.56,0.19,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,2,,352,1,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,3,,697.19,0.1,,(7/2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,4,,1103.57,0.17,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,5,,1422.57,0.13,,9/2+,1,12,,2,ns,0.000000012,0.000000002,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,6,,2282.34,0.24,,(11/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,7,,2365.14,0.16,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,8,,3180.42,0.19,,(13/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,9,,3593.61,0.19,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,10,,3885.66,0.21,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,11,,4524.31,0.2,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,12,,4951.12,0.2,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,13,,5726.02,0.23,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,14,,6710.3,0.3,,29/2+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+33,34,As,15,,7791.3,0.6,,(33/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+

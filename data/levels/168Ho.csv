@@ -1,0 +1,8 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+67,101,Ho,0,,0,,,3+,1,2.99,,7,m,179.4,4.2,B-,100,,,,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+67,101,Ho,1,,59,,,(6+),1,132,,4,s,132,4,IT,99.5,,B-,0.5,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+67,101,Ho,2,,143.43,0.17,,(1)-,1,4,GT,,us,0.000004,,,,,,,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+67,101,Ho,3,,187.17,0.22,,1(-),1,,,,,,,,,,,,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+67,101,Ho,4,,192.57,0.2,,1+,1,108,,11,ns,0.000000108,0.000000011,,,,,,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+67,101,Ho,5,,630.41,0.19,,1+,2,,,,,,,,,,,,,,,,,,,,,15-Jun-2010,CORAL M. BAGLIN,2025-10-17
+

@@ -1,0 +1,5 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+22,39,Ti,0,,0,,,(1/2-),1,15,,4,ms,0.015,0.004,B-,100,,B-N,,,B-2N,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+22,39,Ti,1,,125,0.5,,(5/2-),1,200,,28,ns,0.0000002,0.000000028,IT,100,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+22,39,Ti,2,,700.1,0.7,,(9/2+),1,354,,69,ns,0.000000354,0.000000069,IT,100,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+

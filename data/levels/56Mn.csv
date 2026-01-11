@@ -1,0 +1,260 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+25,31,Mn,0,,0,,,3+,1,2.5789,,1,h,9284.04,0.36,B-,100,,,,,,,,,3.221,0.002,0.24,0.08,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,1,,26.6045,0.0013,,2+,1,8.7,,5,ns,0.0000000087,0.0000000005,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,2,,110.5041,0.0018,,1+,1,5.08,,15,ns,0.00000000508,0.00000000015,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,3,,212.026,0.005,,4+,1,30,,2,ps,0.00000000003,0.000000000002,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,4,,215.1282,0.0024,,1+ 2+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,5,,335.529,0.006,,5+,1,2.0,,14,ns,0.000000002,0.0000000014,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,6,,340.989,0.006,,3+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,7,,454.337,0.007,,3+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,8,,486.31,0.007,,3+,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,9,,541,5,,(2- 3-),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,10,,661,5,,(2- 3-),2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,11,,716.178,0.008,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,12,,753.46,0.08,,3+,5,0.5,LT,,ps,0.0000000000005,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,13,,840.42,0.03,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,14,,853,5,,+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,15,,884,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,16,,974,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,17,,1140,10,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,18,,1167.7,1,,1+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,19,,1192.26,0.08,,(4)+,1,0.5,,2,ps,0.0000000000005,0.0000000000002,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,20,,1195,10,,(3+),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,21,,1236.66,0.13,,,,2.6,,4,ps,0.0000000000026,0.0000000000004,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,22,,1239,0.3,,1+ 2+ 3+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,23,,1293.7,0.3,,(2)+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,24,,1350.9,1,,2+ 3+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,25,,1364,5,,(2- 3-),3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,26,,1384,5,,(2- 3-),4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,27,,1447,15,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,28,,1484,8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,29,,1484.54,0.11,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,30,,1509.9,1,,2+ 3+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,31,,1560,10,,(1+),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,32,,1613.57,0.15,,(+),1,0.59,,24,ps,0.00000000000059,0.00000000000024,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,33,,1655,15,,(1+),2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,34,,1674,5,,(2- 3-),5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,35,,1692.9,1,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,36,,1727.46,0.21,,+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,37,,1744.4,1,,2+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,38,,1780,15,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,39,,1833.67,0.02,,1+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,40,,1865.97,0.21,,(2+),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,41,,1878,5,,2- 3-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,42,,1911,5,,(+),2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,43,,1949,5,,+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,44,,1970,10,,(3+),2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,45,,1980.2,0.8,,(2 3)-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,46,,2016.54,0.2,,2+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,47,,2038,5,,(+),3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,48,,2071.34,0.2,,2+ 3+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,49,,2089.85,0.2,,3-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,50,,2116,,,-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,51,,2118,15,,(4+),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,52,,2159.14,0.2,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,53,,2203.25,0.2,,(+),4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,54,,2235.14,0.21,,2+ (3)+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,55,,2254.85,0.2,,3+,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,56,,2273.27,0.14,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,57,,2300.72,0.21,,+,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,58,,2321.19,0.12,,2-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,59,,2335.32,0.21,,+,5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,60,,2362.62,0.21,,2+ 3+,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,61,,2396.45,0.2,,2+ 3+,5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,62,,2421,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,63,,2432.1,1,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,64,,2441.76,0.2,,2+,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,65,,2475,10,,0+ 1+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,66,,2518.8,0.8,,(1+),3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,67,,2545.8,0.8,,1+,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,68,,2555,20,,(5+),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,69,,2579.9,0.16,,,,0.7,GT,,ps,0.0000000000007,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,70,,2617,15,,(1+),4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,71,,2629.4,1,,2- 3-,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,72,,2650.2,0.5,,,,0.6,,3,ps,0.0000000000006,0.0000000000003,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,73,,2652,0.8,,(2- 3-),6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,74,,2681.85,0.21,,+,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,75,,2704.37,0.2,,2+ 3+,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,76,,2719.96,0.21,,2+ (3)+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,77,,2780,5,,(1+),5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,78,,2797.5,0.8,,1+ 2+ 3+,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,79,,2824.56,0.21,,2+ 3+,7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,80,,2855.17,0.21,,+,7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,81,,2872.48,0.2,,2- 3-,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,82,,2889.57,0.21,,1+,5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,83,,2922.57,0.21,,+,8,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,84,,2942,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,85,,2951.07,0.21,,+,9,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,86,,3003.25,0.14,,2- 3-,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,87,,3018.88,0.21,,+,10,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,88,,3047.59,0.2,,1+,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,89,,3060,,,8-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,90,,3071.38,0.21,,+,11,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,91,,3105.8,0.2,,,,0.17,,7,ps,0.00000000000017,0.00000000000007,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,92,,3130,5,,+,12,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,93,,3159.7,0.2,,+,13,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,94,,3165.91,0.2,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,95,,3218.2,0.8,,-,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,96,,3230,,,6-,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,97,,3240.8,0.21,,+,14,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,98,,3260,20,,(1+),6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,99,,3263.85,0.2,,2- 3-,5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,100,,3291.2,0.21,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,101,,3293.71,0.15,,2- 3-,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,102,,3315.6,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,103,,3345,5,,2- 3-,7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,104,,3373.6,0.8,,+,15,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,105,,3386.6,0.3,,1+,7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,106,,3395.8,0.4,,,,0.14,LT,,ps,0.00000000000014,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,107,,3412.81,0.21,,+,16,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,108,,3428,10,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,109,,3450.21,0.21,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,110,,3455.61,0.21,,(2- 3-),7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,111,,3466,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,112,,3485.48,0.2,,(-),1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,113,,3497.82,0.21,,1+,8,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,114,,3518.32,0.21,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,115,,3524.82,0.2,,+,17,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,116,,3544,5,,(2- 3-),8,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,117,,3584,5,,+,18,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,118,,3608,5,,(2- 3-),9,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,119,,3628.33,0.21,,2+ 3+ (1)+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,120,,3648,5,,(+),5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,121,,3675,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,122,,3690.03,0.21,,(1+),7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,123,,3696.83,0.15,,+,19,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,124,,3721.43,0.21,,1+ 2+ 3+,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,125,,3747.96,0.24,,2- 3-,8,0.28,LT,,ps,0.00000000000028,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,126,,3771.74,0.21,,2 3 4,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,127,,3794,5,,+,20,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,128,,3812,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,129,,3823,5,,-,3,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,130,,3839.84,0.21,,2- 3-,9,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,131,,3861.54,0.21,,2- 3-,10,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,132,,3878,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,133,,3901.8,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,134,,3927.25,0.2,,(+),6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,135,,3961.9,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,136,,3976,5,,(+),7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,137,,3982.45,0.21,,2- 3-,11,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,138,,3998.36,0.2,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,139,,3999.5,0.3,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,140,,4001.3,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,141,,4028,5,,(+),8,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,142,,4072,5,,(+),9,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,143,,4098.16,0.21,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,144,,4118,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,145,,4132.1,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,146,,4153,5,,2- 3-,12,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,147,,4174.1,0.8,,(+),10,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,148,,4195.2,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,149,,4225,5,,-,4,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,150,,4238,5,,-,5,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,151,,4263,5,,(2- 3-),10,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,152,,4283,5,,2- 3-,13,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,153,,4300.7,0.8,,2- 3-,14,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,154,,4327,5,,6-,2,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,155,,4350,5,,2- 3-,15,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,156,,4374,5,,(+),11,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,157,,4378.8,0.3,,(9),1,0.26,,5,ps,0.00000000000026,0.00000000000005,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,158,,4403,5,,2- 3-,16,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,159,,4417.1,0.8,,(+),12,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,160,,4432,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,161,,4457,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,162,,4470,0.8,,2- 3-,17,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,163,,4512,5,,+,21,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,164,,4525,10,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,165,,4543,5,,2- 3-,18,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,166,,4565,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,167,,4581,5,,2- 3-,19,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,168,,4610,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,169,,4628,5,,+,22,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,170,,4643,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,171,,4653,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,172,,4673,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,173,,4697,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,174,,4712,5,,+,23,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,175,,4739.6,0.8,,+,24,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,176,,4753,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,177,,4769,0.8,,+,25,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,178,,4798.3,0.8,,+,26,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,179,,4809,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,180,,4816.9,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,181,,4818.4,0.3,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,182,,4820.7,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,183,,4834,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,184,,4841.22,0.2,,2- 3-,20,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,185,,4863,5,,2- 3-,21,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,186,,4886,5,,2- 3-,22,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,187,,4898.6,0.21,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,188,,4918,5,,+,27,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,189,,4928.1,0.21,,+,28,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,190,,4950,5,,-,6,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,191,,4968,5,,+,29,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,192,,4978,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,193,,4989,5,,2- 3-,23,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,194,,5013,5,,2- 3-,24,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,195,,5044,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,196,,5065,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,197,,5072,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,198,,5085,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,199,,5113,5,,-,7,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,200,,5129.75,0.2,,-,8,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,201,,5161,5,,(+),13,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,202,,5172,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,203,,5188,5,,2- 3-,25,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,204,,5208,5,,+,30,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,205,,5223,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,206,,5261,5,,-,9,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,207,,5275,5,,-,10,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,208,,5298.6,0.8,,-,11,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,209,,5313.9,0.8,,-,12,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,210,,5321.7,0.4,,(10),1,0.14,LT,,ps,0.00000000000014,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,211,,5332,5,,+,31,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,212,,5343,5,,-,13,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,213,,5364,5,,-,14,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,214,,5387,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,215,,5407,5,,-,15,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,216,,5416,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,217,,5430,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,218,,5445,5,,-,16,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,219,,5456,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,220,,5471,5,,-,17,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,221,,5485.8,0.8,,-,18,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,222,,5515,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,223,,5525,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,224,,5551,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,225,,5564.2,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,226,,5595,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,227,,5604.3,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,228,,5642,5,,(2- 3-),11,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,229,,5652.2,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,230,,5664.4,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,231,,5683,5,,+,32,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,232,,5712.1,0.8,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,233,,5714.81,0.2,,+,33,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,234,,5734.2,0.8,,(+),14,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,235,,5751,5,,(+),15,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,236,,5765,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,237,,5775,5,,2- 3-,26,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,238,,5795.1,0.8,,(+),16,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,239,,5833,5,,2- 3-,27,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,240,,5861,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,241,,5870,5,,(+),17,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,242,,5890,5,,(+),18,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,243,,5910,5,,-,19,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,244,,5936,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,245,,5956.8,0.8,,-,20,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,246,,6266,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,247,,6309,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,248,,6318,0.5,,,,0.14,LT,,ps,0.00000000000014,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,249,,6367,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,250,,6411,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,251,,6464,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,252,,6478,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,253,,6512,5,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,254,,6960,,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,255,,7407.8,0.6,,,,0.14,LT,,ps,0.00000000000014,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,256,,7450,,,9+,1,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+25,31,Mn,257,,7700,,,,,,,,,,,,,,,,,,,,,,,,,29-Oct-2009,HUO JUNDE and  HUO SU and  YANG DONG,2025-10-16
+

@@ -1,0 +1,98 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+77,109,Ir,0,,0,,,5+,1,16.64,,3,h,59904,108,EC+B+,100,,,,,,,,,3.8,0.12,-2.55,0.03,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,1,X,0,,0.8,2-,1,1.90,,5,h,6840,180,EC+B+,75,,IT,25,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,2,X,1.1,0.11,0.8,(3)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,3,X,54.15,0.08,0.8,1- 2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,4,X,71.84,0.25,0.8,(2 3 4)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,5,X,77.93,0.1,0.8,(2)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,6,X,102.89,0.15,0.8,(2 3 4)+,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,7,X,110.09,0.1,0.8,(2)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,8,,117.4,0.9,,7+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,9,X,120.48,0.11,0.8,(1 3)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,10,,137.3,1,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,11,,167.3,0.9,,(6+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,12,X,182.1,0.4,0.8,(1+ 2+ 3+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,13,X,194.46,0.23,0.8,(1 2 3)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,14,X,204.75,0.14,0.8,(0 1 2)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,15,,206.4,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,16,X,213.34,0.19,0.8,(1 2 3)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,17,X,225.49,0.14,0.8,(2)+,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,18,X,237.31,0.14,0.8,(0 1)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,19,,246.4,1,,(7+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,20,X,252.57,0.19,0.8,(1 2 3 4),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,21,X,259.64,0.11,0.8,0- 1- 2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,22,X,264.51,0.1,0.8,(1)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,23,,312.7,1,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,24,X,324.32,0.2,0.8,(2)+,3,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,25,X,331.2,0.14,0.8,(0 1),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,26,X,334.59,0.16,0.8,(1)-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,27,,359.1,1.1,,9+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,28,,363.2,1,,(8+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,29,,396.6,1.3,,(8-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,30,,402.8,1.1,,(8),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,31,X,419.74,0.14,0.8,0+ 1+ 2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,32,X,433.3,0.09,0.8,(1 2)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,33,X,444.76,0.12,0.8,(1)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,34,X,446.65,0.17,0.8,1+ 2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,35,,519.8,1.1,,(9+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,36,,520.1,1.3,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,37,X,570.67,0.19,0.8,0- 1- 2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,38,,686,1.4,,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,39,X,689.44,0.07,0.8,1+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,40,,704.6,1,,(10+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,41,X,714.2,0.08,0.8,1+,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,42,,719.1,1.1,,(10+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,43,,721.7,1.3,,11+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,44,,756.1,1.5,,(10-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,45,X,772.2,0.4,0.8,(0 1 2 3)+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,46,,869.8,1.4,,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,47,,928,1.1,,(11+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,48,,1036.4,1.7,,(11-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,49,,1117.3,1.5,,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,50,,1131.6,1.2,,(12+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,51,,1177.4,1.2,,(12+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,52,,1195.8,1.4,,13+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,53,,1299.9,1.7,,(12-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,54,,1338.1,1.6,,(13-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,55,,1449.5,1.3,,(13+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,56,,1482.4,1.9,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,57,,1603.1,1.7,,(13-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,58,,1647.9,1.4,,(14+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,59,,1674,1.6,,(14-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,60,,1748.8,1.4,,(14+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,61,,1770,1.6,,15+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,62,,1869.7,1.8,,(14-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,63,,1910.4,1.7,,(15-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,64,,1953,1.9,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,65,,2022,1.8,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,66,,2067.3,1.4,,(15+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,67,,2220.9,1.8,,(15-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,68,,2252,1.6,,(16+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,69,,2339.4,1.8,,(16-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,70,,2408.4,1.5,,(16+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,71,,2422.8,1.8,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,72,,2432.9,1.8,,(17+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,73,,2511.9,1.8,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,74,,2555.8,1.8,,(16-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,75,,2576.7,2,,(17-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,76,,2636.7,1.8,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,77,,2766.2,1.6,,(17+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,78,,2862.5,1.9,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,79,,2882.1,2,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,80,,2930.6,1.8,,(18+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,81,,2935.9,1.9,,(17-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,82,,3035.5,2,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,83,,3144.4,1.8,,(18+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,84,,3170.7,2,,(19+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,85,,3327,2.2,,(19-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,86,,3527.2,1.9,,(19+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,87,,3657.5,2,,(20+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,88,,3734.7,2.3,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,89,,3916.6,,,(20+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,90,,3963.2,2.3,,(21+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,91,,4144,2.4,,(21-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,92,,4205.5,2.5,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,93,,4398.5,2.3,,(22+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,94,,4566,3,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+77,109,Ir,95,,4785.5,2.5,,(23+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2022,J. C. Batchelder and A. M. Hurst and  M. S. Basunia,2025-10-17
+

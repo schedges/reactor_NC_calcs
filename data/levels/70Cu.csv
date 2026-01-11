@@ -1,0 +1,16 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+29,41,Cu,0,,0,,,6-,1,44.5,,2,s,44.5,0.2,B-,100,,,,,,,,,1.3668,0.0005,-0.298,0.015,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,1,,101.1,0.3,,3-,1,33,,2,s,33,2,B-,52,9,IT,48,9,,,,,-3.3645,0.0015,-0.14,0.04,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,2,,228.5,0.4,,4-,1,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,3,,242.6,0.5,,1+,1,6.6,,2,s,6.6,0.2,B-,93.2,0.9,IT,6.8,0.9,,,,,1.7781,0.0015,-0.12,0.03,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,4,,320.7,0.5,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,5,,368.9,0.4,,(2-),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,6,,511,3,,5-,1,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,7,,628.3,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,8,,697.7,0.5,,(1+),1,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,9,,706.1,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,10,,938.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,11,,1278.4,0.5,,(1+),2,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,12,,1520.4,0.5,,(1+),3,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+29,41,Cu,13,,1980.1,0.5,,(1+),4,,,,,,,,,,,,,,,,,,,,,1-Jul-2016,G. G~URDAL and  E.A. MCCUTCHAN,2025-10-16
+

@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+31.27,0.39,0.037,0.008,,1878.2,113.8,1.3,6.7,0.1,A,82.6,1,20,27,Ca,,0,,7/2-,4.536,,3,d,391910.4,259.2,B-,100,,1992.2,12,21,26,Sc,20-Feb-2007,T. W. BURROWS,2025-10-17
+242.66,0.49,73,15,,1297.12,695,2.7,6.08,0.09,A,452.8,1.2,20,27,Ca,,0,,7/2-,4.536,,3,d,391910.4,259.2,B-,100,,1992.2,12,21,26,Sc,20-Feb-2007,T. W. BURROWS,2025-10-17
+450.7,0.6,0.04,,,807.89,1184.1,1.2,10.2,,2NU,,,20,27,Ca,,0,,7/2-,4.536,,3,d,391910.4,259.2,B-,100,,1992.2,12,21,26,Sc,20-Feb-2007,T. W. BURROWS,2025-10-17
+494.79,0.53,0.087,0.003,0.00000027,766.83,1225.2,1.2,10.67,0.02,1U,732.2,0.7,20,27,Ca,,0,,7/2-,4.536,,3,d,391910.4,259.2,B-,100,,1992.2,12,21,26,Sc,20-Feb-2007,T. W. BURROWS,2025-10-17
+818.91,0.56,27,15,289370.88,0.0,1990.6,2.3,8.3,0.3,A,1174.6,0.9,20,27,Ca,,0,,7/2-,4.536,,3,d,391910.4,259.2,B-,100,,1992.2,12,21,26,Sc,20-Feb-2007,T. W. BURROWS,2025-10-17
+

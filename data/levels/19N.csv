@@ -1,0 +1,14 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+7,12,N,0,,0,,,1/2-,1,336,,3,ms,0.336,0.003,B-,100,,B-N,41.8,0.9,,,,,0.305,0.015,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,1,,1143,3,,(3/2-),1,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,2,,1676,3,,(5/2-),1,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,3,,2132,9,,(5/2+ 3/2-),1,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,4,,2511,5,,(1/2+),1,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,5,,3170,6,,(7/2-),1,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,6,,3470,30,,,,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,7,,4023,9,,(7/2-),2,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,8,,4180,20,,,,,,,,,,IT,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,9,,6400,27,,,,,,,,,,N,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,10,,6508,27,,,,,,,,,,N,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+7,12,N,11,,7025,33,,,,,,,,,,N,100,,,,,,,,,,,,,06-Nov-2018,G.C. Sheu and  J.H. Kelley,2025-10-16
+

@@ -1,0 +1,19 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+46,48,Pd,0,,0,,,0+,1,9.0,,5,s,9,0.5,EC+B+,100,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,1,,813.8,0.1,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,2,,1719.11,0.14,,(4+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,3,,2378.13,0.17,,(6+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,4,,2536.6,0.7,,(5-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,5,,2697.6,0.17,,(6+),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,6,,2702.13,0.2,,(8+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,7,,3049.13,0.22,,(8+),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,8,,3064.3,0.3,,(6+),3,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,9,,3794.04,0.22,,(10+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,10,,4661,1,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,11,,4787.5,0.3,,(12+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,12,,4883.1,0.4,,(14+),1,0.53,,1,us,0.00000053,0.00000001,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,13,,5291.3,0.4,,(15+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,14,,5558.9,0.5,,(16+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,15,,7103.5,0.5,,(18+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,48,Pd,16,,7700.2,0.6,,(20+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+

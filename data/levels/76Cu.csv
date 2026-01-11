@@ -1,0 +1,4 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+29,47,Cu,0,,0,,,3(-),1,637,,7,ms,0.637,0.007,B-,100,,B-N,7.2,0.5,,,,,-1.0896,0.0015,0.36,0.02,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+29,47,Cu,1,X,0,,,,,1.27,,30,s,1.27,0.3,B-,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+

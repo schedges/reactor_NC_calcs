@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,12,4,,1131.70,11168,300,,,A,5980,160,41,69,Nb,,0,,(5),82,,4,ms,0.082,0.004,B-,100,,12230,840,42,68,Mo,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+,,9,3,,915.51,11384,300,,,A,6080,160,41,69,Nb,,0,,(5),82,,4,ms,0.082,0.004,B-,100,,12230,840,42,68,Mo,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+,,6,5,,599.69,11700,300,,,A,6250,160,41,69,Nb,,0,,(5),82,,4,ms,0.082,0.004,B-,100,,12230,840,42,68,Mo,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+,,14,4,,1163.47,11136,300,,,A,5960,160,41,69,Nb,,0,,(5),82,,4,ms,0.082,0.004,B-,100,,12230,840,42,68,Mo,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+

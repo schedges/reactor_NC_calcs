@@ -1,0 +1,39 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+41,55,Nb,0,,0,,,6+,1,23.35,,5,h,84060,180,B-,100,,,,,,,,,4.976,0.004,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,1,,44.19,0.06,,(5+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,2,,146.1,0.1,,(4+),1,0.8,LT,,ns,0.0000000008,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,3,,184.58,0.12,,(3+),1,0.8,LT,,ns,0.0000000008,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,4,,233,5,,(7+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,5,,511.84,0.15,,(2-),1,0.4,LT,,ns,0.0000000004,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,6,,634.96,0.19,,(2+),1,1.4,LT,,ns,0.0000000014,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,7,,694.62,0.16,,(3-),1,1.4,LT,,ns,0.0000000014,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,8,,867.9,0.3,,(3-),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,9,,1002.67,0.18,,(3- 2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,10,,1045.4,0.4,,(4 3),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,11,,1116,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,12,,1140.7,0.3,,(0- 2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,13,,1156.1,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,14,,1242.4,0.4,,(3),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,15,,1258.2,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,16,,1270.18,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,17,,1325.6,0.4,,(4),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,18,,1346.3,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,19,,1368.5,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,20,,1427,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,21,,1498.5,0.4,,(0 3),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,22,,1519.9,0.6,,(3 0),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,23,,1537,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,24,,1614.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,25,,1652,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,26,,1720,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,27,,1810,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,28,,1872,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,29,,1937,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,30,,1973,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,31,,2100,30,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,32,,2240,30,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,33,,2380,30,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,34,,2470,30,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,35,,2730,40,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+41,55,Nb,36,,2960,40,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+

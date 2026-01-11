@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+2814,50,8,,,6005.9,6234,70,5.2,,A,3349,36,15,23,P,,0,,(2-),0.64,,14,s,0.64,0.14,B-,100,,12240,70,16,22,S,30-Sep-2017,JUN CHEN,2025-10-17
+3313,50,9,,,4990.5,7249,70,5.4,,1NU,3867,36,15,23,P,,0,,(2-),0.64,,14,s,0.64,0.14,B-,100,,12240,70,16,22,S,30-Sep-2017,JUN CHEN,2025-10-17
+4039,50,28,,,3516.5,8723,70,5.3,,,4611,35,15,23,P,,0,,(2-),0.64,,14,s,0.64,0.14,B-,100,,12240,70,16,22,S,30-Sep-2017,JUN CHEN,2025-10-17
+5135,50,44,,,1292.3,10948,70,5.6,,1NU,5738,35,15,23,P,,0,,(2-),0.64,,14,s,0.64,0.14,B-,100,,12240,70,16,22,S,30-Sep-2017,JUN CHEN,2025-10-17
+

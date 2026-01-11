@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+11,8,Na,0,,0,,,(5/2+),1,40,LT,,keV,1.1405942876784644e-20,0,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,1,,120,10,,(3/2+),1,,,,,,,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,2,,745,12,,1/2+,1,101,,3,keV,4.517205099716691e-21,1.3417440890247597e-22,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,3,,2459,32,,(5/2 3/2)+,1,105,,10,keV,4.34512109591796e-21,4.138210567540914e-22,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,4,,2769,61,,(3/2 5/2+),1,250,,50,keV,1.824950860285543e-21,3.6499017205710864e-22,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,5,,4371,10,,3/2-,1,30,,10,keV,1.5207923835712858e-20,5.069307945237619e-21,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,6,,4903,10,,3/2-,2,50,,10,keV,9.124754301427715e-21,1.824950860285543e-21,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,7,,5585,32,,,,695,,72,keV,6.564571439876054e-22,6.800707103180947e-23,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,8,,5809,76,,,,0.46,,22,MeV,9.918211197204037e-22,4.743492311706278e-22,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+11,8,Na,9,,5815,17,,,,141,,18,keV,3.235728475683587e-21,4.130717203000323e-22,P,100,,,,,,,,,,,,,29-July-2015,J.H. Kelley and  G.C. Sheu,2025-10-16
+

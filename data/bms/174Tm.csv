@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+226,19,14.3,0.8,,2378.7,700,50,4.67,0.12,A,480,32,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+241,19,0.4,0.1,,2336.7,743,50,6.31,0.15,,505,32,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+308,20,0.9,0.1,,2160.4,920,50,6.28,0.1,A,617,31,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+336,20,0.5,0.1,,2088.4,992,50,6.66,0.12,A,659,31,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+352,20,1.4,0.2,,2049.8,1030,50,6.24,0.1,A,683,31,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+418,21,83,5,,1884.5,1200,50,4.73,0.08,A,786,31,69,105,Tm,,0,,(4)-,5.4,,1,m,324,6,B-,100,,3080,40,70,104,Yb,1-Nov-1998,E. BROWNE and  HUO JUNDE,2025-10-17
+

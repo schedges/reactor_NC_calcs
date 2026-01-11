@@ -1,0 +1,14 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+14,19,Si,0,,0,,,(3/2)+,1,6.11,,21,s,6.11,0.21,B-,100,,,,,,,,,1.21,0.03,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,1,,1009.92,0.4,,1/2+,1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,2,,1434.9,0.5,,7/2-,1,10.2,,3,ns,0.0000000102,0.0000000003,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,3,,1980.9,1.1,,(3/2)-,1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,4,,3159,1.6,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,5,,3580,20,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,6,,4090,1.6,,(11/2-),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,7,,4268.3,4,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,8,,4346.3,4,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,9,,4520,40,,(1/2- 3/2 5/2+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,10,,4932.1,2.6,,(11/2-),2,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+14,19,Si,11,,5443,6,,(5/2+),3,,,,,,,,,,,,,,,,,,,,,30-Sep-2024,Jun Chen and Balraj Singh,2025-10-16
+

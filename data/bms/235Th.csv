@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,18.52,1710,19,,,A,,,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,51.79,1677,19,,,A,,,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+,,,,,10.0,1719,19,,,1NU,,,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+312,7,0.7,0.007,,755.75,973,19,7.1,0.071,,661,12,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+315,7,1.5,0.015,,747.90,981,19,6.7,0.067,,666,12,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+323,7,1.4,0.014,,727.01,1002,19,6.8,0.068,,679,13,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+420,8,2.8,0.028,,468.79,1260,19,6.9,0.069,,840,12,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+468,8,0.3,0.003,,344.69,1384,19,8,0.08,A,916,13,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+604,8,93,9.3,,0,1729,19,6,0.6,1NU,1124,11,90,145,Th,,0,,(1/2+),7.2,,1,m,432,6,B-,100,,1729,19,91,144,Pa,1-Feb-2014,E. BROWNE and  J. K. TULI,2025-10-17
+

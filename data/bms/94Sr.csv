@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+171.1,,0.08,0.02,,2969.93,538,8,5.25,0.11,A,368,5,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+412.1,,0.113,0.022,,2373.02,1135,8,6.28,0.09,,724,5,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+494.7,,0.76,0.11,,2182.42,1326,8,5.72,0.07,A,831.9,4.5,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+831.3,,0.19,0.04,,1437.01,2071,8,7.09,0.1,,1240,6,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+835.6,,98.1,0.9,,1427.71,2080,8,4.388,0.01,A,1246,5,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+1506.9,,0.9,,1122,0.0,3508,8,8.9,,1U,2003.9,4.2,38,56,Sr,,0,,0+,75.3,,2,s,75.3,0.2,B-,100,,3506,6,39,55,Y,1-Jan-2006,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+

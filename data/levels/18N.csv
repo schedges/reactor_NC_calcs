@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+7,11,N,0,,0,,,1-,1,619,,2,ms,0.619,0.002,B-,100,,B-A,12.2,0.6,B-N,12,1.3,2,0.3274,0.0004,0.0123,0.0012,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,1,,114.71,0.1,,(2-),1,0.40,,11,ns,0.0000000004,0.00000000011,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,2,,587.39,0.2,,(2-),2,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,3,,742,0.4,,(3-),1,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,4,,1170,20,,(1-),1,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,5,,1734.75,0.19,,(1 2),1,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,6,,2210,,,,,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,7,,2405,0.9,,,,0.11,,+51-7,ps,0.00000000000011,0.00000000000029,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,8,,2614.35,0.21,,1+,1,,,,,,,IT,100,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,9,,2900,200,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,10,,6900,200,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,11,,8500,200,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+7,11,N,12,,10100,200,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2021,R. Spitzer and  J.H. Kelley,2025-10-16
+

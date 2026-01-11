@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+32.4,1.4,0.046,0.007,,435.20,124,5,8.92,0.09,A,91.8,3.8,91,139,Pa,,0,,2-,17.4,,4,d,1503360,34560,B-,7.7,0.7,559,5,92,138,U,26-Sep-2023,C. Morse,2025-10-17
+51.6,1.5,0.153,0.024,,366.654,192,5,8.99,0.08,A,141,3.7,91,139,Pa,,0,,2-,17.4,,4,d,1503360,34560,B-,7.7,0.7,559,5,92,138,U,26-Sep-2023,C. Morse,2025-10-17
+148.7,1.7,7.7,1.5,0.00000000026,51.737,507,5,8.63,0.09,1NU,359.8,3.4,91,139,Pa,,0,,2-,17.4,,4,d,1503360,34560,B-,7.7,0.7,559,5,92,138,U,26-Sep-2023,C. Morse,2025-10-17
+

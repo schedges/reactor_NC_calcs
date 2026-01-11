@@ -1,0 +1,6 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+12,8,Mg,0,,0,,,0+,1,90.4,,7,ms,0.0904,0.0007,B+P,30.3,1.2,,,,,,,,,,,,20-June-2019,J.H. Kelley and  G.C. Sheu,2025-10-16
+12,8,Mg,1,,1598,10,,2+,1,,,,,,,,,,,,,,,,2,,,,,20-June-2019,J.H. Kelley and  G.C. Sheu,2025-10-16
+12,8,Mg,2,,3700,200,,(2+ 4+),1,0.47,,6,MeV,9.70718542705076e-22,1.2392151609000969e-22,,,,,,,,,,,,,,,20-June-2019,J.H. Kelley and  G.C. Sheu,2025-10-16
+12,8,Mg,3,,5370,20,,,,,,,,,,,,,,,,,,,,,,,,20-June-2019,J.H. Kelley and  G.C. Sheu,2025-10-16
+

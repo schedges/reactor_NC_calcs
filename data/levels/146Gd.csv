@@ -1,0 +1,247 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+64,82,Gd,0,,0,,,0+,1,48.27,,9,d,4170528,7776,EC+B+,100,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,1,,1579.4,0.05,,3-,1,1.06,,12,ns,0.00000000106,0.00000000012,,,,,,,,,,,2.1,0.9,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,2,,1972.02,0.07,,2+,1,0.7,LT,,ps,0.0000000000007,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,3,,2164.72,0.12,,0+,2,375,,40,ps,0.000000000375,0.00000000004,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,4,,2611.57,0.07,,4+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,5,,2658.04,0.08,,5-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,6,,2967.52,0.24,,4+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,7,,2982.15,0.09,,7-,1,6.73,,10,ns,0.00000000673,0.0000000001,,,,,,,,,,,9,0.2,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,8,,2986.4,0.2,,2+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,9,,2996.58,0.08,,4-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,10,,3019.83,0.21,,0+,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,11,,3031.16,0.09,,3+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,12,,3099.03,0.09,,6-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,13,,3182.58,0.1,,8-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,14,,3185.95,0.1,,2+,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,15,,3232.5,0.4,,2+,4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,16,,3287.29,0.11,,3+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,17,,3290.46,0.19,,7-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,18,,3293.74,0.11,,8-,2,300,LT,,ps,0.0000000003,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,19,,3313.16,0.08,,5-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,20,,3320,3,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,21,,3356.7,0.5,,2+,5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,22,,3363.85,0.1,,4,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,23,,3380.81,0.19,,2+,6,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,24,,3383,3,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,25,,3384.19,0.13,,6-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,26,,3388.73,0.12,,(2 1 4+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,27,,3411.84,0.1,,4+,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,28,,3416.57,0.13,,4+,4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,29,,3423.28,0.13,,3-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,30,,3428.42,0.12,,9-,1,300,LT,,ps,0.0000000003,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,31,,3436.21,0.15,,4+,5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,32,,3456.6,0.15,,4+,6,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,33,,3461.1,0.3,,(5-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,34,,3464.03,0.17,,5-,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,35,,3469.1,0.3,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,36,,3478.4,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,37,,3481.8,0.6,,3+,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,38,,3484.76,0.11,,6+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,39,,3484.93,0.21,,0+,4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,40,,3547.5,0.8,,2+,7,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,41,,3563.01,0.16,,(4+ 2+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,42,,3585.3,0.3,,4,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,43,,3640.8,0.6,,0+,5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,44,,3656.31,0.12,,3,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,45,,3660.05,0.13,,(6+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,46,,3686.6,0.8,,5-,4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,47,,3730,2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,48,,3744.2,0.7,,(2+ 3-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,49,,3761.5,0.6,,(4+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,50,,3779.33,0.14,,(8+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,51,,3783.78,0.13,,(3 5)+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,52,,3789,3,,(2- 3- 4-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,53,,3853.61,0.16,,(3-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,54,,3854.24,0.12,,7-,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,55,,3864.83,0.13,,10+,1,300,LT,,ps,0.0000000003,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,56,,3866.68,0.18,,5-,5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,57,,3908.16,0.22,,(3+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,58,,3947.14,0.17,,(6)+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,59,,3973.4,1,,(3-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,60,,3987.4,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,61,,4006.7,0.5,,(4+),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,62,,4026.71,0.21,,(6 8),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,63,,4076.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,64,,4107.51,0.14,,8+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,65,,4113.4,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,66,,4118.3,0.4,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,67,,4122.6,1,,(5-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,68,,4131.2,1,,(3 5),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,69,,4152.4,1,,(2 4),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,70,,4166.6,0.3,,(4 6),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,71,,4179.49,0.2,,(6),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,72,,4216.4,0.5,,(2 4),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,73,,4230.4,2,,(5-),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,74,,4248.4,0.5,,(7 9),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,75,,4259.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,76,,4286.4,2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,77,,4299.8,0.3,,(2+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,78,,4318.95,0.22,,(6- 7+ 8-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,79,,4326.6,2,,(3 5),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,80,,4341.4,2,,(4-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,81,,4355.03,0.14,,(5),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,82,,4372.4,2,,(4+),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,83,,4376.1,1,,(4+),4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,84,,4389.6,0.6,,(5 7),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,85,,4399.5,0.3,,(5- 7-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,86,,4409,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,87,,4416.9,0.4,,(10- 8-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,88,,4459.09,0.2,,(7- 9),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,89,,4484.2,1,,(4+),5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,90,,4484.9,0.4,,(11-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,91,,4501.97,0.2,,10+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,92,,4520.6,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,93,,4529.25,0.22,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,94,,4532.6,2,,(3 5),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,95,,4534,6,,0+,6,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,96,,4541.23,0.14,,10+,3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,97,,4580.3,0.8,,7,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,98,,4596,6,,(2+ 3-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,99,,4608.4,0.6,,8 10-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,100,,4638,6,,(5- 6+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,101,,4645.79,0.18,,(11-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,102,,4656,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,103,,4666.89,0.16,,(12+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,104,,4686,6,,(2+ 3-),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,105,,4719.24,0.09,,4-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,106,,4726,6,,(2+ 3-),4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,107,,4729.64,0.23,,(9+ 7+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,108,,4747,6,,(2+ 3-),5,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,109,,4780.54,0.23,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,110,,4782.2,1,,8 6,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,111,,4793,6,,(2+ 3-),6,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,112,,4802,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,113,,4825,6,,(2+ 3-),7,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,114,,4828.64,0.13,,(4 5)-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,115,,4847.7,2,,(9 7),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,116,,4880,6,,(2+ 3-),8,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,117,,4880.2,0.4,,(10 8),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,118,,4898.3,0.3,,(9 7),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,119,,4905,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,120,,4941,6,,(2+),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,121,,4942.6,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,122,,4976,6,,(2+ 3-),9,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,123,,5044,6,,(2+),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,124,,5056.3,0.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,125,,5086,6,,(2+ 3-),10,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,126,,5094.7,0.19,,11+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,127,,5115,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,128,,5151,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,129,,5164.54,0.24,,(11 9),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,130,,5177,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,131,,5217,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,132,,5258,6,,(2+),4,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,133,,5277.54,0.21,,11+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,134,,5289,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,135,,5320.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,136,,5342,6,,(4+ 5-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,137,,5350.67,0.22,,12+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,138,,5388,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,139,,5443,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,140,,5447.88,0.18,,12+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,141,,5482,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,142,,5528,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,143,,5529,0.3,,(12+),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,144,,5549,6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,145,,5700.55,0.24,,(12)+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,146,,5730.05,0.24,,(12)+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,147,,5791.67,0.2,,13+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,148,,5894.16,0.22,,14+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,149,,5996.1,0.3,,14+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,150,,6120.1,0.3,,15+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,151,,6399,0.3,,16+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,152,,6470,30,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,153,,6820.3,0.3,,17(+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,154,,7034,0.3,,16-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,155,,7164.8,0.3,,17-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,156,,7202,1.1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,157,,7513.3,0.3,,16+,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,158,,7566.2,0.3,,17-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,159,,7659.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,160,,7738.8,0.4,,17+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,161,,7999.7,0.4,,(18+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,162,,8030.1,0.3,,18+,1,1.5,,6,ns,0.0000000015,0.0000000006,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,163,,8077,1.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,164,,8368.2,0.4,,(18+),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,165,,8649.6,0.4,,(19-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,166,,8665.8,0.4,,(19+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,167,,8804,1.8,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,168,,8915.7,0.4,,20-,1,4.3,,3,ns,0.0000000043,0.0000000003,,,,,,,,,,,13,2,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,169,,9083.5,0.4,,(20+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,170,,9225.5,0.4,,(21-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,171,,9254,0.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,172,,9257,0.5,,(21-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,173,,9482.3,0.5,,(22-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,174,,9495,2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,175,,9526.8,0.5,,(22-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,176,,9745,2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,177,,9962.7,0.4,,(22-),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,178,,10006.2,0.6,,(23-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,179,,10087,0.4,,(23-),2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,180,,10266.5,0.4,,(23-),3,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,181,,10440,2.1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,182,,10770.4,0.4,,(24-),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,183,,11023.8,0.4,,(24+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,184,,11099,2.3,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,185,,11244.1,0.5,,25-,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,186,,11440.2,0.5,,25+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,187,,11450,2.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,188,,11497.5,0.5,,(25),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,189,,11529.7,0.5,,25-,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,190,,11637.8,0.5,,26+,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,191,,11932.8,0.5,,(27+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,192,,12891,0.5,,(29+),1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,193,,13696,0.6,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,194,,14013.6,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,195,,14176.3,1,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,196,,14197,1.2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,197,,14444,1.5,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,198,,14595,0.9,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,199,,15069,1.4,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,200,,15443,1.7,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,201,,15758,2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,202,,16313,2.2,,,,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,203,X,0,,,J1,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,204,X,826.3,0.3,,J1+2,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,205,X,1704.3,0.5,,J1+4,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,206,X,2634.8,0.5,,J1+6,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,207,X,3618,0.5,,J1+8,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,208,X,4656.6,0.6,,J1+10,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,209,X,5750,0.7,,J1+12,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,210,X,6898.8,0.7,,J1+14,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,211,X,8100,0.8,,J1+16,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,212,X,9350.3,0.9,,J1+18,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,213,X,10648.1,0.9,,J1+20,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,214,X,11993.2,1,,J1+22,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,215,X,13387,1.1,,J1+24,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,216,X,14833.2,1.2,,J1+26,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,217,X,16331.7,1.4,,J1+28,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,218,X,17885.3,1.7,,J1+30,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,219,Y,0,,,J2,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,220,Y,806.2,0.3,,J2+2,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,221,Y,1663.2,0.5,,J2+4,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,222,Y,2571.7,0.6,,J2+6,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,223,Y,3532.8,0.6,,J2+8,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,224,Y,4549,0.6,,J1+10,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,225,Y,5621.2,0.7,,J2+12,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,226,Y,6749,0.7,,J2+14,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,227,Y,7933.8,0.8,,J2+16,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,228,Y,9176.4,0.9,,J1+18,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,229,Y,10475.7,0.9,,J1+20,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,230,Y,11832.6,1,,J1+22,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,231,Y,13246.1,1.1,,J2+24,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,232,Y,14718.8,1.3,,J2+26,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,233,Y,16248.7,1.5,,J1+28,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,234,Y,17830.7,1.9,,J1+30,2,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,235,Z,0,,,J3,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,236,Z,958.5,0.5,,J3+2,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,237,Z,1964.6,0.8,,J3+4,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,238,Z,3029.5,1,,J3+6,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,239,Z,4153,1.3,,J3+8,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,240,Z,5328.7,1.5,,J3+10,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,241,Z,6554.3,1.8,,J3+12,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,242,Z,7832.3,2.3,,J3+14,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,243,Z,9155,3,,J3+16,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+64,82,Gd,244,Z,10524,4,,J3+18,1,,,,,,,,,,,,,,,,,,,,,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+

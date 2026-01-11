@@ -1,0 +1,39 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+52,81,Te,0,,0,,,(3/2+),1,12.5,,3,m,750,18,B-,100,,,,,,,,,0.85,0.02,0.23,0.09,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,1,,308.242,0.011,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,2,,334.26,0.04,,(11/2-),1,55.4,,4,m,3324,24,B-,83.5,2,IT,16.5,2,,,,,-1.129,0.007,0.28,0.14,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,3,,1096.22,0.03,,(7/2+ 5/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,4,,1265.326,0.02,,(5/2 7/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,5,,1421.33,0.07,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,6,,1484.9,0.3,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,7,,1500.56,0.06,,(5/2- 7/2 9/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,8,,1552.14,0.02,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,9,,1610.4,0.5,,(19/2-),1,100,,5,ns,0.0000001,0.000000005,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,10,,1639.5,0.04,,(7/2- 9/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,11,,1641.52,0.03,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,12,,1705.51,0.09,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,13,,1728.66,0.04,,(5/2 7/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,14,,1803.9,0.6,,(17/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,15,,1913.46,0.07,,(7/2- 9/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,16,,1976.46,0.08,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,17,,2023.9,0.04,,(5/2- 7/2 9/2-),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,18,,2211.47,0.04,,(7/2- 9/2-),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,19,,2331.5,0.5,,(21/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,20,,2332.14,0.04,,(5/2- 7/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,21,,2750.32,0.04,,(7/2- 9/2-),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,22,,2755.51,0.04,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,23,,3070.1,0.6,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,24,,3522.5,0.7,,(23/2-),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,25,,3825.4,0.7,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,26,,3833.4,0.7,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,27,,3934.5,0.8,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,28,,4003.5,0.7,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,29,,4032.9,0.8,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,30,,4313.1,0.8,,(27/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,31,,5214.7,0.7,,(23/2-),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,32,,5501.5,0.8,,(25/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,33,,5600.8,0.7,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,34,,5687.6,0.7,,(27/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,35,,5941.5,0.8,,(29/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+52,81,Te,36,,6163.5,1,,(31/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+

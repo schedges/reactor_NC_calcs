@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+127.7,2.7,44,8,0.0000000002,291.4,415,25,5.32,0.09,A,304,5,62,94,Sm,,0,,0+,9.4,,2,h,33840,720,B-,100,,722,8,63,93,Eu,1-Mar-2012,C. W. REICH,2025-10-17
+136,2.8,0.5,0.4,,267,455,8,7.3,0.4,1NU,320,5,62,94,Sm,,0,,0+,9.4,,2,h,33840,720,B-,100,,722,8,63,93,Eu,1-Mar-2012,C. W. REICH,2025-10-17
+223.4,3,48,15,,22.6,700,30,6,0.14,A,476,5,62,94,Sm,,0,,0+,9.4,,2,h,33840,720,B-,100,,722,8,63,93,Eu,1-Mar-2012,C. W. REICH,2025-10-17
+232,3,0.02,,1312416,0.,722,8,9.4,,S,491,5,62,94,Sm,,0,,0+,9.4,,2,h,33840,720,B-,100,,722,8,63,93,Eu,1-Mar-2012,C. W. REICH,2025-10-17
+

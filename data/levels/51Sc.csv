@@ -1,0 +1,22 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+21,30,Sc,0,,0,,,(7/2)-,1,12.4,,1,s,12.4,0.1,B-,100,,B-N,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,1,,861.62,0.1,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,2,,1064,3,,(11/2)-,1,19,,5,ps,0.000000000019,0.000000000005,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,3,,1167.33,0.2,,(3/2 5/2 7/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,4,,1394.02,0.17,,(3/2 5/2),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,5,,1715.02,0.19,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,6,,2313,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,7,,2347.2,0.4,,(1/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,8,,2708.8,0.3,,(3/2-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,9,,2887,7,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,10,,2996,7,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,11,,3038.69,0.23,,(3/2- 5/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,12,,3069,7,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,13,,3195.2,0.4,,(3/2- 5/2-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,14,,3390.6,0.6,,(1/2 3/2 5/2),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,15,,3772.1,0.6,,(3/2- 5/2-),3,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,16,,3881.1,,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,17,,4825.6,,,(15/2-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,18,,5540.2,,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+21,30,Sc,19,,6184,,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+

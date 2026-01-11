@@ -1,0 +1,10 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+880,,1,0,,1240,2180,11,5.5,,,1302,7,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1129.1,5.2,0.59,0.08,,703.72,2716,11,6.1,,,1588,6,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1152.5,5.2,0.19,0.04,,653.92,2766,11,6.6,,,1614,7,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1223.1,5.2,33,4,,504.29,2841,14,4.5,0.1,A,1694,6,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1226,5.2,0.74,0.08,,498.05,2922,11,6.1,,,1697,7,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1238.6,5.2,1.7,0.6,,471.39,2949,11,5.8,,A,1711,6,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1272.1,5.2,17.9,0.9,0.00000000009,400.52,2956,15,4.8,0.1,A,1748,6,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+1462.1,5.3,46,5,,0.0,3420,11,4.6,0.1,A,1959,6,40,60,Zr,,0,,0+,7.1,,4,s,7.1,0.4,B-,100,,3419,11,41,59,Nb,31-Jan-2021,Balraj Singh and Jun Chen,2025-10-17
+

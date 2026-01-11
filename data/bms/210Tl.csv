@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+477,13,2,1,,4102,1380,31,6.2,0.2,,903,20,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+568,14,7,2,,3879,1603,34,5.9,0.1,,1036,20,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+674,10,24,5,,3622,1860,24,5.6,0.1,,1186,14,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+743,11,10,3,,3458,2024,25,6.1,0.1,A,1280,15,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+877.1,6.9,10,3,,3069,2413,17,8.9,0.1,2U,1558,11,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+1635,18,30,6,,1275,4207,40,10.3,0.1,2U,2610,25,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+1762.6,5.4,20,2,0.0000000006,1096,4386,12,7.1,0.071,A,2613,8,81,129,Tl,,0,,(5+),1.30,,3,m,78,1.8,B-,100,,5481,12,82,128,Pb,31-Mar-2014,M. SHAMSUZZOHA BASUNIA,2025-10-17
+

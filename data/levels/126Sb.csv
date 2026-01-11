@@ -1,0 +1,22 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+51,75,Sb,0,,0,,,(8-),1,12.35,,6,d,1067040,5184,B-,100,,,,,,,,,1.28,0.07,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,1,,17.7,0.3,,(5+),1,19.15,,9,m,1149,5.4,B-,81.4,0.6,IT,18.6,0.6,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,2,,40.4,0.3,,(3-),1,11,AP,,s,11,,IT,100,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,3,,83,0.3,,(2- 3- 4-),1,5.1,,3,ns,0.0000000051,0.0000000003,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,4,,104.6,0.3,,(3+),1,553,,5,ns,0.000000553,0.000000005,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,5,,127.9,0.3,,(2+),1,78.0,,5,ns,0.000000078,0.0000000005,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,6,,671.3,1,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,7,,1044.8,1,,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,8,,1689.4,1.3,,(11+),1,60,,20,ns,0.00000006,0.00000002,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,9,,1810.7,1.7,,(13+),1,90,,16,ns,0.00000009,0.000000016,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,10,,2006.2,1.3,,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,11,,2191.2,1.7,,(12+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,12,,2359.1,1.7,,(14-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,13,,2682.6,2,,(13+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,14,,2802.4,2,,(15-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,15,,2812.7,2.2,,(14+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,16,,2911.8,2,,(15+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,17,,3214.3,2.2,,(16-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,18,,3637.8,2.4,,(17-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+51,75,Sb,19,,4135,3,,(18-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J.Katakura and  S. Ohya,2025-10-17
+

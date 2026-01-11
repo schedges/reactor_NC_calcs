@@ -1,0 +1,21 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+78,92,Pt,0,,0,,,0+,1,13.8,,5,ms,0.0138,0.0005,A,98,2,EC+B+,2,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,1,,509.2,0.2,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,2,,1171.9,0.23,,4+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,3,,1514.3,0.8,,(3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,4,,1898.3,0.4,,(5-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,5,,1912.3,0.25,,6+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,6,,1972.5,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,7,,2111.5,0.4,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,8,,2436.8,0.4,,8+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,9,,2443.7,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,10,,2495.5,1.1,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,11,,2501.3,1.1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,12,,2509.6,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,13,,2629,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,14,,3025.2,0.4,,(10+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,15,,3038.2,0.5,,(10+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,16,,3067.3,1.1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,17,,3121.5,1.2,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+78,92,Pt,18,,3708.2,1.1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+

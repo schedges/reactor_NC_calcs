@@ -1,0 +1,35 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+15,13,P,0,,0,,,3+,1,270.3,,5,ms,0.2703,0.0005,EC+B+,100,,ECP,0.0013,0.0004,ECA,0.00086,0.00025,,0.312,0.003,0.137,0.014,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,1,,105.64,0.1,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,2,,877,2,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,3,,1134,0.5,,(3+),1,1.0,LT,,ps,0.000000000001,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,4,,1313,2,,(1+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,5,,1516,2,,(2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,6,,1567,3,,(1+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,7,,2104,1,,(2+),3,87,LT,,fs,0.000000000000087,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,8,,2143,5,,(1+),3,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,9,,2216,5,,(3 4)+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,10,,2406,5,,(0 1 2)+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,11,,2483,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,12,,2628,5,,(3 4)+,2,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,13,,2857,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,14,,2896,5,,(3 4)+,3,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,15,,2973,5,,(1+),4,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,16,,3164,5,,(3 4)+,4,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,17,,3200,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,18,,3250,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,19,,3512,5,,(1+),5,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,20,,3558,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,21,,3728,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,22,,3806,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,23,,3911,5,,(2+),4,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,24,,4150,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,25,,4180,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,26,,4290,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,27,,4500,,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,28,,4630,10,,1+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,29,,4940,10,,6-,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,30,,4970,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,31,,5190,10,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+15,13,P,32,,5900,21,,0+,1,,,,,,,,,,,,,,,,2,,,,,1-Apr-2013,M. Shamsuzzoha Basunia,2025-10-16
+

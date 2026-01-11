@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1651.7,2.4,15.6,1.7,,4320,3692,5,3.82,0.05,A,2041.3,2.8,6,10,C,,0,,0+,0.747,,8,s,0.747,0.008,B-,100,,8010,4,7,9,N,31-DEC-1992,J.H. KELLEY and  D.R. TILLEY and  H.R. WELLER AND C.M. CHEVES,2025-10-17
+2124,2.4,84.4,1.7,,3353,4659,5,3.549,0.011,A,2536.6,2.6,6,10,C,,0,,0+,0.747,,8,s,0.747,0.008,B-,100,,8010,4,7,9,N,31-DEC-1992,J.H. KELLEY and  D.R. TILLEY and  H.R. WELLER AND C.M. CHEVES,2025-10-17
+3580.8,2,0.1,,,397.27,7614,4,7.5,,1NU,4035.1,2,6,10,C,,0,,0+,0.747,,8,s,0.747,0.008,B-,100,,8010,4,7,9,N,31-DEC-1992,J.H. KELLEY and  D.R. TILLEY and  H.R. WELLER AND C.M. CHEVES,2025-10-17
+3629.8,2,0.5,,,298.22,7714,4,6.8,,3NU,4061.3,2.1,6,10,C,,0,,0+,0.747,,8,s,0.747,0.008,B-,100,,8010,4,7,9,N,31-DEC-1992,J.H. KELLEY and  D.R. TILLEY and  H.R. WELLER AND C.M. CHEVES,2025-10-17
+3717.8,2,0.67,0.1,,120.42,7891,4,6.7,0.06,1NU,4174.7,2.1,6,10,C,,0,,0+,0.747,,8,s,0.747,0.008,B-,100,,8010,4,7,9,N,31-DEC-1992,J.H. KELLEY and  D.R. TILLEY and  H.R. WELLER AND C.M. CHEVES,2025-10-17
+

@@ -1,0 +1,28 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+45,61,Rh,0,,0,,,1+,1,30.07,,35,s,30.07,0.35,B-,100,,,,,,,,,2.55,0.03,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,1,,137,13,,(6)+,1,131,,2,m,7860,120,B-,100,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,2,,247.7,0.2,,(6-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,3,,352.4,0.3,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,4,,400.5,0.5,,(8-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,5,,564.5,0.9,,(9-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,6,,897.5,0.9,,(10-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,7,,1189.9,0.9,,(10-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,8,,1207.5,1,,(11-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,9,,1547.3,1,,(11-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,10,,1624.6,1,,(12-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,11,,1923.6,1,,(12-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,12,,2041.5,1.1,,(13-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,13,,2394.3,1.1,,(13-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,14,,2495.5,1.1,,(14-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,15,,2865.8,1.1,,(14-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,16,,2996.2,1.3,,(15-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,17,,3349.9,1.2,,(15-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,18,,3459.5,1.3,,(16-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,19,,3843.2,1.3,,(16-),2,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,20,,4000.8,1.4,,(17-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,21,,4457.7,1.5,,(18-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,22,,4999.5,1.5,,(19-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,23,,5500.4,1.6,,(20-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,24,,6086.1,1.7,,(21-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+45,61,Rh,25,,6671,1.8,,(22-),1,,,,,,,,,,,,,,,,,,,,,1-May-2007,D. DE FRENNE AND A. NEGRET,2025-10-17
+

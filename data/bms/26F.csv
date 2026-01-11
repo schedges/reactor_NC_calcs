@@ -1,0 +1,10 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,13.5,4,,SN+X,18190,80,,,,,,9,17,F,,0,,1+,8.2,,9,ms,0.0082,0.0009,B-,100,,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+,,12,11,,SN+X,18833,80,,,,,,9,17,F,,643.4,0.1,(4+),2.2,,1,ms,0.0022,0.0001,B-,18,11,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+6474,40,0.3,0.21,,5360.5,13473,80,5.7,,,,,9,17,F,,643.4,0.1,(4+),2.2,,1,ms,0.0022,0.0001,B-,18,11,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+6920,40,2.3,0.4,,3815.2,14374,80,5.6,0.1,A,,,9,17,F,,0,,1+,8.2,,9,ms,0.0082,0.0009,B-,100,,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+6981,40,12,1.1,,3690.8,14499,80,4.8,0.1,A,,,9,17,F,,0,,1+,8.2,,9,ms,0.0082,0.0009,B-,100,,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+7385,40,2,1.2,,3517.0,15316,80,5.1,,,,,9,17,F,,643.4,0.1,(4+),2.2,,1,ms,0.0022,0.0001,B-,18,11,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+7808,40,36,7,,2018.0,16172,80,4.5,0.1,A,,,9,17,F,,0,,1+,8.2,,9,ms,0.0082,0.0009,B-,100,,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+8804,40,36.5,6,0.197,0.0,18190,80,4.8,0.1,A,,,9,17,F,,0,,1+,8.2,,9,ms,0.0082,0.0009,B-,100,,18190,110,10,16,Ne,1-Feb-2016,M.S. Basunia and A.M. Hurst,2025-10-17
+

@@ -1,0 +1,9 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+88,120,Ra,0,,0,,,0+,1,1.3,,2,s,1.3,0.2,A,95,,EC+B+,5,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,1,,520.2,0.2,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,2,,1093.6,0.3,,(4+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,3,,1468.4,0.3,,(4+),2,,,,,,,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,4,,1755.4,0.3,,(6+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,5,,2017,0.3,,(6+),2,,,,,,,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+88,120,Ra,6,,2147.4,0.4,,(8+),1,270,,21,ns,0.00000027,0.000000021,,,,,,,,,,,,,,,1-Jun-2007,M. J. MARTIN,2025-10-17
+

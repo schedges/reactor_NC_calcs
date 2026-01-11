@@ -1,0 +1,82 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+51,69,Sb,0,,0,,,1+,1,15.89,,4,m,953.4,2.4,EC+B+,100,,,,,,,,,2.3,0.2,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,1,X,0,,50,8-,1,5.76,,2,d,497664,1728,EC+B+,100,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,2,,8.37,0.06,,(2)-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,3,,78.16,0.05,,3+,1,246,,2,ns,0.000000246,0.000000002,,,,,,,,,,,2.584,0.006,0.63,0.02,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,4,,149.32,0.05,,3+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,5,X,165.2,0.24,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,6,,166.09,0.07,,3-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,7,,192.62,0.04,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,8,X,230.4,0.21,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,9,,233.09,0.04,,2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,10,,243.89,0.06,,4,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,11,,260.2,0.07,,3-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,12,,261.71,0.09,,4,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,13,,280,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,14,,334.08,0.07,,4,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,15,,341.35,0.07,,5,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,16,,343.24,0.08,,4,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,17,,387.11,0.14,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,18,,390.34,0.05,,2 3,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,19,,437.68,0.06,,2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,20,,447.69,0.04,,1+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,21,X,518,0.3,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,22,,551.86,0.17,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,23,,616.69,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,24,,628.46,0.11,,2+ 3+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,25,,636.59,0.15,,2 3 4+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,26,,668,5,,2+ 3+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,27,,699,5,,+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,28,,724.24,0.13,,2+ 3+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,29,,729.82,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,30,,758.69,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,31,,760.92,0.13,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,32,,772,4,,+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,33,,820.39,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,34,,821.69,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,35,,841.64,0.14,,2+ 3+,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,36,X,858,0.3,50,(8-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,37,,901.69,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,38,,908.29,0.21,,2+ 3+,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,39,,934,4,,+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,40,,974,4,,2+ 3+,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,41,,1022.35,0.17,,+,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,42,,1032.31,0.15,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,43,X,1037.06,0.25,50,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,44,,1059,5,,2+ 3+,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,45,,1104,4,,+,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,46,,1164,4,,2+ 3+,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,47,,1208,4,,+,6,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,48,,1239,4,,2+ 3+,9,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,49,X,1242.6,0.3,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,50,,1285,4,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,51,,1331,4,,2+ 3+,10,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,52,X,1369.9,0.4,50,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,53,,1383,4,,2+ 3+,11,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,54,X,1449.8,0.4,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,55,,1457,5,,2+ 3+,12,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,56,,1499,4,,+,7,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,57,,1550,5,,+,8,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,58,X,1564.9,0.4,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,59,,1586,5,,2+ 3+,13,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,60,,1639,6,,2+ 3+,14,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,61,,1697,6,,2+ 3+,15,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,62,X,1742.8,0.5,50,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,63,X,2123.9,0.5,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,64,X,2134.1,0.5,50,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,65,X,2266.3,0.4,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,66,X,2328.3,0.6,50,,,400,,8,ns,0.0000004,0.000000008,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,67,X,2552.7,0.6,50,(13-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,68,X,2736.4,0.5,50,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,69,X,2884.7,0.6,50,,,14,,3,ns,0.000000014,0.000000003,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,70,,10204,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,71,,11354,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,72,,11994,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,73,,12314,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,74,,12504,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,75,,12604,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,76,,12784,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,77,,12914,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,78,,13034,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+51,69,Sb,79,,13124,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+

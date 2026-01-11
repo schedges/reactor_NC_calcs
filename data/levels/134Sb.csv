@@ -1,0 +1,27 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+51,83,Sb,0,,0,,,(0-),1,0.78,,6,s,0.78,0.06,B-,100,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,1,,13,0.4,,(1-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,2,,279,1,,(7-),1,10.07,,5,s,10.07,0.05,B-,100,,B-N,0.088,0.004,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,3,,331.1,0.3,,(2-),1,1,LT,,ns,0.000000001,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,4,,384,0.4,,(3-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,5,,441,1,,(5-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,6,,555,0.5,,(4-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,7,,617,1,,(6-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,8,,885,0.4,,(1-),2,1,LT,,ns,0.000000001,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,9,,935,0.3,,(2-),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,10,,1331,0.5,,(2-),3,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,11,,1352,1,,(8-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,12,,1385,0.5,,(5-),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,13,,1900,0.4,,(1-),3,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,14,,2170,0.4,,(1-),4,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,15,,2405,1,,(9+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,16,,2429.8,0.4,,(1-),5,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,17,,2713,1,,(10+),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,18,,3775,50,,(1+),1,1,LT,,ns,0.000000001,,N,100,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,19,,4373.2,1.5,,(10-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,20,,4704.2,1.6,,(11-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,21,,4796.2,1.4,,(12-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,22,,4849.2,1.4,,(12-),2,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,23,,5045.2,1.5,,(13-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+51,83,Sb,24,,5324,2,,(14-),1,,,,,,,,,,,,,,,,,,,,,31-Jan-2011,K. Abu Saleem and  Z. Wu and  S. Chaudhury and  D and  Bernard and  E. Browne,2025-10-17
+

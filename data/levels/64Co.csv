@@ -1,0 +1,35 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+27,37,Co,0,,0,,,1+,1,0.30,,3,s,0.3,0.03,B-,100,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,1,,107,20,,,,280,GT,,ms,0.28,,IT,,,B-,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,2,,176,30,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,3,,310.9,0.5,,(1+ 2+ 3+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,4,,441,0.5,,(2+ 3+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,5,,458,15,,(1+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,6,,672.6,0.4,,(3+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,7,,691,15,,(1+),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,8,,769.3,0.5,,(4+),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,9,,804,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,10,,833.2,0.6,,(5+),1,6.4,,3,ns,0.0000000064,0.0000000003,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,11,,867,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,12,,953,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,13,,1067,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,14,,1132,15,,(1+ 2+ 3+),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,15,,1300,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,16,,1410,15,,(1+),3,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,17,,1541,15,,(0+ 1- 2-),1,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,18,,1561,,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,19,,1669,15,,(0+ 1- 2-),2,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,20,,1773,15,,(0+ 1- 2-),3,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,21,,1906,15,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,22,,1974,26,,(0+ 1- 2-),4,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,23,,2058,15,,(0+ 1- 2-),5,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,24,,2413,23,,(0+ 1- 2-),6,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,25,,2494,20,,(0+ 1- 2-),7,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,26,,2681,20,,(0+ 1- 2-),8,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,27,,2817,23,,(0+ 1- 2-),9,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,28,,3074,30,,(0+ 1- 2-),10,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,29,,3188,30,,(0+ 1- 2-),11,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,30,,3486,20,,(0+ 1- 2-),12,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,31,,3644,27,,(0+ 1- 2-),13,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+27,37,Co,32,,4870,40,,,,,,,,,,,,,,,,,,,,,,,,12-Nov-2021,Balraj Singh and Jun Chen,2025-10-16
+

@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+2249,20,12.4,,,5560.7,4939,40,4.6,,,2691,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+2588,20,10.8,,,4869.4,5631,40,4.9,,,3043,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+2773,20,21.4,,,4493.4,6007,40,4.8,,A,3235,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+2828,20,9.4,,,4381.3,6119,40,5.2,,,3291,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+2966,20,46,,,4101.1,6399,40,4.6,,A,3433,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+3084,20,2,,,3859.8,6640,40,6,,1NU,3556,20,14,21,Si,,0,,(7/2)-,0.78,,12,s,0.78,0.12,B-,100,,10470,40,15,20,P,20-Oct-2011,JUN CHEN and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+

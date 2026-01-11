@@ -1,0 +1,21 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+17,25,Cl,0,,0,,,(2-),1,6.8,,3,s,6.8,0.3,B-,100,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,1,,118.19,0.06,,(3-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,2,,522,1,,(4-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,3,,588.97,0.06,,(1- 2 3+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,4,,639.44,0.09,,(1- 2 3+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,5,,841.91,0.06,,(1- 2 3+),3,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,6,,1025.82,0.23,,(1- 2 3+),4,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,7,,1267.49,0.07,,1+,1,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,8,,1385.69,0.18,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,9,,1550.42,0.09,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,10,,1576.65,0.2,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,11,,1684.22,0.11,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,12,,1710.92,0.08,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,13,,1834.87,0.13,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,14,,2123.31,0.08,,1+,2,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,15,,2221.03,0.12,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,16,,2241.17,0.25,,(1+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,17,,2403.2,0.4,,,,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+17,25,Cl,18,,3029.71,0.11,,1+,3,,,,,,,,,,,,,,,,,,,,,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-16
+

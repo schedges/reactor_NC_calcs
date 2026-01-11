@@ -1,0 +1,16 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+24,37,Cr,0,,0,,,(5/2-),1,234,,11,ms,0.234,0.011,B-,100,,B-N,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,1,,70.8,0.3,,(3/2 5/2 7/2),1,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,2,,97.41,0.23,,(3/2 5/2 7/2),2,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,3,,224.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,4,,401.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,5,,450.6,0.3,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,6,,564.4,0.5,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,7,,631.7,0.8,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,8,,715.9,0.4,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,9,,773.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,10,,1026.6,0.3,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,11,,1222,0.5,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,12,,2061.9,0.5,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+24,37,Cr,13,,2261.4,0.6,,,,,,,,,,,,,,,,,,,,,,,,25-Mar-2019,BALRAJ SINGH,2025-10-16
+

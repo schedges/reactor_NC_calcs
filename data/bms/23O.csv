@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,7,2,,7580+X,3760,130,,,,,,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+2653,65,5.2,1,,5599,5741,131,4.31,0.11,,3090,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+2676,65,2.1,0.6,,5553,5787,131,4.72,0.14,,3110,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+3143,65,3.1,0.9,,4604,6736,131,4.86,0.14,,3600,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+3409,65,17.1,1.7,,4066,7274,131,4.27,0.07,A,3860,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+3508,65,15.8,1.9,,3865,7475,130,4.36,0.08,,3970,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+3754,65,1.4,1.4,,3367,7973,131,5.5,,,4220,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+4310,65,45.8,1.6,,2244,9096,130,4.3,0.05,A,4790,70,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+5421,65,,,,0.0,11340,130,,,2NU,,,8,15,O,,0,,1/2+,97,,8,ms,0.097,0.008,B-,100,,11340,130,9,14,F,1-Jun-2020,M.S. Basunia{+#} and  A. Chakraborty{+##},2025-10-17
+

@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+456,38,33,0,,981.6,1098.4,0.4,4.9,0.049,A,725.26,0.26,70,110,Yb,,0,,0+,2.4,,5,m,144,30,B-,100,,1960,310,71,109,Lu,1-Feb-2015,E.A. MCCUTCHAN,2025-10-17
+470,38,26,0,,947.8,1132.2,0.4,5.3,0.053,A,744.67,0.43,70,110,Yb,,0,,0+,2.4,,5,m,144,30,B-,100,,1960,310,71,109,Lu,1-Feb-2015,E.A. MCCUTCHAN,2025-10-17
+632,39,32,0,,562.0,1518,0.3,5.4,0.054,A,972.11,0.29,70,110,Yb,,0,,0+,2.4,,5,m,144,30,B-,100,,1960,310,71,109,Lu,1-Feb-2015,E.A. MCCUTCHAN,2025-10-17
+794,40,9,0,,186.8,1893.2,0.3,6.3,0.063,,1207.97,0.31,70,110,Yb,,0,,0+,2.4,,5,m,144,30,B-,100,,1960,310,71,109,Lu,1-Feb-2015,E.A. MCCUTCHAN,2025-10-17
+

@@ -1,0 +1,23 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+45,67,Rh,0,,0,,,(1+),1,3.6,,3,s,3.6,0.3,B-,100,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,1,,82.27,0.17,,(1+ 2+),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,2,,327.03,0.17,,(1+),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,3,,542,0.5,,(1 2),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,4,,670.2,0.5,,(1),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,5,Y,0,,340,(6+),1,6.76,,12,s,6.76,0.12,B-,100,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,6,Y,60.58,0.1,340,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,7,Y,219.86,0.13,340,(8-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,8,Y,402.89,0.13,340,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,9,Y,557.7,0.3,340,(9-),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,10,Y,671.45,0.14,340,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,11,Y,802.6,0.3,340,(10-),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,12,Y,913.45,0.15,340,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,13,Y,1230.2,0.4,340,(11-),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,14,Y,1241.41,0.15,340,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,15,Y,1515.1,0.5,340,(12-),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,16,Y,1603.9,0.16,340,(13-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,17,Y,1938,0.7,340,(13-),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,18,Y,1947.55,0.17,340,(14-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,19,Y,2433.99,0.17,340,(15-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+45,67,Rh,20,Y,2769.36,0.18,340,(16-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2014,S. LALKOVSKI and  F.G. KONDEV,2025-10-17
+

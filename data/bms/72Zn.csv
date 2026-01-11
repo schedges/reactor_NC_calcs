@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+67.44,0.76,14.7,0.3,0.00000000019,207.9,249,,4.972,0.017,A,167.7,1.8,30,42,Zn,,0,,0+,46.5,,1,h,167400,360,B-,100,,442.8,23,31,41,Ga,1-May-2009,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+82.74,0.8,85.1,0.2,0.00000000059,161.1,296,6,4.468,0.012,A,199.5,1.6,30,42,Zn,,0,,0+,46.5,,1,h,167400,360,B-,100,,442.8,23,31,41,Ga,1-May-2009,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+93.76,0.8,0.21,0.13,,128.5,314.3,2.3,7.2,0.3,,221.1,1.6,30,42,Zn,,0,,0+,46.5,,1,h,167400,360,B-,100,,442.8,23,31,41,Ga,1-May-2009,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+96.93,0.8,0.01,,0.035,119.2,323.6,2.3,8.6,,S,227.1,1.7,30,42,Zn,,0,,0+,46.5,,1,h,167400,360,B-,100,,442.8,23,31,41,Ga,1-May-2009,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+

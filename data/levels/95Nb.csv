@@ -1,0 +1,121 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+41,54,Nb,0,,0,,,9/2+,1,34.991,,6,d,3023222.4,518.4,B-,100,,,,,,,,,6.141,0.005,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,1,,235.69,0.02,,1/2-,1,3.61,,3,d,311904,2592,IT,94.4,0.6,B-,5.6,0.6,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,2,,724.195,0.004,,7/2+,1,70,LE,,ps,0.00000000007,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,3,,730,6,,(5/2)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,4,,756.728,0.012,,7/2+,2,70,LE,,ps,0.00000000007,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,5,,799,4,,3/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,6,,805,5,,(5/2:13/2)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,7,,824.7,0.2,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,8,,877,7,,(5/2:13/2)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,9,,1010,5,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,10,,1088,11,,9/2+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,11,,1149,11,,(5/2:13/2)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,12,,1216,7,,(7/2:11/2)-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,13,,1219,5,,3/2-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,14,,1268,7,,9/2+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,15,,1274,6,,5/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,16,,1337,9,,9/2+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,17,,1364,8,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,18,,1394,9,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,19,,1430,12,,(3/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,20,,1464,5,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,21,,1518,8,,(5/2:13/2)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,22,,1565,8,,9/2+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,23,,1590,8,,3/2+ 5/2+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,24,,1618,7,,3/2+ 5/2+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,25,,1645,8,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,26,,1649.4,0.3,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,27,,1660,6,,9/2+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,28,,1704,7,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,29,,1730,7,,(5/2:13/2)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,30,,1767,4,,(7/2:11/2)-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,31,,1813,6,,5/2+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,32,,1847,2,,(5/2:13/2)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,33,,1903,6,,9/2+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,34,,1958,9,,9/2+,8,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,35,,1972,8,,3/2- 5/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,36,,2018,16,,9/2+,9,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,37,,2049,5,,(3/2:15/2)-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,38,,2100,9,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,39,,2121,8,,3/2+ 5/2+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,40,,2159,6,,3/2+ 5/2+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,41,,2194,9,,(5/2+:13/2)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,42,,2247,8,,(3/2+ 5/2-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,43,,2275,14,,(1/2:17/2)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,44,,2303,7,,5/2-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,45,,2328,12,,1/2- 3/2-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,46,,2328.4,0.3,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,47,,2364,4,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,48,,2383,8,,1/2-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,49,,2390,7,,(5/2:13/2)+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,50,,2414,8,,(3/2+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,51,,2430,4,,(3/2+ 5/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,52,,2481,12,,5/2- 7/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,53,,2486,8,,1/2-,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,54,,2522,0.4,,(21/2+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,55,,2540,20,,(5/2:13/2)+,8,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,56,,2599,8,,5/2-,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,57,,2632,8,,(3/2+),3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,58,,2637,4,,9/2+,10,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,59,,2670,8,,(5/2-),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,60,,2706,2,,(5/2:13/2)+,9,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,61,,2724,8,,5/2-,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,62,,2766,4,,9/2+,11,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,63,,2787,12,,5/2- 7/2-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,64,,2816,5,,(3/2:15/2)-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,65,,2891,5,,(5/2:13/2)+,10,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,66,,2947,6,,9/2+,12,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,67,,2977,10,,3/2+ 5/2+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,68,,2993,5,,(1/2:17/2)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,69,,3039,8,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,70,,3045,7,,(3/2:15/2)-,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,71,,3110,9,,9/2+,13,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,72,,3149,3,,9/2+,14,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,73,,3196,15,,9/2+,15,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,74,,3198.3,0.4,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,75,,3233,9,,(1/2:17/2)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,76,,3307,7,,9/2+,16,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,77,,3358,6,,9/2+,17,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,78,,3408,8,,(1/2:17/2)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,79,,3481,7,,(1/2:17/2)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,80,,3545,3,,(1/2:17/2)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,81,,3585,8,,(5/2:13/2)+,11,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,82,,3625,5,,(1/2:17/2)+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,83,,3669,9,,(5/2:13/2)+,12,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,84,,3900,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,85,,4050,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,86,,4070.9,0.5,,(29/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,87,,4160,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,88,,4360,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,89,,4520,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,90,,4610,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,91,,4830,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,92,,5140,0.5,,(33/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,93,,5200,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,94,,5360,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,95,,5643.4,0.6,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,96,,5770,20,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,97,,6487.7,0.6,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,98,,7493.3,0.7,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,99,,8695.2,0.7,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,100,,11990,,,(5/2)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,101,,12852,9,,1/2+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,102,,13274,5,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,103,,13601,6,,3/2+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,104,,13690,,,7/2+ 9/2+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,105,,13721,6,,5/2+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,106,,13922,6,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,107,,14070,,,9/2- 11/2-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,108,,14262,10,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,109,,14301,10,,(3/2+),4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,110,,14365,7,,(3/2+),5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,111,,14456,10,,(7/2+ 9/2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,112,,14630,11,,3/2+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,113,,14710,,,7/2+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,114,,14732,10,,(7/2)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,115,,14832,12,,(7/2+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,116,,14978,6,,(3/2+),6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,117,,15006,6,,(3/2+),7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+41,54,Nb,118,,15057,12,,(7/2-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,S. K. Basu and  G. Mukherjee and  A. A. Sonzogni,2025-10-17
+

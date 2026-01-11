@@ -1,0 +1,4 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+401.9,1.7,95,14,,442.11,1157,4,4.7,0.07,A,758,2.9,64,98,Gd,,0,,0+,8.4,,2,m,504,12,B-,100,,1599,4,65,97,Tb,19-Sep-2023,N. NICA,2025-10-17
+443.4,1.7,4.3,0.7,,341.41,1258,4,6.18,0.08,,818.4,3.4,64,98,Gd,,0,,0+,8.4,,2,m,504,12,B-,100,,1599,4,65,97,Tb,19-Sep-2023,N. NICA,2025-10-17
+

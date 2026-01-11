@@ -1,0 +1,54 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+43,66,Tc,0,,0,,,(5/2+),1,0.91,,3,s,0.91,0.03,B-,100,,B-N,0.08,0.02,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,1,,7,0.3,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,2,,18.37,0.24,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,3,,50.63,0.22,,(3/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,4,,69.13,0.08,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,5,,172,0.1,,(7/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,6,,206.17,0.1,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,7,,333.14,0.13,,(3/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,8,,358.6,0.12,,(7/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,9,,387.8,0.1,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,10,,423.78,0.12,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,11,,489.32,0.25,,(3/2 5/2),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,12,,494.55,0.08,,(9/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,13,,504.2,0.12,,(11/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,14,,605.7,0.14,,(11/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,15,,632.37,0.13,,(11/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,16,,643.68,0.13,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,17,,702.9,0.3,,(3/2 5/2 7/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,18,,745,0.13,,(7/2+),3,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,19,,915.2,0.22,,(13/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,20,,964.71,0.16,,(13/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,21,,1083.94,0.16,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,22,,1171.7,0.25,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,23,,1231.35,0.15,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,24,,1262.28,0.17,,(15/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,25,,1383.1,0.4,,(15/2+),3,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,26,,1440.75,0.15,,(13/2+),3,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,27,,1575.2,0.4,,(17/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,28,,1635.9,0.3,,(17/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,29,,1680.4,0.5,,(17/2+),3,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,30,,1749.61,0.15,,(15/2-),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,31,,1756,0.4,,(3/2 5/2 7/2),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,32,,1796.06,0.23,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,33,,1861.3,0.4,,(19/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,34,,1930.69,0.16,,(17/2-),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,35,,1951.06,0.17,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,36,,2022.85,0.18,,(3/2+ 5/2 7/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,37,,2068.4,0.5,,(3/2 5/2 7/2),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,38,,2078.1,0.6,,(19/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,39,,2136.91,0.16,,(19/2-),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,40,,2286.4,0.4,,(3/2 5/2 7/2+),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,41,,2346.2,0.6,,(21/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,42,,2375.58,0.2,,(21/2-),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,43,,2552.4,0.4,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,44,,2642.68,0.23,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,45,,2660.2,0.5,,(23/2-),2,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,46,,2753.4,0.3,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,47,,2940.3,0.3,,(25/2-),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,48,,3217.4,0.4,,(27/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,49,,3438.9,0.4,,(29/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,50,,4072.1,0.5,,(33/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+43,66,Tc,51,,4833.1,0.7,,(37/2+),1,,,,,,,,,,,,,,,,,,,,,31-May-2016,S. KUMAR(a) and  J. CHEN(b) AND F.G. KONDEV,2025-10-17
+

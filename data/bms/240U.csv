@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+20.6,5.9,0.03,,,299.8+X,100,16,7.1,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+22.2,5.9,0.01,,,294.8+X,105,16,7.6,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+25.9,6,0.9,,,280.0+X,120,16,5.9,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+50.9,6.3,3.5,,,189.7+X,210,16,6.2,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+73.6,6.6,0.17,,,111.6+X,288,16,7.9,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+73.9,6.6,2.5,,,110.7+X,289,16,6.8,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+82.3,6.7,0.14,,,82.6+X,317,16,8.2,,,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+94.1,6.8,25,2.5,,44.17+X,356,16,6.1,0.061,A,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+107.8,6.9,75,7.5,,0+X,400,16,5.8,0.058,A,,,92,148,U,,0,,0+,14.1,,1,h,50760,360,B-,100,,399,17,93,147,Np,31-Jul-2008,BALRAJ SINGH and  E. BROWNE,2025-10-17
+

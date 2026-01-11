@@ -1,0 +1,21 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+87,130,Fr,0,,0,,,9/2-,1,22,,5,us,0.000022,0.000005,A,100,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,1,,210,4,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,2,,274,4,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,3,,363.6,0.3,,13/2-,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,4,,482,8,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,5,,704.2,0.5,,17/2-,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,6,,1077,0.6,,21/2-,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,7,,1256.2,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,8,,1355,0.6,,23/2+,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,9,,1509.7,0.6,,25/2-,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,10,,1688.9,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,11,,1713.7,0.6,,27/2+,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,12,,1988.5,0.6,,29/2-,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,13,,2111,0.7,,31/2+,1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,14,,2154.5,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,15,,2516.4,0.7,,(35/2+),1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,16,,2582,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,17,,2618,0.7,,,,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+87,130,Fr,18,,3002.2,0.8,,(39/2+),1,,,,,,,,,,,,,,,,,,,,,1-DEC-2017,S. KUMAR AND F.G. KONDEV,2025-10-17
+

@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+46.3,8.8,0.199,0.013,,878.60,171,30,4.7,0.3,A,125,21,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+169,11,3.47,0.09,,502.95,547,30,5.07,0.09,A,379,19,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+224,12,94.3,2.4,,351.78,750,8,4,0.07,A,475,19,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+306,12,0.76,0.22,,141.28,909,30,6.5,0.14,,605,18,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+309,12,1.6,0.4,,133.55,916,30,6.19,0.12,,608,18,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+322,12,0.36,0.09,,100.88,949,30,6.89,0.12,,629,18,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+327,12,2,0.4,,87.22,963,30,6.17,0.1,,637,18,58,88,Ce,,0,,0+,13.49,,16,m,809.4,9.6,B-,100,,1050,30,59,87,Pr,14-Jul-2016,Yu. KHAZOV and  A. RODIONOV AND G. SHULYAK,2025-10-17
+

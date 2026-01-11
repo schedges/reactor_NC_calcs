@@ -1,0 +1,44 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+22,29,Ti,0,,0,,,3/2-,1,5.76,,1,m,345.6,0.6,B-,100,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,1,,1166.7,0.3,,1/2-,1,34,,4,fs,0.000000000000034,0.000000000000004,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,2,,1437.3,0.3,,7/2-,1,0.42,,+37-15,ps,0.00000000000042,0.00000000000026,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,3,,1567.5,0.3,,5/2-,1,86,,+26-21,fs,0.000000000000086,0.0000000000000235,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,4,,2144,0.3,,5/2-,2,0.11,,2,ps,0.00000000000011,0.00000000000002,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,5,,2198.1,0.4,,3/2-,2,10,,3,fs,0.00000000000001,0.000000000000003,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,6,,2344.6,0.4,,(11/2)-,1,9.6,,16,ps,0.0000000000096,0.0000000000016,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,7,,2691.4,0.8,,7/2-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,8,,2731.2,0.4,,(7/2 9/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,9,,2754.2,0.7,,(15/2-),1,0.8,,3,ns,0.0000000008,0.0000000003,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,10,,2905.8,0.5,,1/2-,2,7.6,,2,fs,0.0000000000000076,2e-16,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,11,,2919.3,0.4,,(5/2 7/2)-,1,14,LT,,fs,0.000000000000014,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,12,,3062.3,0.4,,(7/2 9/2)-,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,13,,3173.8,0.5,,3/2-,3,11.8,,21,fs,0.0000000000000118,0.0000000000000021,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,14,,3237.4,2.1,,(5/2 7/2 9/2),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,15,,3618.5,0.4,,(5/2 TO 9/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,16,,3644.1,1.2,,(13/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,17,,3771.3,0.6,,9/2+,1,116,,+21-17,fs,0.000000000000116,0.000000000000019,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,18,,4022,10,,(5/2- 7/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,19,,4095,1.5,,(7/2 9/2),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,20,,4172,10,,(3/2+ 5/2+),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,21,,4186.6,2.1,,(5/2 7/2 9/2),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,22,,4407.2,2.4,,(15/2-),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,23,,4470,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,24,,4569,10,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,25,,4602,10,,(3/2+ 5/2+),2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,26,,4757,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,27,,4820,10,,1/2+,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,28,,4882,10,,1/2+,2,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,29,,4882.1,2.1,,(5/2 7/2 9/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,30,,4998,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,31,,5013,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,32,,5102,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,33,,5149,10,,5/2- 7/2-,1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,34,,5224,10,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,35,,5245,4,,(17/2-),1,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,36,,5420,20,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,37,,5540,20,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,38,,5780,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,39,,5950,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,40,,6140,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+22,29,Ti,41,,6250,30,,,,,,,,,,,,,,,,,,,,,,,,1-Mar-2016,Wang Jimin and Huang Xiaolong,2025-10-16
+

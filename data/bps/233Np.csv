@@ -1,0 +1,10 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,40.351,990,50,,,,,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,320.69,709,50,0.2,0.002,7.6,0.076,1NU,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,597.23,433,50,0.2,0.002,7.1,0.071,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,5023862615155.047,0.0,1030,50,97,9.7,5.2,0.052,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,311.911,718,50,0.6,0.006,7.1,0.071,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,546.53,483,50,1.1,0.011,6.5,0.065,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,298.815,731,50,0.6,0.006,7.1,0.071,1NU,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+,,,,,340.476,690,50,0.4,0.004,7.3,0.073,A,,,93,140,Np,,0,,(5/2+),36.2,,1,m,2172,6,EC,100,,1029,51,92,141,U,8-Oct-2020,B. Singh and  J. K. Tuli and  E. Browne,2025-10-17
+

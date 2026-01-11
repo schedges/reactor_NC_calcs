@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+383.3,3.8,7.5,0.6,,358.5,1081,9,4.81,0.04,A,700,6,46,68,Pd,,0,,0+,2.42,,6,m,145.2,3.6,B-,100,,1440,8,47,67,Ag,1-Jan-2012,Jean Blachot,2025-10-17
+477.7,4,0.25,0.17,,136.7,1303,9,6.6,0.3,,826,6,46,68,Pd,,0,,0+,2.42,,6,m,145.2,3.6,B-,100,,1440,8,47,67,Ag,1-Jan-2012,Jean Blachot,2025-10-17
+482,3.9,0.8,,,126.7,1313,9,6.1,,,833,5,46,68,Pd,,0,,0+,2.42,,6,m,145.2,3.6,B-,100,,1440,8,47,67,Ag,1-Jan-2012,Jean Blachot,2025-10-17
+537.2,4,92,0.5,4.6,0,1440,9,4.199,0.016,A,904,5,46,68,Pd,,0,,0+,2.42,,6,m,145.2,3.6,B-,100,,1440,8,47,67,Ag,1-Jan-2012,Jean Blachot,2025-10-17
+

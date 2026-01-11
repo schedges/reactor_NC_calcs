@@ -1,0 +1,87 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+35,43,Br,0,,0,,,1+,1,6.45,,4,m,387,2.4,EC+B+,99.99,,B-,0.01,,,,,,0.13,0.03,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,1,,32.32,0.08,,(2-),1,11.3,,30,ns,0.0000000113,0.000000003,,,,,,,,,,,-1.12,0.04,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,2,,55.11,0.1,,(1 2)+,1,7.5,,11,ns,0.0000000075,0.0000000011,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,3,,125.14,0.11,,(1 2)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,4,,180.89,0.13,,(4+),1,119.4,,10,us,0.0001194,0.000001,IT,100,,,,,,,,,4.114,0.012,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,5,,193.4,0.16,,(0:3)(+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,6,,197.24,0.14,,(1 2 3)(+),1,4.7,,5,ns,0.0000000047,0.0000000005,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,7,,204.4,0.1,,(0:3)(+),2,5.9,,6,ns,0.0000000059,0.0000000006,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,8,,227.67,0.18,,(5+),1,84,,8,ns,0.000000084,0.000000008,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,9,,242.82,0.17,,(2 3)-,1,17,,2,ns,0.000000017,0.000000002,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,10,,244.62,0.15,,(2 3)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,11,,263.36,0.15,,(3 4)-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,12,,265.03,0.18,,(5-),1,5.1,,5,ns,0.0000000051,0.0000000005,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,13,,284.3,0.5,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,14,,292.2,0.5,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,15,,311.94,0.12,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,16,,329.52,0.13,,(1 2)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,17,,337.85,0.2,,(6+),1,7.3,,12,ns,0.0000000073,0.0000000012,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,18,,367.4,0.3,,(1:4)-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,19,,389,4,,(3 4)-,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,20,,390.9,0.3,,(2 3)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,21,,414.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,22,,423.4,0.4,,(6-),1,25,LT,,ns,0.000000025,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,23,,433.5,0.4,,(1 2)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,24,,437.74,0.22,,(7+),1,3,LT,,ns,0.000000003,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,25,,447.05,0.23,,(0+:3+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,26,,457.22,0.18,,(0:3+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,27,,467.81,0.24,,(8+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,28,,473.9,0.3,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,29,,476.93,0.15,,(3- 4-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,30,,498.5,0.5,,(1 2)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,31,,508,10,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,32,,526.7,0.6,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,33,,551,4,,(0:3)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,34,,579.43,0.25,,(2 3)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,35,,601.2,0.3,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,36,,643,4,,(0:3)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,37,,647.59,0.22,,(4),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,38,,663,4,,(0:3)+&(2:6)-,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,39,,684.9,0.4,,(7-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,40,,717,4,,(1 2 3)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,41,,793.3,0.3,,(1 2)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,42,,828.3,0.7,,(8-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,43,,854,4,,(1 2 3)+,2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,44,,868,4,,(1 2 3)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,45,,891,4,,(1 2 3)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,46,,912,0.4,,(1 2)+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,47,,930,4,,(1 2 3)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,48,,977.1,0.3,,(9+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,49,,989,4,,(0:3)+,3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,50,,1001,0.4,,(1 2 3)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,51,,1026,4,,(0:3)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,52,,1030.2,0.4,,(8-),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,53,,1039,4,,(0:3)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,54,,1060,4,,(1+ 2+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,55,,1130,4,,(1 2 3)(+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,56,,1173,4,,(2 3)+,4,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,57,,1188,4,,(1 2 3)(+),3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,58,,1200,4,,(0:3)(+),3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,59,,1243,4,,(0:3)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,60,,1261,4,,(2 3)+,5,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,61,,1371.8,0.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,62,,1395,,,(2 3)+,6,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,63,,1463.1,0.5,,(9-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,64,,1486,,,(0 1)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,65,,1570,,,(LE 3)+,1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,66,,1691,,,(2 3)+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,67,,1746,,,(0:3)+,7,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,68,,1823,,,(2+ 3+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,69,,1905,0.7,,(10-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,70,,1940.5,0.4,,(11+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,71,,1985,,,,,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,72,,2062,,,(2+ 3+),2,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,73,,2162,,,(2+ 3+),3,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,74,,2455.5,0.7,,(11-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,75,,2585.3,0.5,,(12+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,76,,3016.5,0.8,,(12-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,77,,3148.8,0.6,,(13+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,78,,3619.9,0.9,,(13-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,79,,4049.3,1,,(14+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,80,,4296.5,1,,(14-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,81,,4541.8,1,,(15+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,82,,4921.9,1,,(15-),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,83,,5604.3,1,,(16+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+35,43,Br,84,,6086.9,1,,(17+),1,,,,,,,,,,,,,,,,,,,,,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-16
+

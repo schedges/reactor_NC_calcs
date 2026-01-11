@@ -1,0 +1,132 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+51,68,Sb,0,,0,,,5/2+,1,38.19,,22,h,137484,792,EC,100,,,,,,,,,3.45,0.01,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,1,,270.52,0.04,,7/2+,1,35,,10,ps,0.000000000035,0.00000000001,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,2,,644.03,0.04,,1/2+,1,5.2,,48,ps,0.0000000000052,0.0000000000048,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,3,,699.88,0.05,,3/2+ 5/2+,1,300,GT,,fs,0.0000000000003,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,4,,970.9,0.05,,9/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,5,,1048.42,0.05,,7/2+,2,300,GT,,fs,0.0000000000003,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,6,,1212.74,0.04,,9/2+,2,5.2,,48,ps,0.0000000000052,0.0000000000048,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,7,,1249.74,0.05,,9/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,8,,1327.25,0.11,,(1/2-),1,76,GT,,fs,0.000000000000076,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,9,,1338.61,0.09,,3/2+,1,0.07,,+6-3,ps,0.00000000000007,0.000000000000045,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,10,,1340.75,0.17,,11/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,11,,1366.34,0.04,,11/2-,1,112,,15,ps,0.000000000112,0.000000000015,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,12,,1407.35,0.08,,11/2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,13,,1413.21,0.07,,3/2-,1,0.12,,+10-5,ps,0.00000000000012,0.000000000000075,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,14,,1450,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,15,,1469,3,,3/2+ 5/2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,16,,1482,10,,1/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,17,,1487.61,0.06,,(3/2+),1,215,GT,,fs,0.000000000000215,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,18,,1547,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,19,,1646.5,1,,1/2+,2,450,GT,,fs,0.00000000000045,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,20,,1660,8,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,21,,1665,10,,(3/2+ 5/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,22,,1675.72,0.16,,13/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,23,,1730,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,24,,1749.64,0.06,,3/2+,2,23,,+11-7,fs,0.000000000000023,0.000000000000009,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,25,,1821.14,0.08,,1/2+,3,55,,22,fs,0.000000000000055,0.000000000000022,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,26,,1848.2,1,,,,130,GT,,fs,0.00000000000013,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,27,,1875.32,0.2,,(1/2+ 3/2),1,0.08,,+21-4,ps,0.00000000000008,0.000000000000125,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,28,,1970,10,,7/2+ 9/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,29,,1982,1,,,,0.11,,+28-7,ps,0.00000000000011,0.000000000000175,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,30,,2037.61,0.19,,15/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,31,,2043,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,32,,2067,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,33,,2094.38,0.15,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,34,,2100,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,35,,2114,10,,1/2+ 3/2+ 5/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,36,,2129.82,0.1,,9/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,37,,2130,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,38,,2138.38,0.13,,13/2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,39,,2159,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,40,,2187,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,41,,2202.35,0.13,,13/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,42,,2223,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,43,,2226.06,0.06,,11/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,44,,2258,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,45,,2269.1,1,,1/2+ 3/2+ 5/2+,2,14,LT,,fs,0.000000000000014,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,46,,2278.93,0.06,,13/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,47,,2283.7,0.4,,9/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,48,,2298,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,49,,2314.02,0.24,,(15/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,50,,2320,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,51,,2327,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,52,,2355,3,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,53,,2360.2,0.09,,9/2-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,54,,2379.6,0.2,,(9/2 13/2),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,55,,2384,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,56,,2415.53,0.2,,1/2+,4,0.12,,+28-6,ps,0.00000000000012,0.00000000000017,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,57,,2419.34,0.2,,17/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,58,,2455,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,59,,2475.44,0.13,,15/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,60,,2505.24,0.21,,15/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,61,,2508,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,62,,2539,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,63,,2553.6,0.3,,(19/2-),1,130,,3,ns,0.00000013,0.000000003,,,,,,,,,,,3.14,0.06,3.18,0.13,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,64,,2561,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,65,,2624,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,66,,2707.74,0.24,,17/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,67,,2708,10,,1/2+ 3/2+ 5/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,68,,2747.68,0.25,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,69,,2749,8,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,70,,2769.08,0.24,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,71,,2841.7,0.4,,(21/2-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,72,X,2841.7,,10.3,(27/2+),1,0.85,,9,s,0.85,0.09,IT,100,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,73,,2848.99,0.22,,19/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,74,,2862,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,75,,2885,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,76,,2980,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,77,,3002.5,0.3,,19/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,78,,3035,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,79,,3062,10,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,80,,3064.89,0.25,,17/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,81,,3068.7,0.22,,17/2-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,82,,3280,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,83,,3295.85,0.2,,19/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,84,,3310.37,0.24,,21/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,85,,3440,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,86,,3505.5,0.3,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,87,,3581.9,0.3,,21/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,88,,3608.4,0.4,,23/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,89,,3620,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,90,,3630,20,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,91,,3778,15,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,92,,3784.6,0.3,,23/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,93,,3830,15,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,94,,3939.6,0.3,,23/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,95,,3990,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,96,,4020,15,,(23/2+ 25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,97,,4120,15,,(19/2+ 21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,98,,4200,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,99,,4210,15,,(19/2+ 21/2+),2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,100,,4211.5,0.4,,25/2+,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,101,,4274.3,0.3,,25/2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,102,,4298.1,0.4,,27/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,103,,4342,0.4,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,104,,4346.5,0.3,,25/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,105,,4352.6,0.4,,27/2-,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,106,,4444.7,0.5,,29/2-,1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,107,,4490,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,108,,4542.6,0.4,,(27/2+),2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,109,,4776.1,0.3,,27/2-,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,110,,4785.2,0.4,,(27/2+),3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,111,,4940.3,0.5,,(29/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,112,,5190.5,0.5,,(31/2-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,113,,5232.1,0.3,,(29/2-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,114,,5243.5,0.5,,(29/2+),2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,115,,5354,0.5,,(31/2+),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,116,,5490,20,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,117,,5712,0.4,,(31/2-),2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,118,,6113.9,0.5,,(35/2-),1,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,119,,6880,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,120,,7200,30,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,121,,8090,25,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,122,,12368,12,,1/2+,5,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,123,,12386,17,,3/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,124,,13170,,,7/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,125,,13300,,,3/2+,4,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,126,,13433,12,,5/2+,2,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,127,,13708,17,,5/2+,3,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,128,,13710,25,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+51,68,Sb,129,,14290,,,,,,,,,,,,,,,,,,,,,,,,,1-Dec-2008,D. M. SYMOCHKO and  E. BROWNE and  J. K. TULI,2025-10-17
+

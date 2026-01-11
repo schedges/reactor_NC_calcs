@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,65,6.5,,1621.1,11369,500,,,,6020,260,29,49,Cu,,0,,(4- 5- 6-),335,,11,ms,0.335,0.011,B-,100,,12694,13,30,48,Zn,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-17
+,,100,10,,7000,5990,500,,,,3260,260,29,49,Cu,,0,,(4- 5- 6-),335,,11,ms,0.335,0.011,B-,100,,12694,13,30,48,Zn,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-17
+,,35,3.5,,3106,9884,500,,,,5260,260,29,49,Cu,,0,,(4- 5- 6-),335,,11,ms,0.335,0.011,B-,100,,12694,13,30,48,Zn,30-Jun-2009,AMEENAH R. FARHAN and  BALRAJ SINGH,2025-10-17
+

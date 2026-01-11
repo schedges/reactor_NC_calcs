@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1502.3,2,,,,3987.1,3479,4,6,,,1977.2,2.2,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+1531.3,2,,,,3926.4,3540,4,5.7,,,2008.4,2.6,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+2518.8,2,,,,1878.14,5588,4,5.9,,,3066.7,2.1,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+2926.7,2,,,,1035.5,6430,4,6.9,,,3499.7,2.1,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+3084.1,2,,,,710.51,6755,4,6.4,,,3665.5,2.3,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+3150.6,2,,,,573.17,6893,4,6.6,,,3736.2,2.3,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+3266.4,2,,,,334.0,7132,4,6.2,,,3859.8,2.2,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+3310.7,2,,,,242.51,7223,4,6.6,,,3906.8,2.1,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+3428.1,2,,,55.65,0.0,7466,4,6.1,,1NU,4030.2,2.2,34,53,Se,,0,,(3/2+),5.50,,14,s,5.5,0.14,B-,100,,7466,4,35,52,Br,27-Jul-2015,T.D. Johnson and W.D. Kulp(a),2025-10-17
+

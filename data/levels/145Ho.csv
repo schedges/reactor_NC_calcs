@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+67,78,Ho,0,,0,,,(11/2-),1,2.4,,1,s,2.4,0.1,EC+B+,100,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+67,78,Ho,1,,486.9,0.3,,(15/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+67,78,Ho,2,,1147.1,0.4,,(19/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+67,78,Ho,3,,1894.2,0.5,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+67,78,Ho,4,,2681.6,0.6,,(27/2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2008,E. BROWNE and  J. K. TULI,2025-10-17
+

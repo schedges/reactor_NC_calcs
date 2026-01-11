@@ -1,0 +1,27 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+18,25,Ar,0,,0,,,5/2(-),1,5.37,,6,m,322.2,3.6,B-,100,,,,,,,,,-1.022,0.006,0.142,0.014,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,1,X,0,,,(7/2-),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,2,,201.27,0.16,,(7/2-),2,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,3,,762.05,0.08,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,4,,1381.74,0.07,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,5,,1441.48,0.1,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,6,X,1527.4,0.5,,(11/2-),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,7,,1610,40,,(3/2-),2,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,8,,1740,50,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,9,,1793.8,0.1,,(3/2+),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,10,,1816.8,0.7,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,11,X,1859,2,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,12,,1944.96,0.21,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,13,,2344.4,0.8,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,14,,2390.5,0.15,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,15,,2520.38,0.13,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,16,,2798.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,17,,3374.8,0.5,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,18,,3395.8,0.3,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,19,,3425.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,20,,3549.4,0.7,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,21,,4247.06,0.17,,(3/2+),2,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,22,,4289,0.5,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,23,,4550.8,0.4,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+18,25,Ar,24,,4740,100,,,,,,,,,,,,,,,,,,,,,,,,31-Mar-2015,BALRAJ SINGH AND JUN CHEN{+#},2025-10-16
+

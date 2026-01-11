@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+47,79,Ag,0,X,0,,0,(3+),1,52,,10,ms,0.052,0.01,B-,100,,B-N,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,1,Y,0,,100,(GE 8),1,92,,9,ms,0.092,0.009,B-,100,,B-N,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,2,Z,0,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,3,Z,194,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,4,X,254.8,0.5,0,(1-),1,27,,6,us,0.000027,0.000006,IT,100,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,5,Z,792,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,6,Z,1534,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,7,Z,1762,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+47,79,Ag,8,Z,2121,,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2021,H. Iimura and  J. Katakura and  S. Ohya,2025-10-17
+

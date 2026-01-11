@@ -1,0 +1,17 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+46,50,Pd,0,,0,,,0+,1,122,,2,s,122,2,EC+B+,100,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,1,,1415.31,0.1,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,2,,2099.01,0.14,,(4+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,3,,2391.4,0.3,,LE 4,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,4,,2424.19,0.17,,(6+),1,7.5,,10,ns,0.0000000075,0.000000001,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,5,,2530.57,0.23,,(8+),1,2.10,,21,us,0.0000021,0.00000021,,,,,,,,,,,10.97,0.06,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,6,,2648.7,0.21,,(5-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,7,,3184,0.3,,(7+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,8,,3724.7,0.3,,(4+ TO 8+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,9,,3783.6,0.3,,(10+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,10,,4573.6,0.4,,(12+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,11,,4710.6,0.3,,(6+ TO 9+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,12,,5282.4,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,13,,6728.7,1.1,,(13+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+46,50,Pd,14,,7040,1.2,,(15+),1,35,,4,ns,0.000000035,0.000000004,,,,,,,,,,,12.5,0.6,,,1-Apr-2008,D. Abriola(a) and  A.A. Sonzogni,2025-10-17
+

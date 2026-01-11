@@ -1,0 +1,262 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+69,101,Tm,0,,0,,,1-,1,128.6,,3,d,11111040,25920,B-,99.869,0.01,EC,0.131,0.01,,,,,0.247,0.004,0.74,0.02,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,1,,38.7139,0.0005,,2-,1,1.71,,17,ns,0.00000000171,0.00000000017,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,2,,114.544,0.0006,,3-,1,0.60,,3,ns,0.0000000006,0.00000000003,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,3,,149.718,0.0006,,0-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,4,,183.1897,0.0014,,4-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,5,,183.197,0.004,,(3)+,1,4.12,,13,us,0.00000412,0.00000013,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,6,,204.4486,0.0007,,2-,2,1,LT,,ns,0.000000001,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,7,,219.706,0.0006,,2-,3,0.25,,3,ns,0.00000000025,0.00000000003,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,8,,237.2396,0.0006,,1-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,9,,247.147,0.006,,(4)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,10,,270.5466,0.0008,,(3)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,11,,319.326,0.0012,,5-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,12,,327.1,0.7,,(5+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,13,,349.733,0.0008,,3-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,14,,355.047,0.006,,(4)+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,15,,358.1163,0.0009,,(4)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,16,,381.4258,0.0008,,4-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,17,,402.7281,0.0019,,(3 4)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,18,,409.4,0.8,,6-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,19,,419.2,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,20,,426.5,0.3,,(6+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,21,,439.8,0.4,,(5+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,22,,447.0707,0.0008,,(3)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,23,,456.8,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,24,,467.8607,0.0012,,(5)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,25,,476.9,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,26,,539.7223,0.0017,,(4)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,27,,544.05,0.008,,(3+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,28,,550.7473,0.0017,,5-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,29,,590.2286,0.0017,,1-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,30,,594.2,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,31,,598.8,0.8,,(6-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,32,,603.9897,0.0014,,1+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,33,,607.8862,0.0016,,3+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,34,,616.6,0.4,,7-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,35,,626.8,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,36,,637.9062,0.0021,,2-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,37,,644,5,,(4-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,38,,648.7467,0.0014,,1-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,39,,650.3735,0.0014,,2+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,40,,655.598,0.02,,(5-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,41,,661.8564,0.0012,,1+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,42,,677.6,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,43,,683.569,0.003,,(0)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,44,,687,5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,45,,693.2864,0.0013,,2-,5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,46,,703.6284,0.0013,,2+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,47,,708.37,0.004,,3-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,48,,709.474,0.004,,(1 2 3)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,49,,715.6207,0.0018,,(3)-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,50,,719.2627,0.0023,,1+,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,51,,733.8128,0.0021,,(2)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,52,,742.4,0.9,,(LE2+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,53,,743.6,2.3,,1- 2- 3-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,54,,749.8482,0.0016,,3-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,55,,756.215,0.006,,(4)-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,56,,758.3294,0.0017,,(2)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,57,,760.4,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,58,,774,4,,(3)-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,59,,775.2299,0.0014,,(0)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,60,,782.152,0.0022,,(1)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,61,,790.1,0.8,,(6-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,62,,801,6,,(4-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,63,,806.4274,0.0024,,(4)-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,64,,818.5072,0.0015,,(2)+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,65,,822.3935,0.0015,,2+,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,66,,829,7,,(5+),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,67,,832.6,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,68,,835.4,0.9,,(4-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,69,,839.131,0.004,,(3)-,5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,70,,841.3,0.8,,(LE2+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,71,,850.2,1.9,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,72,,854.335,0.004,,2-,6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,73,,860.484,0.003,,1+,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,74,,862.7765,0.0021,,(3)-,6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,75,,863.364,0.005,,(1)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,76,,867,6,,(3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,77,,868,0.8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,78,,891,4,,(5)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,79,,908.448,0.003,,(2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,80,,921,2,,(5-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,81,,925.2722,0.0022,,(3)-,7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,82,,948,4,,(6)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,83,,955.8,1.3,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,84,,959.218,0.008,,(3)-,8,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,85,,964.474,0.007,,(3 4)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,86,,964.8,1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,87,,979.929,0.004,,(3)-,9,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,88,,984.981,0.007,,(3 4 5)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,89,,1011,1,,(6)+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,90,,1014,1,,(4-),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,91,,1017.5,0.8,,(LE2+),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,92,,1025,1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,93,,1046.5,0.9,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,94,,1057.3,0.9,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,95,,1061,9,,(6-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,96,,1064.4579,0.0014,,(1)+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,97,,1070.975,0.006,,(2)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,98,,1072.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,99,,1078.8484,0.0015,,(1)+,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,100,,1087.8,1,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,101,,1091.583,0.003,,(1 2),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,102,,1101.999,0.004,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,103,,1111.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,104,,1131.1,0.8,,(5-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,105,,1139.951,0.004,,(2)-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,106,,1141.9,0.5,,(1 2 3),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,107,,1147.974,0.004,,(1 2)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,108,,1160.597,0.003,,(1)-,3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,109,,1168.779,0.005,,(2)-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,110,,1178.91,0.003,,(2)-,5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,111,,1182.3,1.5,,(LE3),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,112,,1192.828,0.01,,2-,7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,113,,1200.7,1.5,,(LE2),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,114,,1210.679,0.011,,(2+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,115,,1213.1,0.8,,(3)-,10,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,116,,1219.8,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,117,,1224,0.3,,(LE2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,118,,1230,5,,(7-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,119,,1232.4,0.4,,(LE3),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,120,,1238.144,0.01,,(0 1 2)-,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,121,,1245.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,122,,1258.2,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,123,,1265.075,0.012,,(0 1 2)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,124,,1269.2,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,125,,1279.5,0.3,,(1- 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,126,,1291,6,,(4-),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,127,,1295.3,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,128,,1299.107,0.013,,(2)-,6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,129,,1309.3,1.7,,(LE2),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,130,,1315.9,1.3,,(1)-,4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,131,,1324.2,0.3,,(LE2-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,132,,1334.9,0.5,,(1- 2 3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,133,,1354.6,0.2,,(1 2)-,2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,134,,1363.5,0.5,,(1+ 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,135,,1375.1,0.2,,(1-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,136,,1382.2,0.9,,(2)-,7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,137,,1395,0.2,,(2-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,138,,1413.1,1.9,,(1- 2 3-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,139,,1433.2,0.3,,(1-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,140,,1437.2,1.1,,(LE2),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,141,,1442,0.4,,(LE4),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,142,,1443.1,0.4,,(1-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,143,,1448,1,,(3)-,11,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,144,,1453.1,0.6,,(LE2),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,145,,1460.5,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,146,,1466.3,0.2,,(1- 2-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,147,,1472,3,,(1-),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,148,,1478,1,,(1 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,149,,1481.3,0.5,,(LE2),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,150,,1491.4,0.2,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,151,,1501.1,0.4,,(LE2-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,152,,1515.4,0.3,,(0- 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,153,,1518.1,1,,(1- 2 3-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,154,,1526,1.3,,(LE2-),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,155,,1532.1,1.6,,(LE2-),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,156,,1537.2,0.9,,(1-),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,157,,1539,13,,(4-),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,158,,1549.1,1.3,,(LE3),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,159,,1566,8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,160,,1586.7,2.5,,(1- 2 3-),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,161,,1590.3,0.5,,(LE3),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,162,,1603.5,1.4,,(LE3),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,163,,1609.3,1.1,,(0- 1- 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,164,,1639.2,0.5,,(1 TO 4),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,165,,1646.3,1.1,,(2- 3+),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,166,,1658.7,1.2,,(LE3),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,167,,1669.2,0.4,,(LE2),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,168,,1676,3,,(1-),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,169,,1690,8,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,170,,1704.8,0.4,,(LE3),7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,171,,1726.7,1.5,,(1 TO 4),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,172,,1733.7,0.4,,(LE3),8,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,173,,1747.7,1.1,,(LE3),9,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,174,,1758.4,0.4,,(LE3),10,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,175,,1768.7,1.2,,(1 TO 3),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,176,,1793,3,,(1-),7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,177,,1818.1,1.4,,(LE3),11,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,178,,1823.2,0.6,,(1- 2-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,179,,1846,3,,(1-),8,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,180,,1855,0.5,,(1 TO 3),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,181,,1859.3,1.5,,(1-),9,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,182,,1870.6,0.8,,(LE2),7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,183,,1909.8,0.5,,(LE3),12,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,184,,1921.3,1.4,,(1- 2),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,185,,1932.7,1.2,,(1- 2 3-),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,186,,1944,3,,(0- 2-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,187,,1951,0.8,,(2 3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,188,,1979,1.4,,(1- 2 3-),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,189,,2013.4,1.7,,(2 3-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,190,,2039.5,1.3,,(LE3),13,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,191,,2072.8,0.9,,(1- 2 3-),7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,192,,2084.1,1.4,,(LE3),14,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,193,,2098,1.2,,(1 2),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,194,,2101,1.7,,(1- 2 3-),8,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,195,,2116.3,1,,(LE2),8,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,196,,2134.6,1.5,,(2 3-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,197,,2145.4,0.8,,(LE3),15,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,198,,2161.1,2.1,,(1- 2 3-),9,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,199,,2168.1,0.7,,(1- 2 3-),10,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,200,,2192,2.3,,(1+ 2 3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,201,,2258.2,2,,(0- 1 2-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,202,,2264.9,0.7,,(2- 3+),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,203,,2272.4,0.5,,(LE3),16,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,204,,2281.5,0.5,,(LE3),17,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,205,,2283.1,1.1,,(1- 2),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,206,,2289.8,1.2,,(LE3),18,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,207,,2307.4,1.3,,(1- 2 3-),11,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,208,,2340.8,0.7,,(1- 2 3-),12,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,209,,2347.1,1.5,,(LE3),19,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,210,,2364.8,1.3,,(2- 3 4-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,211,,2388.2,0.5,,(LE3),20,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,212,,2439.1,1.9,,(1- 2-),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,213,,2458.3,0.4,,(LE2),9,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,214,,2478,0.7,,(LE2),10,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,215,,2482,0.5,,(LE3),21,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,216,,2528.5,0.6,,(1 TO 4),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,217,,2536.3,2,,(1- 2 3-),13,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,218,,2540.5,0.6,,(1- 2 3-),14,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,219,,2553.9,2,,(LE3),22,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,220,,2573.2,0.7,,(LE3),23,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,221,,2587.6,0.9,,(LE3),24,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,222,,2592.3,1.8,,(1- 2-),5,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,223,,2598.9,2.1,,(2-),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,224,,2606.8,1.7,,(1- 2-),6,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,225,,2618.3,1.3,,(2- 3-),1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,226,,2625.7,0.7,,(LE3),25,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,227,,2634.6,1.6,,(1- 2),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,228,,2671.9,0.7,,(1- 2 3-),15,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,229,,2702.3,1.9,,(LE3),26,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,230,,2721.3,1.5,,(LE3),27,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,231,,2727.4,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,232,,2767.9,0.5,,(1+ 2 3-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,233,,2778.6,1.5,,(1- 2 3-),16,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,234,,2802.4,0.5,,(LE3),28,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,235,,2807.8,1.4,,(2- 3-),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,236,,2813.6,1.5,,(1- 2-),7,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,237,,2846.2,0.5,,(LE3),29,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,238,,2867,1.3,,(1- 2 3-),17,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,239,,2874.5,0.5,,(1- 2 3-),18,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,240,,2881,0.5,,(LE3),30,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,241,,2911.9,2.1,,(LE3),31,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,242,,2925.4,0.6,,(1- 2 3-),19,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,243,,2952.7,0.5,,(1- 2 3-),20,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,244,,2995.9,0.6,,(1- 2 3-),21,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,245,,3030.8,1.3,,(LE2),11,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,246,,3099.4,0.9,,(LE2),12,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,247,,3206.9,0.7,,(1 TO 4),4,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,248,,3215.9,0.9,,(LE3),32,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,249,,3272.7,0.6,,(LE3),33,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,250,,3470.8,0.5,,(LE4),2,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,251,,3491.5,1.1,,(LE3),34,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,252,,3557.3,0.7,,(LE4),3,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,253,,3623.7,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,254,,3630,0.6,,(LE3),35,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,255,,3760.5,1.1,,(LE3),36,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,256,,3806.2,0.6,,(LE3),37,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,257,,3864.1,2,,(LE3),38,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,258,,6591.97,,,0+ 1+,1,,,,,,,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+69,101,Tm,259,,15492,7,,0+,1,104,,8,keV,4.386901106455632e-21,3.374539312658179e-22,,,,,,,,,,,,,,,1-Oct-2018,C.M. Baglin{+1} and  E.A. McCutchan{+2} and  S. Basunia{+1,2025-10-17
+

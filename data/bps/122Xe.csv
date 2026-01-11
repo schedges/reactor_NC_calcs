@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,0.0,725,12,83.0,0.4,5.191,0.016,A,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,0.00000000008,148.612,576,12,3.75,0.16,6.33,0.03,A,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,,416.675,308,12,2.47,0.11,5.92,0.05,A,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,0.0000000074,61.626,663,12,0.98,0.07,7.04,0.04,,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,,350.053,375,12,9.25,0.21,5.54,0.04,A,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,,53.114,672,12,0.48,,7.4,,,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+,,,,,279.427,446,12,0.29,0.04,7.2,0.07,,,,54,68,Xe,,0,,0+,20.1,,1,h,72360,360,EC,100,,724,12,53,69,I,30-Sep-2006,T. TAMURA,2025-10-17
+

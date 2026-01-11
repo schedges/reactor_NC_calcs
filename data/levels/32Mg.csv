@@ -1,0 +1,17 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+12,20,Mg,0,,0,,,0+,1,86,,5,ms,0.086,0.005,B-,100,,B-N,5.5,0.5,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,1,,885.3,0.1,,2+,1,11.4,,20,ps,0.0000000000114,0.000000000002,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,2,,1058,2,,0+,2,7,GT,,ns,0.000000007,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,3,,2322.3,0.3,,4+,1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,4,,2551,1,,(1 2+),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,5,,2858.2,0.5,,(1- 3-),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,6,,3037.7,0.2,,(2- 3-),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,7,,3117,16,,(3- 4+),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,8,,3490,17,,(1- 2+),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,9,,3552.3,0.7,,,,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,10,,4215,17,,(3- 4+),2,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,11,,4784,0.8,,,,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,12,,4819.5,1.2,,(2- 3-),2,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,13,,5169,24,,(2+ 3-),1,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+12,20,Mg,14,,5203,19,,(2+ 3-),2,,,,,,,,,,,,,,,,,,,,,24-Aug-2011,CHRISTIAN OUELLET and  BALRAJ SINGH,2025-10-16
+

@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+25,37,Mn,0,X,0,,0,(1+),1,92,,13,ms,0.092,0.013,B-,100,,B-N,,,,,,,2.37,0.007,0.1,0.2,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,1,Y,0,,343,(4+),1,671,,5,ms,0.671,0.005,B-,100,,B-N,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,2,Y,113.8,0.3,343,(4),1,95,,2,ns,0.000000095,0.000000002,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,3,Y,222.4,0.5,343,(5),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,4,X,285,1.7,0,(0+ 2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,5,Y,418.2,0.5,343,(6),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,6,X,640,1.7,0,(1+),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,7,Y,642.8,0.6,343,(7),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,8,Y,1183.7,1.2,343,(8),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+25,37,Mn,9,X,1500,3,0,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2012,ALAN L. NICHOLS and  BALRAJ SINGH and  JAGDISH K. TULI,2025-10-16
+

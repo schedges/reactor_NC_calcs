@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+166,97,3.6,1.1,,640.54,559.46,0.08,6,1,,393.67,0.1,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+180,98,0.53,0.21,,598.26,601.74,0.15,6.9,0.9,,422.62,0.1,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+270,110,0.8,0.3,,329.72,870.28,0.09,7.3,0.6,,596.34,0.09,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+290,110,0.5,,,293.83,906.17,0.08,7.5,,,620.889,0.015,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+370,110,3.8,1.2,,55.58,1144.42,0.06,7,0.5,,769.87,0.07,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+370,110,10,4,,67.60,1132.4,0.05,6.6,0.5,,762.37,0.06,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+400,110,81,6,132,0.0,1199.9972804724064,0,5.7,0.4,A,,,92,150,U,,0,,0+,16.8,,5,m,1008,30,B-,100,,1200,280,93,149,Np,31-Dec-2021,M.J. Martin and  C.D. Nesaraja,2025-10-17
+

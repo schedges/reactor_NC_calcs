@@ -1,0 +1,10 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+58,64,Ce,0,,0,,,0+,1,,,,,,,EC+B+,,,ECP,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,1,,136.4,0.5,,(2+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,2,,434.7,0.7,,(4+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,3,,872.2,0.9,,(6+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,4,,1428.7,1,,(8+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,5,,2086.7,1.5,,(10+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,6,,2830.7,1.8,,(12+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+58,64,Ce,7,,3642.7,2,,(14+),1,,,,,,,,,,,,,,,,,,,,,30-Sep-2006,T. TAMURA,2025-10-17
+

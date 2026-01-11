@@ -1,0 +1,7 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+9,6,F,0,,0,,,1/2+,1,660,,20,keV,6.912692652596753e-22,2.0947553492717434e-23,P,100,,,,,,,,,,,,,17-JULY-2016,J. Kelley and  T. Truong and  C.G. Sheu,2025-10-16
+9,6,F,1,,1520,50,,5/2+,1,300,,13,keV,1.5207923835712858e-21,6.590100328808906e-23,P,100,,,,,,,,,,,,,17-JULY-2016,J. Kelley and  T. Truong and  C.G. Sheu,2025-10-16
+9,6,F,2,,3480,40,,1/2-,1,36,,15,keV,1.2673269863094049e-20,5.28052910962252e-21,P,100,,,,,,,,,,,,,17-JULY-2016,J. Kelley and  T. Truong and  C.G. Sheu,2025-10-16
+9,6,F,3,,5100,200,,(3/2- 5/2-),1,0.2,,2,MeV,2.2811885753569284e-21,2.2811885753569284e-21,P,100,,,,,,,,,,,,,17-JULY-2016,J. Kelley and  T. Truong and  C.G. Sheu,2025-10-16
+9,6,F,4,,6500,200,,(3/2+ 5/2+),1,0.4,,4,MeV,1.1405942876784642e-21,1.1405942876784642e-21,P,100,,,,,,,,,,,,,17-JULY-2016,J. Kelley and  T. Truong and  C.G. Sheu,2025-10-16
+

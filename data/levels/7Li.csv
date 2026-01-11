@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+3,4,Li,0,,0,,,3/2-,1,STABLE,,,,,,,,,,,,,,,1/2,3.256407,0.000012,-0.04,0.0003,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,1,,477.612,0.003,,1/2-,1,73,,2,fs,0.000000000000073,0.000000000000002,,,,,,,,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,2,,4630,9,,7/2-,1,93,,8,keV,4.905781882488019e-21,4.2200274257961454e-22,A,,,3H,,,,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,3,,6680,50,,5/2-,1,0.88,,+20-10,MeV,5.184519489447564e-22,8.837249129740166e-23,A,,,3H,,,,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,4,,7459.5,1,,5/2-,2,89,,7,keV,5.1262664614762444e-21,4.031894969700417e-22,A,,,3H,,,N,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,5,,9670,100,,7/2-,2,400,AP,,keV,1.1405942876784644e-21,0,A,,,3H,,,N,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,6,,9850,,,3/2-,2,1200,AP,,keV,3.8019809589282145e-22,0,A,,,N,,,,,,1/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,7,,11240,30,,3/2-,3,260,,35,keV,1.754760442582253e-21,2.362177518860725e-22,P,,,N,,,,,,3/2,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,8,,13700,,,,,500,AP,,keV,9.124754301427716e-22,0,N,,,,,,,,,,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+3,4,Li,9,,14700,,,,,700,AP,,keV,6.517681643876939e-22,0,N,,,,,,,,,,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY and  GODWIN et al.,2025-10-16
+

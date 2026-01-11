@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,2062.9,829,7,1.8,1.5,7.9,0.4,,,,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+,,,,,2479.2,413,7,68,4,5.59,0.04,1NU,,,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+,,,,,1800.8,1091,7,3.60,0.08,7.8,,A,30.2,3.2,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+,,,,,2128.7,763,7,0.79,0.12,8.15,0.07,2NU,,,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+,,,,,2108.7,783,7,2.00,0.05,7.8,,A,,,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+,,,,,2655.0,237,7,5.1,0.6,6.08,0.07,,,,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+361.9,3.1,0.008,0.00019,0.00000000057,1116.2,1776,7,3.00,0.07,8.4,,A,395.2,3.9,86,125,Rn,,0,,1/2-,14.6,,2,h,52560,720,EC,72.6,1.7,2892,7,85,126,At,28-FEB-2013,B. SINGH and  S. SINGH and  H.X. Nguyen and M. Patial,2025-10-17
+

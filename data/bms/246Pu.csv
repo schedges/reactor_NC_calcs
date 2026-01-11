@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,16.21+X,384.79,0.05,,,,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+26.4,3.8,0.71,0.05,,299.370+X,101.63,0.021,7.34,0.2,,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+44.7,4,0.32,,,232.761+X,168.239,0.021,8.4,,,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+47.2,4,89,5,,223.742+X,177.258,0.017,5.99,0.12,A,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100.4,4.4,9,5,0.0000000043,43.806+X,357.193,0.015,7.94,0.25,A,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+119,4.2,2,,1500,0.0+X,400.9991060271849,0,8.6,,1U,,,94,152,Pu,,0,,0+,10.84,,2,d,936576,1728,B-,100,,401,14,95,151,Am,31-Jul-2022,C.D. Nesaraja,2025-10-17
+

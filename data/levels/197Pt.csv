@@ -1,0 +1,84 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+78,119,Pt,0,,0,,,1/2-,1,19.8915,,19,h,71609.4,6.84,B-,100,,,,,,,,,0.51,0.02,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,1,,53.088,0.019,,5/2-,1,16.58,,17,ns,0.00000001658,0.00000000017,,,,,,,,,,,0.85,0.03,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,2,,71.6,0.07,,3/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,3,,98.6,0.08,,3/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,4,,130.98,0.04,,1/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,5,,269.11,0.03,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,6,,273,3,,(5/2- 7/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,7,,299.33,0.04,,5/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,8,,371,6,,(7/2+ 9/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,9,,399.59,0.2,,13/2+,1,95.41,,18,m,5724.6,10.8,IT,96.7,0.4,B-,3.3,0.4,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,10,,425.7,0.6,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,11,,456.88,0.05,,5/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,12,,483,1,,(7/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,13,,502.43,0.05,,3/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,14,,520,5,,7/2+ 9/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,15,,529,1,,7/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,16,,595.31,0.08,,(5/2)- (1/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,17,,612,10,,(13/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,18,,708.37,0.05,,3/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,19,,713,10,,5/2- 7/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,20,,747.82,0.09,,1/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,21,,767,10,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,22,,797,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,23,,810.3,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,24,,825,6,,1/2- 3/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,25,,854,1,,7/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,26,,859,5,,5/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,27,,894.8,0.5,,1/2- 3/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,28,,955.9,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,29,,965,10,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,30,,970.9,0.5,,1/2- 3/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,31,,977.9,0.5,,1/2- 3/2-,5,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,32,,1028,1,,7/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,33,,1055,5,,5/2- 7/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,34,,1060.5,0.5,,3/2-,5,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,35,,1081,0.5,,1/2- 3/2-,6,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,36,,1099,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,37,,1107.7,0.8,,1/2 3/2,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,38,,1124,10,,(5/2- 7/2-),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,39,,1135.3,0.7,,1/2- 3/2-,7,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,40,,1136,10,,(13/2)+,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,41,,1158.7,0.5,,(1/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,42,,1175,7,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,43,,1212,3,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,44,,1248,2,,7/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,45,,1276,5,,5/2- 7/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,46,,1292,5,,5/2-,5,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,47,,1297,0.6,,1/2 3/2,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,48,,1318,6,,5/2- 7/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,49,,1330,2,,3/2-,6,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,50,,1350,6,,1/2- 3/2-,8,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,51,,1378,3,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,52,,1397,2,,3/2-,7,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,53,,1412,10,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,54,,1431,10,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,55,,1464,5,,(1/2- 3/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,56,,1507,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,57,,1525,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,58,,1548,10,,(13/2+),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,59,,1582,5,,(5/2- 7/2-),3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,60,,1608,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,61,,1632,3,,(1/2- 3/2-),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,62,,1657,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,63,,1687,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,64,,1711,5,,(1/2- 3/2-),3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,65,,1743,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,66,,1775,10,,(13/2+),3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,67,,1792,3,,(7/2)-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,68,,1797,,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,69,,1812,5,,(-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,70,,1861,10,,(13/2+),4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,71,,1908,5,,7/2- 9/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,72,,1929,10,,(13/2+),5,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,73,,1947,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,74,,1999,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,75,,2009,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,76,,2050,20,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,77,,2082,5,,(1/2- 3/2-),4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,78,,2143,10,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,79,,2176,,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,80,,2186,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+78,119,Pt,81,,2560,20,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+

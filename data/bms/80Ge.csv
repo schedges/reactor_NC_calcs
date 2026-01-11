@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+264.6,7.7,0.14,0.03,,1873.1,771,19,5.05,0.11,A,507,12,32,48,Ge,,0,,0+,29.5,,4,s,29.5,0.4,B-,100,,2679,4,33,47,As,22-Jun-2005,BALRAJ SINGH,2025-10-17
+671.9,8.7,5.3,1,,937.05,1707,19,4.8,0.09,A,1036,10,32,48,Ge,,0,,0+,29.5,,4,s,29.5,0.4,B-,100,,2679,4,33,47,As,22-Jun-2005,BALRAJ SINGH,2025-10-17
+789.8,8.8,3.6,0.7,,680.26,1964,19,5.22,0.09,A,1175,11,32,48,Ge,,0,,0+,29.5,,4,s,29.5,0.4,B-,100,,2679,4,33,47,As,22-Jun-2005,BALRAJ SINGH,2025-10-17
+983.2,9,27,6,,265.35,2370,70,4.69,0.1,A,1397,11,32,48,Ge,,0,,0+,29.5,,4,s,29.5,0.4,B-,100,,2679,4,33,47,As,22-Jun-2005,BALRAJ SINGH,2025-10-17
+1108.3,9,65,7,,0.0,2644,19,4.5,0.05,A,1537,10,32,48,Ge,,0,,0+,29.5,,4,s,29.5,0.4,B-,100,,2679,4,33,47,As,22-Jun-2005,BALRAJ SINGH,2025-10-17
+

@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+4900.9,2,1.9,0.1,,1237.97,10481,4,6.7,0.1,,5563.5,2.1,31,52,Ga,,0,,,308.1,,10,ms,0.3081,0.001,B-,100,,11719,4,32,51,Ge,31-Dec-2014,E.A. MCCUTCHAN,2025-10-17
+4994,2,0.65,0.12,,1045.51,10673,4,7.2,0.1,,5662.1,2,31,52,Ga,,0,,,308.1,,10,ms,0.3081,0.001,B-,100,,11719,4,32,51,Ge,31-Dec-2014,E.A. MCCUTCHAN,2025-10-17
+5379.9,2,0.43,0.11,,247.05,11472,4,7.6,0.2,,6070.7,2.1,31,52,Ga,,0,,,308.1,,10,ms,0.3081,0.001,B-,100,,11719,4,32,51,Ge,31-Dec-2014,E.A. MCCUTCHAN,2025-10-17
+5499.2,2,34,,,0,11719,4,5.7,,,6197.3,2.1,31,52,Ga,,0,,,308.1,,10,ms,0.3081,0.001,B-,100,,11719,4,32,51,Ge,31-Dec-2014,E.A. MCCUTCHAN,2025-10-17
+

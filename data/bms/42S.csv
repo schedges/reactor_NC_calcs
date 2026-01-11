@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1909,69,16.2,0.9,,3029.76,4250,140,4.33,0.07,A,2340,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2215,69,1,0.2,,2403.1,4877,140,5.8,0.1,,2660,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2294,69,2.2,0.3,,2241.16,5039,140,5.5,0.1,A,2750,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2352,69,63,3,,2123.28,5157,140,4.13,0.06,A,2810,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2554,69,1.6,0.8,,1710.91,5569,140,5.9,0.2,,3020,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2713,69,0.7,0.2,,1385.68,5894,140,6.4,0.2,,3180,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+2771,69,17.6,1.1,,1267.48,6012,140,4.99,0.06,A,3240,70,16,26,S,,0,,0+,1.016,,15,s,1.016,0.015,B-,100,,7190,60,17,25,Cl,31-May-2016,JUN CHEN{+#} AND BALRAJ SINGH,2025-10-17
+

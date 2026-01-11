@@ -1,0 +1,17 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+44,72,Ru,0,,0,,,0+,1,204,,6,ms,0.204,0.006,B-,100,,B-N,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,1,,292.43,0.21,,(2+),1,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,2,,614.3,0.23,,(2+),2,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,3,,760.1,0.4,,(4+),1,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,4,,910.9,0.3,,(3+),1,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,5,,1150.1,0.3,,(4+),2,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,6,,1375.7,0.5,,(6+),1,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,7,,1467.9,0.4,,(5+),1,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,8,,1476.5,0.3,,(4+),3,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,9,,1502.5,0.4,,,,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,10,,1760.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,11,,1836.7,0.5,,(6+),2,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,12,,1850.4,0.5,,,,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,13,,1867.4,0.4,,(5+),2,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+44,72,Ru,14,,2166.4,0.6,,,,,,,,,,,,,,,,,,,,,,,,10-AUG-2013,B. SINGH and B. PRITYCHENKO,2025-10-17
+

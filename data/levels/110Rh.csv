@@ -1,0 +1,18 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+45,65,Rh,0,,0,,,(1+),1,3.35,,12,s,3.35,0.12,B-,100,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,1,Y,0,,220,(6+),1,28.0,,13,s,28,1.3,B-,100,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,2,Y,58.9,0.5,220,(6-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,3,,112.19,0.09,,1+,1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,4,Y,124.7,0.7,220,(7-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,5,,166.15,0.15,,(1),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,6,,200.4,0.5,,(1),2,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,7,,228.26,0.21,,(1),3,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,8,,251.6,0.14,,(1),4,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,9,Y,284,0.8,220,(8-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,10,Y,470.8,0.8,220,(9-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,11,,667.1,0.3,,(1),5,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,12,Y,770.7,0.9,220,(10-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,13,Y,1028.7,0.9,220,(11-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,14,Y,1391,0.9,220,(12-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+45,65,Rh,15,Y,1766.2,1,220,(13-),1,,,,,,,,,,,,,,,,,,,,,1-Aug-2011,G. G~URDAL and F.G. KONDEV,2025-10-17
+

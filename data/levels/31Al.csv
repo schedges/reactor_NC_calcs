@@ -1,0 +1,22 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+13,18,Al,0,,0,,,5/2(+),1,644,,25,ms,0.644,0.025,B-,100,,B-N,1.6,,,,,,3.832,0.005,0.134,0.002,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,1,,946.7,0.4,,1/2(+) 3/2,1,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,2,,1613,0.3,,1/2+ 3/2+,1,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,3,,2090,110,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,4,,2676,28,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,5,,3239.3,0.5,,1/2+ 3/2+,2,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,6,,3433.3,0.5,,1/2+ 3/2+,3,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,7,,3623,0.6,,1/2+ 3/2+,4,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,8,,4143.3,0.4,,1/2+ 3/2+,5,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,9,,4320,90,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,10,,4563.7,0.5,,1/2+ 3/2+,6,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,11,,4640.4,1.1,,1/2+ 3/2+,7,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,12,,4809.2,1.2,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,13,,5046.5,1.4,,1/2+ 3/2+,8,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,14,,5149.7,1.1,,1/2+ 3/2+,9,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,15,,5729,24,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,16,,6480,35,,,,,,,,,,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,17,,15804,5,,1/2+,1,15,,8,keV,3.0415847671425715e-20,1.622178542476038e-20,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,18,,15867,3,,3/2+,1,1.3,,13,keV,3.5095208851645056e-19,3.5095208851645056e-19,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+13,18,Al,19,,16026,4,,(3/2)-,1,109,,2,keV,4.185667110746658e-21,7.680123138984695e-23,,,,,,,,,,,,,,,24-Jun-2022,Jun Chen and Balraj Singh,2025-10-16
+

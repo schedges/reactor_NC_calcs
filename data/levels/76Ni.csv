@@ -1,0 +1,11 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+28,48,Ni,0,,0,,,0+,1,234.7,,27,ms,0.2347,0.0027,B-,100,,B-N,14,3.6,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,1,,990.15,0.25,,(2+),1,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,2,,1920.2,0.4,,(4+),1,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,3,,2275.6,0.5,,(6+),1,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,4,,2418.2,0.5,,(8+),1,547.8,,33,ns,0.0000005478,0.0000000033,IT,100,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,5,,2994.7,0.5,,(0+ 2+),1,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,6,,3431,50,,,,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,7,,3828,69,,,,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+28,48,Ni,8,,4147,35,,(4+ 5+),1,,,,,,,,,,,,,,,,,,,,,8-Jan-2024,Balraj Singh and  Jun Chen and Ameenah R. Farhan,2025-10-16
+

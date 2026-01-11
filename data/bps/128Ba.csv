@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,,317.15,236,8,0.056,0.01,7.83,0.09,,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,219.6,0.0,553,8,84.0,0.8,5.471,0.017,A,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,,273.440,280,8,15.3,0.8,5.57,0.04,A,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,,374.998,178,8,0.41,0.03,6.68,0.06,A,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,,229.50,323,8,0.116,0.011,7.83,0.05,,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,,359.11,194,8,0.112,0.012,7.33,0.07,,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+,,,,,215.44,338,8,0.047,0.011,8.26,0.11,,,,56,72,Ba,,0,,0+,2.43,,5,d,209952,4320,EC,100,,563,6,55,73,Cs,28-Feb-2015,ZOLTAN ELEKES AND JANOS TIMAR,2025-10-17
+

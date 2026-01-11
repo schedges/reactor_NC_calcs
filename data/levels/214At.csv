@@ -1,0 +1,27 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+85,129,At,0,,0,,,1-,1,558,,10,ns,0.000000558,0.00000001,A,100,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,1,,59,9,,,,265,,30,ns,0.000000265,0.00000003,A,100,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,2,,78,1,,(0-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,3,,145.1,0.5,,(2)-,1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,4,,187,0.9,,(3-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,5,,228.1,1.2,,(4-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,6,,231,7,,9-,1,760,,15,ns,0.00000076,0.000000015,A,100,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,7,,277.9,1,,(7-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,8,,302.1,1.5,,(6-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,9,,304,1.2,,(1- 2-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,10,,334,1.4,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,11,,343,1,,(8)-,1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,12,,412,7,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,13,,455,8,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,14,,495,6,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,15,,504.1,2.3,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,16,,565.1,2.3,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,17,,631,12,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,18,,728.4,1.5,,(8-),1,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,19,,790,6,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,20,,864,7,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,21,,883,16,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,22,,975,9,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,23,,1018,7,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+85,129,At,24,,1138,9,,,,,,,,,,,,,,,,,,,,,,,,1-May-2021,Shaofei Zhu and E. A. McCutchan,2025-10-17
+

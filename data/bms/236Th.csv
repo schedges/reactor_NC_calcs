@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,2.5,0.6,,227.42,694,20,6.8,0.2,,482,13,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+66.3,6,1.32,0.14,,678.11,243,20,5.4,0.1,,176,14,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+95.6,6.2,0.52,0.1,,580.81,340,20,6.4,0.2,,244,14,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+173.4,6.8,3.4,1.2,,340.20,581,20,6.4,0.2,,407,13,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+253.1,7.2,2,1.7,,110.76,810,20,7.1,0.3,,557,13,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+293.2,7.4,94.5,1.2,546,0,921,20,5.6,0.1,A,628,13,90,146,Th,,0,,0+,37.5,,2,m,2250,12,B-,100,,921,20,91,145,Pa,1-Apr-2022,Shaofei Zhu,2025-10-17
+

@@ -1,0 +1,7 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+1140,8,28,0,,5047,2669,16,5.3,,,,,19,27,K,,0,,(2-),105,,10,s,105,10,B-,100,,7725.7,23,20,26,Ca,15-Jul-2000,S. -C. WU,2025-10-17
+1424,8,3,0,,4454,3262,16,6.6,,A,,,19,27,K,,0,,(2-),105,,10,s,105,10,B-,100,,7725.7,23,20,26,Ca,15-Jul-2000,S. -C. WU,2025-10-17
+1828,8,8,0,,3621,4095,16,6.6,,A,2268,8,19,27,K,,0,,(2-),105,,10,s,105,10,B-,100,,7725.7,23,20,26,Ca,15-Jul-2000,S. -C. WU,2025-10-17
+2123,8,11,0,,3016,4700,16,6.8,,1NU,,,19,27,K,,0,,(2-),105,,10,s,105,10,B-,100,,7725.7,23,20,26,Ca,15-Jul-2000,S. -C. WU,2025-10-17
+2940,8,50,0,,1347,6300,300,6.7,,1NU,,,19,27,K,,0,,(2-),105,,10,s,105,10,B-,100,,7725.7,23,20,26,Ca,15-Jul-2000,S. -C. WU,2025-10-17
+

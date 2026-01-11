@@ -1,0 +1,49 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+29,38,Cu,0,,0,,,3/2-,1,61.83,,12,h,222588,432,B-,100,,,,,,,,,2.5145,0.0006,-0.182,0.008,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,1,,1115.4,0.4,,5/2-,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,2,,1170,20,,(1/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,3,,1633,2,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,4,,1669.63,0.23,,7/2-,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,5,,1937.1,0.4,,3/2-,2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,6,,2272,1,,(1/2 3/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,7,,2340,,,7/2-,2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,8,,2502.8,0.3,,9/2+,1,0.3,LT,,ns,0.0000000003,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,9,,2623.1,1,,(1/2 3/2)-,2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,10,,2680.1,1,,3/2-,3,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,11,,2841.1,1,,(1/2 3/2)-,3,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,12,,2930,,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,13,,2940,,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,14,,2996,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,15,,3036,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,16,,3090,20,,3/2-,4,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,17,,3123,3,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,18,,3250,4,,(7/2+ 9/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,19,,3277,4,,(5/2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,20,,3334,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,21,,3363.7,0.5,,13/2+,1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,22,,3394,5,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,23,,3463.6,0.7,,15/2+,1,2.4,LT,,ns,0.0000000024,,IT,100,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,24,,3480,3,,(11/2- 9/2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,25,,3522,4,,(7/2 9/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,26,,3638,2,,(11/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,27,,3693,4,,(11/2- 9/2),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,28,,3736,4,,(5/2),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,29,,3838,4,,(5/2),3,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,30,,3865,3,,(5/2),4,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,31,,3947,5,,(5/2),5,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,32,,3998,4,,(17/2+ 15/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,33,,4031,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,34,,4059,3,,(7/2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,35,,4127,3,,(7/2),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,36,,4163,2,,(9/2),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,37,,4195,3,,(7/2),3,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,38,,4262,3,,(7/2),4,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,39,,4315,3,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,40,,4364,2,,(7/2 11/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,41,,4406,3,,(11/2-),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,42,,4448,5,,(7/2 9/2-),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,43,,4493,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,44,,4518,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,45,,4561,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+29,38,Cu,46,,4603,4,,,,,,,,,,,,,,,,,,,,,,,,1-Apr-2005,HUO JUNDE and  HUANG XIAOLONG and  J.K. TULI,2025-10-16
+

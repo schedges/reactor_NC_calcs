@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+100,146,Fm,0,,0,,,0+,1,1.53,,4,s,1.53,0.04,A,93.2,0.6,SF,6.4,0.5,EC+B+,1.3,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,1,X,0,,,,,,,,,,,ECSF,10,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,2,,47,1,,(2+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,3,,155,2,,(4+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,4,,322,1,,(6+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,5,,546,1,,(8+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,6,,824,2,,(10+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,7,,1151,2,,(12+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,8,,1523,3,,(14+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+100,146,Fm,9,,1937,4,,(16+),1,,,,,,,,,,,,,,,,,,,,,31-Jul-2022,C.D. Nesaraja,2025-10-17
+

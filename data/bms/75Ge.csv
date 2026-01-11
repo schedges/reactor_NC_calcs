@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+181.58,0.35,0.32,0.04,,617.69,559.5,0.9,6.42,0.06,,378.2,0.8,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+239.51,0.37,0.225,0.024,,468.80,460,,6.94,0.05,A,469.8,0.7,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+290.62,0.55,0.001,,,400.6,776.6,1.3,9.8,,1U,487.2,1.1,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+322.78,0.38,11.5,1.2,0.00000000008,264.60,919,20,5.63,0.05,A,591.2,0.6,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+324.38,0.39,0.03,0.008,,400.45,916.4,0.9,6.21,0.13,A,592.7,1,32,43,Ge,,139.69,0.03,7/2+,47.7,,5,s,47.7,0.5,B-,0.03,0.006,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+350.45,0.39,0.86,0.1,0.00000000097,198.60,975,20,6.87,0.05,A,629.4,0.6,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+435.52,0.39,87.1,1.3,,0.0,1188,20,5.175,0.007,A,742.9,0.7,32,43,Ge,,0,,1/2-,82.78,,4,m,4966.8,2.4,B-,100,,1177.2,9,33,42,As,30-Jun-2013,ALEXANDRU NEGRET and  BALRAJ SINGH,2025-10-17
+

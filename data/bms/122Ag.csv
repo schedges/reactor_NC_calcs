@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+3390,100,19.96,0.2,,1979.35,7520.62,0.17,5.5,,,4115.75,0.09,47,75,Ag,,0,,(3+),0.529,,13,s,0.529,0.013,B-,99.8,,9510,40,48,74,Cd,30-Sep-2006,T. TAMURA,2025-10-17
+3680,100,16.97,0.17,,1367.8,8132.2,0.3,5.7,,A,4433.26,0.17,47,75,Ag,,0,,(3+),0.529,,13,s,0.529,0.013,B-,99.8,,9510,40,48,74,Cd,30-Sep-2006,T. TAMURA,2025-10-17
+3700,100,12.97,0.13,,1329.15,8170.81,0.12,5.9,,A,4454.56,0.06,47,75,Ag,,0,,(3+),0.529,,13,s,0.529,0.013,B-,99.8,,9510,40,48,74,Cd,30-Sep-2006,T. TAMURA,2025-10-17
+4060,100,49.9,0.5,,569.45,8930.51,0.08,5.4,,A,4850.489,0.045,47,75,Ag,,0,,(3+),0.529,,13,s,0.529,0.013,B-,99.8,,9510,40,48,74,Cd,30-Sep-2006,T. TAMURA,2025-10-17
+

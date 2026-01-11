@@ -1,0 +1,5 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+49,71,In,0,,0,,,1+,1,3.08,,8,s,3.08,0.08,B-,100,,,,,,,,,3.687,0.004,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+49,71,In,1,X,0,,300,(8-),1,47.3,,5,s,47.3,0.5,B-,100,,,,,,,,,,,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+49,71,In,2,,70,60,,(5)+,1,46.2,,8,s,46.2,0.8,B-,100,,,,,,,,,4.289,0.005,,,1-Dec-2001,K. KITAO and  Y. TENDOW AND A. HASHIZUME,2025-10-17
+

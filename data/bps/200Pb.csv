@@ -1,0 +1,10 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,energy_ec,unc_eec,intensity_ec,unc_ie,log_ft,unc_lf,transition_type,nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+,,,,0.0000000071,147.634,648,12,68,3,6.1,0.03,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,289.92,506,12,9.0,1,6.73,0.06,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,605.45,191,12,1.23,0.1,6.49,0.1,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,93960,0,796,12,1.0,,8.4,,1U,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,289.24,507,12,0.6,0.5,7.8,0.4,1U,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,525.54,270,12,14.3,0.5,5.86,0.06,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,257.183,539,12,2.2,0.7,7.41,0.14,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+,,,,,450.56,345,12,5.09,0.18,6.58,0.05,1NU,,,82,118,Pb,,0,,0+,21.5,,4,h,77400,1440,EC,100,,796,12,81,119,Tl,1-Aug-2023,F.G. KONDEV,2025-10-17
+

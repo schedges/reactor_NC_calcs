@@ -1,0 +1,11 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+821.6,9.1,1.2,0.1,,10572,1960,19,3.4,0.05,,1139,10,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+1698.7,7.9,6.7,0.2,,8740.8,3791,16,3.907,0.016,,2094,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+2526.9,8.7,17.3,0.4,,7050.8,5481,16,4.226,0.013,,2956,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+2845.9,8,4.1,0.1,,6403.1,6129,16,5.076,0.013,,3285,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+3818.8,8,10.4,0.8,,4432.4,8099,16,5.24,0.04,,4282,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+4058.8,8,41,1,,3947.6,8584,16,4.763,0.012,A,4526,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+4411.4,8,8.1,0.3,,3235.7,9296,16,5.631,0.017,,4885,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+5285.7,8,1.6,0.7,,1472.2,11059,16,6.7,0.19,1NU,5773,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+6015.6,8,7.5,,26.88,0,12532,16,6.3,,1U,6505,8,7,12,N,,0,,1/2-,336,,3,ms,0.336,0.003,B-,100,,12523,17,8,11,O,31-OCT-1994,TILLEY and  WELLER and  CHEVES and  CHASTELER,2025-10-17
+

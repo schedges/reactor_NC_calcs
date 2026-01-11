@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+98,154,Cf,0,,0,,,0+,1,2.647,,3,Y,83531183.05474502,94670.777923776,A,96.898,0.003,SF,3.102,0.003,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,1,,45.72,0.05,,2+,1,92,,6,ps,0.000000000092,0.000000000006,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,2,,151.73,0.06,,4+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,3,,316.23,0.12,,6+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,4,,536.6,0.3,,8+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,5,,804.82,0.07,,(2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,6,,809.2,0.6,,10+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,7,,830.81,0.07,,(2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,8,,845.72,0.09,,(3+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,9,,867.52,0.07,,(3-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,10,,900.33,0.25,,(4+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,11,,917.03,0.12,,(4-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+98,154,Cf,12,,969.83,0.06,,(3+),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2021,A.M. MATTERA and  S. ZHU and  A.B. HAYES and  E.A. MCCUTCHAN,2025-10-17
+

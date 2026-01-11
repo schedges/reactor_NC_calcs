@@ -1,0 +1,25 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+58.5,2.6,0.1,0.05,,1841.14,217,9,6.09,0.31,,159,7,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+64,2.6,0.016,0.004,,1821.52,236,9,7,1.75,,172,7,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+84.3,2.7,0.101,0.015,,1754.33,304,9,6.55,0.12,A,220,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+118.3,2.9,0.12,0.06,,1644.823,413,9,6.91,0.28,,295,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+126.3,2.9,0.049,0.008,,1619.58,438,9,7.38,0.12,,312,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+147.2,3,0.068,0.01,,1555.94,502,9,7.43,0.1,1NU,356,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+166.2,3,0.12,0.016,,1499.45,559,9,7.34,0.09,,394,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+186.3,3.1,0.33,0.05,,1439.883,618,9,7.05,0.1,A,433,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+188.7,3.1,0.144,0.019,,1432.70,625,9,7.42,0.09,,438,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+199,3.1,0.64,0.09,,1402.541,655,9,6.84,0.09,,457,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+208.4,3.1,0.036,0.006,,1375.72,682,9,8.15,0.11,,475,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+213.7,3.2,0.051,0.008,,1360.83,697,9,8.03,0.1,,485,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+231.7,3.2,0.021,0.005,,1310.19,748,9,8.52,0.13,,518,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+247.8,3.2,0.34,0.05,,1264.99,793,9,7.4,0.09,,547,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+262.2,3.3,0.086,0.014,,1225.21,833,9,8.07,0.1,,573,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+281.6,3.3,0.76,0.1,,1171.53,886,9,7.22,0.09,,607,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+281.9,3.3,0.07,0.04,,1170.886,887,9,8.25,0.305,,607,6,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+336.3,3.4,0.83,0.11,,1024.861,1033,9,7.41,0.08,1NU,700,7,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+583.8,3.4,0.35,0.07,0.000000000135,301.381,1757,9,9.54,0.11,1U,1182,5,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+614.9,3.7,53,8,0.0000000000047,317.283,1741,9,6.43,0.09,A,1132,5,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+645.5,3.7,1.7,0.3,0.0000000000095,242.109,1816,9,7.99,0.1,A,1177,7,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+699.2,3.5,3,3,33.6,0.0,2058,9,8.7,,1U,1371,7,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+699.2,3.7,36,12,0.00000000052,111.117,1947,9,6.78,0.165,1NU,1254,5,87,135,Fr,,0,,2-,14.2,,3,m,852,18,B-,100,,2058,9,88,134,Ra,25-Sep-2023,Balraj Singh and  M.S. Basunia and  Jun Chen et al. and ,2025-10-17
+

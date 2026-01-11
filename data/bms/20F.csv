@@ -1,0 +1,5 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+866.8,1,0.0082,0.0006,,4966.51,2057.96,0.22,7.2,0.04,1NU,1193.7,0.6,9,11,F,,0,,2+,11.07,,6,s,11.07,0.06,B-,100,,7024.469,30,10,10,Ne,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-17
+2481.5,1,99.9913,0.0008,,1633.674,5390.71,0.08,4.9697,0.0011,A,2912.772,0.043,9,11,F,,0,,2+,11.07,,6,s,11.07,0.06,B-,100,,7024.469,30,10,10,Ne,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-17
+3286.2,1,0.001,,,0,7024.34,0.08,10.5,,2NU,3729.588,0.043,9,11,F,,0,,2+,11.07,,6,s,11.07,0.06,B-,100,,7024.469,30,10,10,Ne,21-APR-1997,D. R. TILLEY and  C. CHEVES and  J. KELLEY and  S. RAMAN and  H. WELLER,2025-10-17
+

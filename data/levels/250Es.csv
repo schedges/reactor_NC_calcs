@@ -1,0 +1,4 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+99,151,Es,0,,0,,,(6+),1,8.6,,1,h,30960,360,EC,97,,A,3,,,,,,,,,,1-Aug-2001,Y. Akovali,2025-10-17
+99,151,Es,1,X,0,,200,1(-),1,2.22,,5,h,7992,180,EC,100,,,,,,,,,,,,,1-Aug-2001,Y. Akovali,2025-10-17
+

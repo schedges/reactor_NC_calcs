@@ -1,0 +1,97 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+53,80,I,0,,0,,,7/2+,1,20.83,,8,h,74988,288,B-,100,,,,,,,,,2.856,0.005,-0.23,0.01,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,1,,312.075,0.003,,(5/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,2,,719.843,0.009,,(3/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,3,,786.915,0.007,,(5/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,4,,912.671,0.004,,11/2+,1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,5,,914.811,0.01,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,6,,1239.832,0.024,,(7/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,7,,1307.205,0.016,,(7/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,8,,1312.798,0.01,,(3/2+ 5/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,9,,1333.221,0.013,,(5/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,10,,1373.688,0.01,,(1/2+ 3/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,11,,1454.85,0.05,,(7/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,12,,1516.34,0.05,,(9/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,13,,1560.103,0.01,,15/2+,1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,14,,1564.201,0.011,,(1/2+ 3/2-),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,15,,1608.7,0.4,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,16,,1634.148,0.01,,(19/2-),1,9,,2,s,9,2,IT,100,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,17,,1646.731,0.011,,11/2+,2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,18,,1671.372,0.018,,(3/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,19,,1704.41,0.07,,(9/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,20,,1707.44,0.14,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,21,,1717.586,0.007,,(5/2+),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,22,,1729.137,0.01,,(15/2-),1,170,AP,,ns,0.00000017,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,23,,1776.619,0.009,,(11/2- 13/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,24,,1797.479,0.011,,(11/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,25,,1798.549,0.014,,(15/2- 17/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,26,,1816.67,0.024,,(15/2 17/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,27,,1885.542,0.011,,(11/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,28,,1893.058,0.017,,(11/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,29,,1942.615,0.014,,(11/2- 13/2),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,30,,1945.79,0.2,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,31,,1974.666,0.019,,11/2+,3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,32,,1990.771,0.012,,(11/2- 13/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,33,,2005.14,0.03,,(9/2+),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,34,,2025.48,0.04,,(3/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,35,,2040.39,0.17,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,36,,2049.58,0.04,,(9/2 11/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,37,,2053.5,0.04,,(3/2+),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,38,,2080.99,0.19,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,39,,2136.43,0.03,,(5/2+),5,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,40,,2141.88,0.04,,(9/2- 11/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,41,,2193.62,0.03,,(3/2+ 5/2),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,42,,2205.3,0.22,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,43,,2210.03,0.03,,(3/2+ 5/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,44,,2211.89,0.04,,(13/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,45,,2225.06,0.04,,(5/2+),6,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,46,,2248.551,0.023,,(11/2 13/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,47,,2250.1,1,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,48,,2255.29,0.05,,(3/2+),5,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,49,,2261.622,0.015,,(13/2),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,50,,2266.47,0.09,,(3/2+),6,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,51,,2283.83,0.19,,(1/2+ 3/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,52,,2363.79,0.21,,(3/2+ 5/2),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,53,,2371.642,0.02,,(11/2- 13/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,54,,2372.95,0.06,,(9/2 11/2 13/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,55,,2393.35,0.23,,(3/2+ 5/2),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,56,,2417.48,0.06,,(5/2+),7,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,57,,2419.22,0.1,,(11/2+ 13/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,58,,2426.55,0.21,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,59,,2435,0.23,,(19/2+),1,0.78,,16,us,0.00000078,0.00000016,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,60,,2445.56,0.1,,(13/2),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,61,,2467.28,0.03,,(9/2 11/2 13/2),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,62,,2467.31,0.06,,(3/2+ 5/2),5,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,63,,2482.62,0.24,,(9/2 11/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,64,,2493.12,0.07,,(1/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,65,,2493.7,0.4,,(23/2+),1,469,,15,ns,0.000000469,0.000000015,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,66,,2500.23,0.05,,(9/2 11/2 13/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,67,,2505.96,0.05,,(11/2+ 13/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,68,,2516.4,0.07,,(9/2 11/2 13/2),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,69,,2526.2,0.07,,(3/2+ 5/2),6,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,70,,2541.74,0.03,,(3/2+ 5/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,71,,2552.13,0.1,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,72,,2556.3,0.03,,(13/2),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,73,,2595.871,0.015,,(11/2-),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,74,,2597.47,0.11,,(5/2+),8,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,75,,2661,0.4,,(3/2+ 5/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,76,,2686.06,0.05,,(9/2 11/2 13/2),4,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,77,,2768.21,0.05,,(1/2+ 3/2 5/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,78,,2783.64,0.07,,(9/2 11/2 13/2),5,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,79,,2795.9,0.3,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,80,,2807.93,0.07,,(9/2 11/2 13/2),6,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,81,,2808.36,0.11,,(1/2+ 3/2 5/2+),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,82,,2825.34,0.12,,(3/2+ 5/2),7,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,83,,2826.48,0.22,,(9/2 11/2),1,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,84,,2866.29,0.07,,(1/2+ 3/2 5/2+),2,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,85,,2880.56,0.15,,(9/2 11/2 13/2),7,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,86,,2935.83,0.15,,(1/2+ 3/2 5/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,87,,2968.1,0.4,,(9/2 11/2 13/2),8,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,88,,2974.7,0.7,,(9/2 11/2 13/2),9,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,89,,3028.47,0.13,,(9/2 11/2 13/2),10,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,90,,3051.28,0.08,,(9/2 11/2+),3,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,91,,3107.8,1.1,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,92,,3821.5,1.4,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,93,,3893.5,1.4,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+53,80,I,94,,4047.3,1.5,,,,,,,,,,,,,,,,,,,,,,,,31-Oct-2010,YU. KHAZOV AND A. RODIONOV and  F.G. KONDEV,2025-10-17
+

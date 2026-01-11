@@ -1,0 +1,33 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+50,55,Sn,0,,0,,,(5/2+),1,32.7,,5,s,32.7,0.5,EC+B+,100,,B+P,0.011,0.004,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,1,,199.7,0.3,,(7/2+),1,0.33,,8,ns,0.00000000033,0.00000000008,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,2,,1194,0.3,,(9/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,3,,1393.8,0.4,,(11/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,4,,1848.7,0.4,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,5,,1915.6,0.6,,(13/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,6,,2030.7,0.4,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,7,,2167,0.6,,(15/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,8,,2203.5,0.5,,(17/2+),1,0.38,,5,ns,0.00000000038,0.00000000005,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,9,,3012.9,0.5,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,10,,3283.8,0.6,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,11,,3427,0.6,,(17/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,12,,3755.2,0.9,,(19/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,13,,3831.6,1.1,,(21/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,14,,4082.7,0.8,,(21/2+),3,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,15,,4429.6,0.8,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,16,,4551.5,1,,(23/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,17,,5375.2,1.4,,(19/2+ 21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,18,,5529,0.8,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,19,,5693.3,1.4,,(19/2+ 21/2+),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,20,,5874.1,1.2,,(27/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,21,,6126.3,0.9,,(27/2+),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,22,,6582.7,1.1,,(29/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,23,,7039.5,1.1,,(29/2-),2,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,24,,7340.5,1.1,,(31/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,25,,7728.5,1.5,,(33/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,26,,8194.5,1.8,,(35/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,27,,8680.5,2.1,,(37/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,28,,9136.5,2.3,,(39/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,29,,9692,3,,(41/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+50,55,Sn,30,,10288,3,,(43/2-),1,,,,,,,,,,,,,,,,,,,,,1-Apr-2019,S. LALKOVSKI and  J. TIMAR and Z. ELEKES,2025-10-17
+

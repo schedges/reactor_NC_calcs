@@ -1,0 +1,9 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+3840,120,9.9,1.1,,9.04E3,8150,242,4.7,,,4310,120,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+3853,78,6.9,0.8,,9.02E3,8170,156,4.8,,,4320,80,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+4899,61,4.5,0.6,,6.91E3,10280,122,5.5,,,5380,60,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+4953,70,8.4,0.9,,6.80E3,10390,141,5.2,,,5440,70,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+5280,64,6.3,0.7,,6.14E3,11050,128,5.5,,,5770,70,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+7717,50,3.5,0.4,,1222,15968,100,6.5,,1NU,8240,50,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+8338,50,0.02,,,0,17190,100,9,,1U,8850,50,7,14,N,,0,,(1/2-),84,,7,ms,0.084,0.007,B-,100,,17170,130,8,13,O,15-Jan-2015,R.B. FIRESTONE,2025-10-17
+

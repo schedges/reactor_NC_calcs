@@ -1,0 +1,31 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+26,35,Fe,0,,0,,,(3/2-),1,5.98,,6,m,358.8,3.6,B-,100,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,1,,206.92,0.05,,(5/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,2,,391.3,0.06,,(1/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,3,,629.09,0.07,,(3/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,4,,861.67,0.11,,(9/2+),1,238,,5,ns,0.000000238,0.000000005,IT,100,,,,,,,,,-1.031,0.009,0.44,0.06,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,5,,959.53,0.09,,(7/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,6,,1013.07,0.08,,(1/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,7,,1160.98,0.07,,(5/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,8,,1252.87,0.07,,(3/2-),3,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,9,,1262.47,0.08,,(3/2 5/2 7/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,10,,1477.27,0.11,,(9/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,11,,1650.12,0.17,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,12,,1705.2,0.5,,(1/2- 9/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,13,,1893.12,0.11,,(3/2 5/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,14,,1929.01,0.1,,(3/2 5/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,15,,2143.73,0.07,,(3/2- 5/2-),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,16,,2510.59,0.08,,(3/2- 5/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,17,,2716.98,0.15,,(5/2- 7/2),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,18,,2964.4,0.5,,(3/2 5/2 7/2),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,19,,2992.4,0.5,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,20,,3049.2,0.3,,(5/2- 7/2),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,21,,3079.99,0.22,,(3/2 5/2 7/2-),2,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,22,,3513.5,0.4,,(3/2 5/2-),3,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,23,,3528.6,0.4,,(17/2+ 15/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,24,,3541.2,0.7,,,,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,25,,3714.3,0.7,,,,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,26,,4144.3,0.5,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,27,,4292.2,0.5,,(19/2+ 17/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+26,35,Fe,28,,4675.2,0.6,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,25-Jan-2015,KAZIMIERZ ZUBER and  BALRAJ SINGH,2025-10-16
+

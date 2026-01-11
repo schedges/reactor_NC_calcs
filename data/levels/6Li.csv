@@ -1,0 +1,16 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+3,3,Li,0,,0,,,1+,1,STABLE,,,,,,,,,,,,,,,0,0.822043,0.000003,-0.000806,0.000006,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,1,,2186,2,,3+,1,24,,2,keV,1.9009904794641073e-20,1.584158732886756e-21,IT,,,A,,,,,,0,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,2,,3562.88,0.1,,0+,1,8.2,,2,eV,5.56387457404129e-17,1.3570425790344611e-18,IT,,,,,,,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,3,,4312,22,,2+,1,1.30,,10,MeV,3.5095208851645054e-22,2.699631450126543e-23,IT,,,A,,,,,,0,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,4,,5366,15,,2+,2,541,,20,keV,8.433229483759441e-22,3.1176449108167994e-23,N,,,IT,,,P,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,5,,5650,50,,1+,2,1.5,,2,MeV,3.041584767142571e-22,4.055446356190095e-23,A,,,,,,,,,0,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,6,,15800,,,3+,2,17.8,,8,MeV,2.5631332307381218e-23,1.151969991342976e-24,A,,,,,,,,,0,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,7,,17985,25,,2-,1,3.012,,7,MeV,1.5147334497721968e-22,3.520296862020378e-25,IT,,,3H,,,,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,8,,21500,,,0-,1,,,,,,,3H,,,,,,,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,9,,23000,2000,,4+,1,12.,,2,MeV,3.801980958928214e-23,6.3366349315470234e-24,A,,,,,,,,,0,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,10,,24779,54,,3-,1,6.75,,11,MeV,6.759077260316825e-23,1.1014792572368157e-24,IT,,,3H,,,N,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,11,,24890,55,,4-,1,5.32,,11,MeV,8.575896899838076e-23,1.7732117650041134e-24,3H,,,IT,,,N,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,12,,26590,65,,2-,2,8.68,,13,MeV,5.2561948740943055e-23,7.872181263044467e-25,A,,,IT,,,N,,,1,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+3,3,Li,13,,31000,,,(3+),1,,,,,,,3H,,,A,,,,,,,,,,,23-Aug-2001,HU and  TILLEY and  KELLEY et al.,2025-10-16
+

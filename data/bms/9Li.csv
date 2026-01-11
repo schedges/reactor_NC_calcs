@@ -1,0 +1,8 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+751,9.4,2.7,0.2,1.1405942876784644e-21,11810,1797,20,2.56,0.04,A,1046,11,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+998,11,1.1,0.2,7.93456895776323e-22,11282,2325,22,3.43,0.08,2NU,1301,12,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+2623,40,1.5,0.5,4.562377150713857e-22,7940,5666,80,5.04,0.15,A,3047,41,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+5180,60,15.8,3,4.1476155915580514e-22,2.78E+3,10826,120,5.34,0.09,A,5650,60,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+5353.8,1.2,29.7,3,5.849201475274176e-19,2429.4,11176.6,2.3,5.13,0.05,A,5825.1,1.2,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+6561.93,0.95,49.2,0.9,,0.0,13605.9,1.9,5.325,0.008,A,7045.8,1,3,6,Li,,0,,3/2-,178.3,,4,ms,0.1783,0.0004,B-,100,,13606.45,20,4,5,Be,31-Mar-2004,J.H. KELLEY and  C.G. SHEU and  J.L. GODWIN and  ET AL.,2025-10-17
+

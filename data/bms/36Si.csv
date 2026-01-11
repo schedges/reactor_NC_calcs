@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+2549,29,48,6,,2281.0,5552,58,4.01,0.09,A,3002,30,14,22,Si,,0,,0+,0.45,,6,s,0.45,0.06,B-,100,,7810,70,15,21,P,31-Dec-2011,NINEL NICA and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+3009,29,3,,,1346.3,6487,58,5.5,,,3479,31,14,22,Si,,0,,0+,0.45,,6,s,0.45,0.06,B-,100,,7810,70,15,21,P,31-Dec-2011,NINEL NICA and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+3030,29,37,4,,1303.1,6530,58,4.45,0.08,A,3500,30,14,22,Si,,0,,0+,0.45,,6,s,0.45,0.06,B-,100,,7810,70,15,21,P,31-Dec-2011,NINEL NICA and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+3462,29,15,9,,424.9,7408,58,5.1,0.3,A,3946,30,14,22,Si,,0,,0+,0.45,,6,s,0.45,0.06,B-,100,,7810,70,15,21,P,31-Dec-2011,NINEL NICA and  JOHN CAMERON AND BALRAJ SINGH,2025-10-17
+

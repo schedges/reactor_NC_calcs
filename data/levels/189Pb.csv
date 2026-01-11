@@ -1,0 +1,27 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+82,107,Pb,0,,0,,,(3/2-),1,39,,8,s,39,8,EC+B+,100,,A,0.4,,,,,,-1.077,0.009,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,1,,40,4,,(13/2+),1,50,,3,s,50,3,EC+B+,100,,A,0.4,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,2,,549,1,,(3/2-),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,3,,677.6,0.23,,(13/2+),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,4,,858.8,0.1,,(17/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,5,,950.56,0.17,,(15/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,6,,1181.59,0.15,,(17/2+),2,6.9,LT,,ns,0.0000000069,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,7,,1327.25,0.13,,(21/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,8,,1340.11,0.17,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,9,,1607.45,0.15,,(21/2+),2,2.8,LT,,ns,0.0000000028,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,10,,1813,0.4,,(23/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,11,,1865.43,0.16,,(25/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,12,,2137.83,0.16,,(25/2+),2,2.1,LT,,ns,0.0000000021,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,13,,2280.36,0.23,,(27/2+),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,14,,2474.53,0.18,,(31/2-),1,22.2,,+69-14,us,0.0000222,0.00000415,IT,100,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,15,,2476.4,0.5,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,16,,2654.3,0.4,,(33/2),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,17,,2680.93,0.2,,(33/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,18,,3069.7,0.3,,(35/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,19,,3142.4,0.7,,,,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,20,,3229,1.1,,(33/2-),2,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,21,,3488.4,0.5,,(37/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,22,,3923.4,0.6,,(39/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,23,,4336.6,0.6,,(41/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+82,107,Pb,24,,4671.7,0.9,,(43/2-),1,,,,,,,,,,,,,,,,,,,,,15-Apr-2017,T.D. JOHNSON and  BALRAJ SINGH,2025-10-17
+

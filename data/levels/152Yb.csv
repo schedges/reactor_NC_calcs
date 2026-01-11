@@ -1,0 +1,9 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+70,82,Yb,0,,0,,,0+,1,3.03,,6,s,3.03,0.06,EC+B+,100,,B+P,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,1,,1531.4,0.5,,2+,1,,,,,,,,,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,2,,1890.1,0.6,,(3)-,1,,,,,,,,,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,3,,2202.7,0.7,,(5)-,1,,,,,,,,,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,4,,2550.1,0.7,,(7)-,1,,,,,,,,,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,5,,2689.9,0.8,,(8)+,1,,,,,,,,,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+70,82,Yb,6,,2744.5,,,(10+),1,30,,1,us,0.00003,0.000001,IT,100,,,,,,,,,,,,,31-Aug-2013,M. J. MARTIN,2025-10-17
+

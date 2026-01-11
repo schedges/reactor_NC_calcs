@@ -1,0 +1,6 @@
+mean_energy,unc_me,intensity_beta,unc_ib,daughter_level_hl,daughter_level_energy,max_energy,unc_me,log_ft,unc_lf,transition_type,anti_nu_mean_energy,unc_ame,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+119.4,0.9,7,3,0.00000000087,618.92,404,,8.3,0.25,1NU,291.4,1.4,72,109,Hf,,0,,1/2-,42.39,,6,d,3662496,5184,B-,100,,1036.1,19,73,108,Ta,31-Aug-2005,S. -C. WU,2025-10-17
+120.7,0.9,93,3,0.0000176,615.12,405,5,7.18,0.02,1NU,293.9,1.4,72,109,Hf,,0,,1/2-,42.39,,6,d,3662496,5184,B-,100,,1036.1,19,73,108,Ta,31-Aug-2005,S. -C. WU,2025-10-17
+165.6,0.9,0.5,,0.0000000108,482.10,547,20,9.9,,1U,372.7,1.5,72,109,Hf,,0,,1/2-,42.39,,6,d,3662496,5184,B-,100,,1036.1,19,73,108,Ta,31-Aug-2005,S. -C. WU,2025-10-17
+345,1.1,0.0007,,,0.0,1045,30,13.7,,3NU,672.4,2.7,72,109,Hf,,0,,1/2-,42.39,,6,d,3662496,5184,B-,100,,1036.1,19,73,108,Ta,31-Aug-2005,S. -C. WU,2025-10-17
+

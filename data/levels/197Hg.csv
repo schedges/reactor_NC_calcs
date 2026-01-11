@@ -1,0 +1,63 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+80,117,Hg,0,,0,,,1/2-,1,64.14,,5,h,230904,180,EC,100,,,,,,,,,0.5274,0.0006,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,1,,133.96,0.04,,5/2-,1,8.07,,16,ns,0.00000000807,0.00000000016,,,,,,,,,,,0.855,0.015,0.081,0.006,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,2,,152.14,0.04,,(3/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,3,,250,1,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,4,,298.93,0.08,,13/2+,1,23.8,,1,h,85680,360,IT,91.4,0.7,EC,8.6,0.7,,,,,-1.0278,0.0012,1.25,0.03,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,5,,307.77,0.06,,(5/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,6,,308.5,0.06,,(3/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,7,,477.72,0.13,,9/2+ 11/2+ 13/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,8,,509,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,9,,557.77,0.12,,(5/2- 7/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,10,,578,0.06,,(3/2)-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,11,,585.38,0.06,,(3/2)-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,12,,652.7,0.3,,17/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,13,,675,3,,(5/2- 7/2-),2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,14,,676.75,0.24,,1/2- 3/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,15,,715.36,0.11,,9/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,16,,792.04,0.05,,1/2- 3/2-,2,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,17,,829.07,0.16,,11/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,18,,892.53,0.06,,(3/2)-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,19,,903.6,0.3,,(7/2)-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,20,,921.68,0.21,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,21,,940.72,0.24,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,22,,982.89,0.07,,1/2- 3/2-,3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,23,,1009.32,0.07,,(1/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,24,,1026.24,0.2,,15/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,25,,1032.02,0.24,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,26,,1120,5,,(5/2- 7/2-),3,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,27,,1128.56,0.23,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,28,,1145.24,0.17,,(1/2- 3/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,29,,1174.95,0.18,,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,30,,1180,5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,31,,1259.3,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,32,,1273.5,0.3,,21/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,33,,1306,6,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,34,,1343.9,0.3,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,35,,1381.66,0.23,,13/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,36,,1437.64,0.06,,1/2- 3/2-,4,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,37,,1536.8,0.4,,(19/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,38,,1563.43,0.06,,1/2- 3/2-,5,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,39,,1634.3,0.3,,(21/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,40,,1634.6,1.1,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,41,,1682.2,0.3,,21/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,42,,1693.73,0.06,,1/2(-) 3/2(-),1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,43,,1702.2,0.4,,(17/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,44,,1833,0.4,,25/2-,1,1.13,,6,ns,0.00000000113,0.00000000006,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,45,,1865,8,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,46,,1919,8,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,47,,1955.8,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,48,,2037,0.4,,25/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,49,,2081,9,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,50,,2095.9,0.4,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,51,,2161.6,0.5,,29/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,52,,2196.2,0.5,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,53,,2228.6,1.1,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,54,,2253,9,,,,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,55,,2295.6,0.4,,(23/2)+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,56,,2710.4,0.4,,29/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,57,,2768.6,0.5,,33/2-,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,58,,3045.1,0.5,,33/2+,1,0.2,LE,,ns,0.0000000002,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,59,,3464,0.5,,37/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+80,117,Hg,60,,4061.2,0.6,,41/2+,1,,,,,,,,,,,,,,,,,,,,,1-Jan-2002,HUANG XIAOLONG and  ZHOU CHUNMEI,2025-10-17
+

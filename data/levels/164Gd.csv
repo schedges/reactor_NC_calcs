@@ -1,0 +1,12 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+64,100,Gd,0,,0,,,0+,1,45,,3,s,45,3,B-,100,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,1,,73.27,0.05,,(2+),1,2.77,,14,ns,0.00000000277,0.00000000014,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,2,,241.4,0.4,,(4+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,3,,502.7,0.5,,(6+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,4,,851.7,0.6,,(8+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,5,,1035.4,0.4,,(3+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,6,,1095.8,0.4,,(4-),1,0.580,,23,us,0.00000058,0.000000023,IT,100,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,7,,1283,0.7,,(10+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,8,,1793.6,0.7,,(12+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+64,100,Gd,9,,2376.4,0.8,,(14+),1,,,,,,,,,,,,,,,,,,,,,30-Nov-2017,BALRAJ SINGH AND JUN CHEN{+#},2025-10-17
+

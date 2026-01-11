@@ -1,0 +1,15 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+79,96,Au,0,,0,,,(1/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,1,X,0,,167,(11/2-),1,156,,5,ms,0.156,0.005,A,94,,EC+B+,6,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,2,X,887.5,,167,(13/2-),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,3,X,976.7,,167,(13/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,4,X,1270.9,,167,(17/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,5,X,1593.8,,167,(21/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,6,X,1973.9,,167,(25/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,7,X,2422.1,,167,(29/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,8,X,2935.8,,167,(33/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,9,X,3509.8,,167,(37/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,10,X,4134.4,,167,(41/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,11,X,4778.1,,167,(45/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+79,96,Au,12,X,5430.1,,167,(49/2+),1,,,,,,,,,,,,,,,,,,,,,1-Jun-2004,M. SHAMSUZZOHA BASUNIA,2025-10-17
+

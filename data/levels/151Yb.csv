@@ -1,0 +1,13 @@
+z,n,symbol,idx,energy_shift,energy,unc_e,ripl_shift,jp,jp_order,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hl,decay_1,decay_1_%,unc_1,decay_2,decay_2_%,unc_2,decay_3,decay_3_%,unc_3,isospin,magnetic_dipole,unc_mn,electric_quadrupole,unc_eq,ENSDF_publication_cut-off,ENSDF_authors,Extraction_date
+70,81,Yb,0,,0,,,(1/2+),1,1.6,,1,s,1.6,0.1,EC+B+,100,,ECP,0,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,1,X,0,,750,(11/2-),1,1.6,,1,s,1.6,0.1,EC+B+,100,,IT,0.4,,ECP,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,2,X,1531.3,,750,(15/2-),1,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,3,X,1734.7,,750,(17/2+),1,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,4,X,1791.2,,750,,,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,5,Y,1791.2,,658.8,,,2.6,,7,us,0.0000026,0.0000007,IT,100,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,6,Z,1791.2,,92,,,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,7,Z,1993.2,,92,,,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,8,Z,2165.4,,92,,,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,9,Z,2391,,92,(23/2-),1,,,,,,,,,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+70,81,Yb,10,Z,2448,,92,(27/2-),1,20,,1,us,0.00002,0.000001,IT,100,,,,,,,,,,,,,20-Nov-2008,BALRAJ SINGH,2025-10-17
+
